@@ -1,0 +1,1376 @@
+[
+  {
+    "id": "mark-normand",
+    "slug": "mark-normand",
+    "name": "Mark Normand",
+    "bio": "Mark Normand is a stand-up comedian, actor, and podcast co-host based in New York. He co-hosts Tuesdays with Stories! and We Might Be Drunk. His Netflix special None Too Pleased recently hit number 5 on the platform.",
+    "website": "https://www.marknormandcomedy.com",
+    "youtube": "https://www.youtube.com/@marknormand",
+    "twitter": "https://twitter.com/marknormandcomd",
+    "instagram": "",
+    "latestProject": "None Too Pleased — Netflix Special (2026)",
+    "episodeSlugs": [
+      "2471-mark-normand"
+    ]
+  },
+  {
+    "id": "pierre-poilievre",
+    "slug": "pierre-poilievre",
+    "name": "Pierre Poilievre",
+    "bio": "Pierre Poilievre is the leader of the Conservative Party of Canada and a member of Parliament. He has been a vocal critic of the Trudeau government and is a frontrunner for the next Canadian federal election.",
+    "website": "https://www.pierrepoilievre.ca",
+    "youtube": "",
+    "twitter": "https://twitter.com/PierrePoilievre",
+    "instagram": "",
+    "latestProject": "Leader of the Conservative Party of Canada",
+    "episodeSlugs": [
+      "2470-pierre-poilievre"
+    ]
+  },
+  {
+    "id": "brigham-buhler",
+    "slug": "brigham-buhler",
+    "name": "Brigham Buhler",
+    "bio": "Brigham Buhler is the founder and CEO of Ways2Well, a functional and regenerative care clinic, and owner of ReviveRx Pharmacy.",
+    "website": "https://www.ways2well.com",
+    "youtube": "",
+    "twitter": "https://www.reviverx.com",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2469-brigham-buhler"
+    ]
+  },
+  {
+    "id": "dustin-poirier",
+    "slug": "dustin-poirier",
+    "name": "Dustin Poirier",
+    "bio": "Joe sits down with Dustin Poirier, a mixed martial artist, entrepreneur, and philanthropist.",
+    "website": "https://www.ufc.com/athlete/dustin-poirier",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "176-dustin-poirier"
+    ]
+  },
+  {
+    "id": "luke-grimes",
+    "slug": "luke-grimes",
+    "name": "Luke Grimes",
+    "bio": "Luke Grimes is an actor and musician who stars as Kayce Dutton in the “Yellowstone” spin-off series “Marshals,” airing Sundays at 8 PM Pacific / 7 PM Central on CBS and available to stream on Paramount+. His new album, “Red Bird,” will be released on April 3.",
+    "website": "https://www.cbs.com/shows/marshals",
+    "youtube": "https://www.youtube.com/@LukeGrimes",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2468-luke-grimes"
+    ]
+  },
+  {
+    "id": "michael-pollan",
+    "slug": "michael-pollan",
+    "name": "Michael Pollan",
+    "bio": "Michael Pollan is an author and journalist whose books include “The Omnivore’s Dilemma,” “In Defense of Food,” and “How to Change Your Mind.\" His most recent is “A World Appears: A Journey into Consciousness.\"",
+    "website": "https://www.penguinrandomhouse.com/books/646644/a-world-appears-by-michael-pollan",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2467-michael-pollan"
+    ]
+  },
+  {
+    "id": "francis-foster-konstantin-kisin",
+    "slug": "francis-foster-konstantin-kisin",
+    "name": "Francis Foster & Konstantin Kisin",
+    "bio": "Francis Foster is a comic and author of \"(Un)educated.\" Konstantin Kisin is a political commentator and author of \"An Immigrant's Love Letter to the West.\" Together, they host the podcast \"Triggernometry.\"",
+    "website": "https://www.subfrancis.co.uk",
+    "youtube": "https://www.youtube.com/@triggerpod",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2466-francis-foster-konstantin-kisin",
+      "2398-francis-foster-konstantin-kisin"
+    ]
+  },
+  {
+    "id": "michael-shellenberger",
+    "slug": "michael-shellenberger",
+    "name": "Michael Shellenberger",
+    "bio": "Michael Shellenberger is an author, journalist, and founder of Civilization Works. He is the CBR Chair of Politics, Censorship, and Free Speech at the University of Austin. His books include “Apocalypse Never\" and “San Fransicko.\"",
+    "website": "https://www.public.news",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2465-michael-shellenberger"
+    ]
+  },
+  {
+    "id": "shakur-stevenson",
+    "slug": "shakur-stevenson",
+    "name": "Shakur Stevenson",
+    "bio": "Joe sits down with Shakur Stevenson, a professional boxer, four-time world champion, and Olympic medalist.",
+    "website": "https://www.boxrec.com/en/box-pro/790719",
+    "youtube": "https://www.youtube.com/@ShakurStevensonTV",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "175-shakur-stevenson"
+    ]
+  },
+  {
+    "id": "priyanka-chopra-jonas",
+    "slug": "priyanka-chopra-jonas",
+    "name": "Priyanka Chopra Jonas",
+    "bio": "Priyanka Chopra Jonas is an actor, producer, entrepreneur and former Miss World. She stars in the ongoing series “Citadel” and the film “The Bluff,” both streaming on Prime Video.",
+    "website": "https://www.amazon.com/gp/video/detail/B0G565KPS4",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2464-priyanka-chopra-jonas"
+    ]
+  },
+  {
+    "id": "steve-o",
+    "slug": "steve-o",
+    "name": "Steve-O",
+    "bio": "Steve-O is a stunt performer, comedian, television personality, and host of the “Wild Ride! with Steve-O” podcast. He is currently performing live on the “Crash and Burn!” tour.",
+    "website": "https://www.steveo.com",
+    "youtube": "https://www.youtube.com/@steveo",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2463-steve-o"
+    ]
+  },
+  {
+    "id": "aaron-siri",
+    "slug": "aaron-siri",
+    "name": "Aaron Siri",
+    "bio": "Aaron Siri is an attorney and managing partner of Siri & Glimstad LLP, where he focuses on civil litigation, constitutional law, and vaccine-related injury claims. He is the host of the podcast “Informed with Aaron Siri” and the author of “Vaccines, Amen: The Religion of Vaccines.”",
+    "website": "https://www.aaronsiri.substack.com",
+    "youtube": "https://www.youtube.com/@AaronSiriSG",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2462-aaron-siri"
+    ]
+  },
+  {
+    "id": "robert-f-kennedy-jr",
+    "slug": "robert-f-kennedy-jr",
+    "name": "Robert F. Kennedy, Jr.",
+    "bio": "Robert F. Kennedy Jr. is the United States Secretary of Health and Human Services, founder of the Waterkeeper Alliance and Children’s Health Defense, and an attorney and author.",
+    "website": "https://www.hhs.gov/about/leadership/robert-kennedy.html",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2461-robert-f-kennedy-jr"
+    ]
+  },
+  {
+    "id": "rachel-wilson",
+    "slug": "rachel-wilson",
+    "name": "Rachel Wilson",
+    "bio": "Rachel Wilson is a writer, cultural commentator, and media personality. She is the author of “Occult Feminism: The Secret History of Women’s Liberation.”",
+    "website": "https://www.linktr.ee/RachelLWilson",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2460-rachel-wilson"
+    ]
+  },
+  {
+    "id": "terence-crawford",
+    "slug": "terence-crawford",
+    "name": "Terence Crawford",
+    "bio": "Joe sits down with retired boxer Terence Crawford, a three-division undisputed champion who retired 42–0.",
+    "website": "https://www.tbudcrawford.com",
+    "youtube": "https://www.youtube.com/@TBudCrawfordOfficial",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "174-terence-crawford"
+    ]
+  },
+  {
+    "id": "jim-breuer",
+    "slug": "jim-breuer",
+    "name": "Jim Breuer",
+    "bio": "Jim Breuer is a stand-up comedian, actor, and host of “The Breuniverse Podcast.” He is touring in 2026 with the “Find the Funny” tour.",
+    "website": "https://www.jimbreuer.com/",
+    "youtube": "https://www.youtube.com/@JimBreuer",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2459-jim-breuer"
+    ]
+  },
+  {
+    "id": "matt-mccusker",
+    "slug": "matt-mccusker",
+    "name": "Matt McCusker",
+    "bio": "Matt McCusker is a comedian, writer, actor, and co-host of “Matt and Shane’s Secret Podcast” with Shane Gillis. His most recent special, “Matt McCusker: A Humble Offering,” is streaming on Netflix.",
+    "website": "https://www.mssecretpodcast.com",
+    "youtube": "https://www.youtube.com/@mattmccusker9943",
+    "twitter": "https://www.netflix.com/title/82014936",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2458-matt-mccusker"
+    ]
+  },
+  {
+    "id": "michael-malice",
+    "slug": "michael-malice",
+    "name": "Michael Malice",
+    "bio": "Michael Malice is a cultural commentator, author, and host of the “Your Welcome” podcast. His next book is the graphic novel \"Unwanted.\"",
+    "website": "https://unwantedbook.com",
+    "youtube": "https://www.youtube.com/@MichaelMaliceofficial",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2457-michael-malice"
+    ]
+  },
+  {
+    "id": "michael-jai-white",
+    "slug": "michael-jai-white",
+    "name": "Michael Jai White",
+    "bio": "Michael Jai White is an actor, director, writer, and martial artist. His latest film, “Oscar Shaw,” is available to stream on digital platforms.",
+    "website": "https://www.patreon.com/MichaelJaiWhite",
+    "youtube": "https://www.youtube.com/@RealMichaelJaiWhite",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2456-michael-jai-white"
+    ]
+  },
+  {
+    "id": "donnell-rawlings",
+    "slug": "donnell-rawlings",
+    "name": "Donnell Rawlings",
+    "bio": "Donnell Rawlings is a comedian, actor, and host of “The Donnell Rawlings Show” podcast. His most recent special, “Chappelle’s Home Team Presents: Donnell Rawlings: A New Day,” is streaming on Netflix.",
+    "website": "https://www.donnellrawlings.com",
+    "youtube": "https://www.youtube.com/@thedonnellrawlingsshow",
+    "twitter": "https://www.netflix.com/title/81507172",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2455-donnell-rawlings"
+    ]
+  },
+  {
+    "id": "robert-malone-md",
+    "slug": "robert-malone-md",
+    "name": "Robert Malone, MD",
+    "bio": "Robert W. Malone, MD, MS, is a virologist and immunologist and an original inventor of mRNA delivery and vaccination as a technology, DNA vaccination, and multiple non-viral DNA and RNA/mRNA platform delivery technologies. He serves on the Centers for Disease Control and Prevention’s Advisory Committee on Immunization Practices and is the author of multiple books, the most recent of which is “PsyWar: Enforcing the New World Order,” co-written with his wife, Dr. Jill Glasspool Malone. The Drs. Malone are the founders of the Malone Institute, which focuses on issues related to government, the biological sciences, and medicine.",
+    "website": "https://www.skyhorsepublishing.com/9781510782952/psywar/",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2454-robert-malone-md"
+    ]
+  },
+  {
+    "id": "evan-hafer",
+    "slug": "evan-hafer",
+    "name": "Evan Hafer",
+    "bio": "Evan Hafer is a Special Forces veteran, founder, and executive chairman of Black Rifle Coffee Company, and one of the hosts of the “Black Rifle Coffee Podcast.”",
+    "website": "https://www.blackriflecoffee.com",
+    "youtube": "https://www.youtube.com/@BlackRifleCoffeeCompany",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2453-evan-hafer"
+    ]
+  },
+  {
+    "id": "roger-avary",
+    "slug": "roger-avary",
+    "name": "Roger Avary",
+    "bio": "Roger Avary is a director, producer, and Academy Award-winning screenwriter known for “Pulp Fiction,” which he co-wrote with Quentin Tarantino, as well as “The Rules of Attraction” and “Killing Zoe.” He is the co-host, along with Tarantino, of “The Video Archives Podcast.”",
+    "website": "https://www.patreon.com/videoarchives",
+    "youtube": "https://www.youtube.com/@videoarchivespodcast",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2452-roger-avary"
+    ]
+  },
+  {
+    "id": "cheryl-hines",
+    "slug": "cheryl-hines",
+    "name": "Cheryl Hines",
+    "bio": "Cheryl Hines is an Emmy Award-nominated actress, director, producer, and comedian. While she is best known for her role as Cheryl David on the HBO series “Curb Your Enthusiasm,” Hines has appeared in numerous films and television series over a career spanning more than 30 years, and is married to U.S. Secretary of Health and Human Services Robert F. Kennedy Jr.  Her book, “Unscripted,” is available now.",
+    "website": "https://www.skyhorsepublishing.com/9781944824365/unscripted/",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2451-cheryl-hines"
+    ]
+  },
+  {
+    "id": "tommy-wood",
+    "slug": "tommy-wood",
+    "name": "Tommy Wood",
+    "bio": "Tommy Wood, PhD, is a neuroscientist and athletic performance coach. He is a host of the “Better Brain Fitness” podcast and author of “The Stimulated Mind: Future-Proof Your Brain from Dementia and Stay Sharp at Any Age,” which will be released March 24 and is available for preorder now.",
+    "website": "https://www.penguinrandomhouse.com/books/751292/the-stimulated-mind-by-dr-tommy-wood/",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2450-tommy-wood"
+    ]
+  },
+  {
+    "id": "raul-bilecky",
+    "slug": "raul-bilecky",
+    "name": "Raul Bilecky",
+    "bio": "Raul Bilecky is a researcher, explorer, and creator of the YouTube channel “Pillars of the Past.”",
+    "website": "https://www.patreon.com/PillarsofthePast",
+    "youtube": "https://www.youtube.com/@PillarsofthePast101",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2449-raul-bilecky"
+    ]
+  },
+  {
+    "id": "andrew-doyle",
+    "slug": "andrew-doyle",
+    "name": "Andrew Doyle",
+    "bio": "Andrew Doyle is a writer, broadcaster, and comedian. He is the author of several books, including his most recent, “The End of Woke: How the Culture War Went Too Far and What to Expect from the Counter-Revolution.”",
+    "website": "https://www.andrewdoyle.org",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2448-andrew-doyle"
+    ]
+  },
+  {
+    "id": "mike-benz",
+    "slug": "mike-benz",
+    "name": "Mike Benz",
+    "bio": "Mike Benz is the Executive Director of the Foundation for Freedom Online and a former official with the U.S. Department of State.",
+    "website": "https://www.foundationforfreedomonline.com",
+    "youtube": "https://www.youtube.com/@MikeBenzCyberOfficial",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2447-mike-benz"
+    ]
+  },
+  {
+    "id": "greg-fitzsimmons",
+    "slug": "greg-fitzsimmons",
+    "name": "Greg Fitzsimmons",
+    "bio": "Greg Fitzsimmons is a comedian, actor, and writer, host of “Fitzdog Radio,” and co-host of “Sunday Papers” and “Childish.” He will be touring in 2026.",
+    "website": "https://www.sundaypapers.net",
+    "youtube": "https://www.youtube.com/@GregFitzsimmonsComedy",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2446-greg-fitzsimmons"
+    ]
+  },
+  {
+    "id": "bert-kreischer",
+    "slug": "bert-kreischer",
+    "name": "Bert Kreischer",
+    "bio": "Bert Kreischer is a comedian, actor, host of “The Bertcast” and “Something’s Burning,” and co-host of “2 Bears, 1 Cave” with Tom Segura. His new show, “Free Bert,” is streaming on Netflix. He will be touring in 2026 with the “Permission to Party” tour.",
+    "website": "https://www.ymhstudios.com/2bears/",
+    "youtube": "https://www.youtube.com/@bertkreischer",
+    "twitter": "https://www.netflix.com/title/81696123",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2445-bert-kreischer"
+    ]
+  },
+  {
+    "id": "andrew-wilson",
+    "slug": "andrew-wilson",
+    "name": "Andrew Wilson",
+    "bio": "Andrew Wilson has participated in thousands of debates on political, cultural, and religious topics. He is the host of “The Crucible” and proprietor of its associated online school, Debate University.",
+    "website": "https://www.rumble.com/c/TheCrucible",
+    "youtube": "https://www.youtube.com/@The_Crucible",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2444-andrew-wilson"
+    ]
+  },
+  {
+    "id": "filippo-biondi",
+    "slug": "filippo-biondi",
+    "name": "Filippo Biondi",
+    "bio": "Filippo Biondi, PhD is an engineer and signal processing researcher who was part of a team that discovered unusual signal patterns beneath Egypt’s Giza Pyramid complex using advanced radar imaging technology.",
+    "website": "https://www.harmonicsar.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2443-filippo-biondi"
+    ]
+  },
+  {
+    "id": "ehsan-ahmad",
+    "slug": "ehsan-ahmad",
+    "name": "Ehsan Ahmad",
+    "bio": "Ehsan Ahmad is a comedian and co-host of \"The Solid Show\" with Deric Poston. His new comedy special, \"Ehsan Ahmad: Too Soon,\" is streaming on YouTube.",
+    "website": "https://youtu.be/m6weMUz0lqA?si=mLbn1S0fCogIg0mj",
+    "youtube": "https://www.youtube.com/@TheSolidShow2024",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2442-ehsan-ahmad"
+    ]
+  },
+  {
+    "id": "benny-the-jet-urquidez-william-blinky-rodriguez",
+    "slug": "benny-the-jet-urquidez-william-blinky-rodriguez",
+    "name": "Benny \"The Jet\" Urquidez & William \"Blinky\" Rodriguez",
+    "bio": "Joe sits down with retired kickboxer, martial arts choreographer, and actor Benny “The Jet” Urquidez, and his brother-in-law, kickboxer, martial arts instructor, and community leader William “Blinky” Rodriguez.",
+    "website": "https://www.bennythejet.teachable.com",
+    "youtube": "https://www.youtube.com/@BennyTheJetUrquidez",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "173-benny-the-jet-urquidez-william-blinky-rodriguez"
+    ]
+  },
+  {
+    "id": "paul-rosolie",
+    "slug": "paul-rosolie",
+    "name": "Paul Rosolie",
+    "bio": "Paul Rosolie is a conservationist, filmmaker, author, and founder of Junglekeepers. His new book, “Junglekeeper: What It Takes to Change the World,” is out now.",
+    "website": "https://www.penguinrandomhouse.com/books/783873/junglekeeper-by-paul-rosolie/",
+    "youtube": "https://www.youtube.com/@Junglekeeper",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2441-paul-rosolie"
+    ]
+  },
+  {
+    "id": "matt-damon-ben-affleck",
+    "slug": "matt-damon-ben-affleck",
+    "name": "Matt Damon & Ben Affleck",
+    "bio": "Matt Damon and Ben Affleck are Academy Award-winning actors, writers, producers, and creative partners who have collaborated on over a dozen films. Their latest film, “The Rip,” premieres January 16 on Netflix.",
+    "website": "",
+    "youtube": "",
+    "twitter": "https://www.netflix.com/title/81915745",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2440-matt-damon-ben-affleck"
+    ]
+  },
+  {
+    "id": "johnny-knoxville",
+    "slug": "johnny-knoxville",
+    "name": "Johnny Knoxville",
+    "bio": "Johnny Knoxville is a stunt performer, actor, co-creator of the “Jackass” franchise, and host of “Fear Factor: House of Fear.” The series premieres Wednesday, January 14, at 9/8c on FOX and streams the next day on Hulu.",
+    "website": "https://youtu.be/bwSQms7eyVM?si=GelPfF28gflbjhum",
+    "youtube": "",
+    "twitter": "https://www.fox.com/detail/series/SER262489TTWV/fear-factor-house-of-fear",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2439-johnny-knoxville"
+    ]
+  },
+  {
+    "id": "john-mellencamp",
+    "slug": "john-mellencamp",
+    "name": "John Mellencamp",
+    "bio": "John Mellencamp is a Grammy Award-winning singer-songwriter, musician, painter, and a 2008 inductee of the Rock and Roll Hall of Fame. He has released more than two dozen albums over his career, including 2023’s “Orpheus Descending.” Mellencamp will embark on a landmark tour this summer, “Dancing Words Tour — The Greatest Hits,” which will take place across 19 U.S. cities.",
+    "website": "https://www.mellencamp.com/tour",
+    "youtube": "https://www.youtube.com/@JohnMellencamp",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2438-john-mellencamp"
+    ]
+  },
+  {
+    "id": "rand-paul",
+    "slug": "rand-paul",
+    "name": "Rand Paul",
+    "bio": "U.S. Senator Rand Paul",
+    "website": "https://www.paul.senate.gov",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2437-rand-paul"
+    ]
+  },
+  {
+    "id": "whitney-cummings",
+    "slug": "whitney-cummings",
+    "name": "Whitney Cummings",
+    "bio": "Whitney Cummings is a comedian, actor, author, and host of the “Good for You” podcast. Her latest special, “Mouthy,” is streaming on YouTube. She also appears as a panelist on CBS’s “Hollywood Squares” and is touring in 2026.",
+    "website": "https://punchup.live/whitneycummings/tickets#tour",
+    "youtube": "https://www.youtube.com/@whitneycummings",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2436-whitney-cummings"
+    ]
+  },
+  {
+    "id": "bradley-cooper",
+    "slug": "bradley-cooper",
+    "name": "Bradley Cooper",
+    "bio": "Bradley Cooper is an Academy Award-nominated actor, writer, producer, and director. His film credits include “American Sniper,” “A Star Is Born,” and “The Hangover.” His latest film, “Is This Thing On?,” which he directed and co-stars in, is now in theaters.",
+    "website": "https://www.searchlightpictures.com/is-this-thing-on",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2435-bradley-cooper"
+    ]
+  },
+  {
+    "id": "kurt-metzger",
+    "slug": "kurt-metzger",
+    "name": "Kurt Metzger",
+    "bio": "Kurt Metzger is a comedian, writer, and host of \"The Derp with Kurp\" podcast.",
+    "website": "https://www.kurtmetzgercomedy.com",
+    "youtube": "https://www.youtube.com/@kurtmetzgercomedy",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2434-kurt-metzger"
+    ]
+  },
+  {
+    "id": "gable-steveson",
+    "slug": "gable-steveson",
+    "name": "Gable Steveson",
+    "bio": "Joe sits down with Gable Steveson, a mixed martial artist, wrestler, boxer, and Olympic gold medalist.",
+    "website": "https://www.gablesteveson.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "172-gable-steveson"
+    ]
+  },
+  {
+    "id": "james-mccann",
+    "slug": "james-mccann",
+    "name": "James McCann",
+    "bio": "James Donald Forbes McCann is a comedian, author, and host of “The James Donald Forbes McCann Catamaran Plan.\" His latest special, \"James Donald Forbes McCann: Black Israelite,\" is streaming on YouTube.",
+    "website": "https://www.jdfmccann.com",
+    "youtube": "https://www.youtube.com/@JamesDonaldForbesMcCann",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2433-james-mccann"
+    ]
+  },
+  {
+    "id": "josh-dubin",
+    "slug": "josh-dubin",
+    "name": "Josh Dubin",
+    "bio": "Josh Dubin is the Executive Director of the Perlmutter Center for Legal Justice, a criminal justice reform advocate, and civil rights attorney.",
+    "website": "https://cardozo.yu.edu/directory/josh-dubin",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2432-josh-dubin"
+    ]
+  },
+  {
+    "id": "shane-gillis",
+    "slug": "shane-gillis",
+    "name": "Shane Gillis",
+    "bio": "Shane is a comedian, co-host of “Matt and Shane’s Secret Podcast” with Matt McCusker, a creator and star of Netflix’s comedy series “Tires,” and one half of the sketch comedy duo “Gilly and Keeves” with John McKeever.",
+    "website": "https://www.shanemgillis.com",
+    "youtube": "https://www.youtube.com/@GillyandKeeves",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2431-shane-gillis"
+    ]
+  },
+  {
+    "id": "jay-anderson",
+    "slug": "jay-anderson",
+    "name": "Jay Anderson",
+    "bio": "Jay Anderson is the host and creator of the YouTube program and podcast Project Unity, which focuses on UFO and UAP phenomenon, human origins, ancient mysteries, and other topics.",
+    "website": "http://www.patreon.com/ProjectUnity",
+    "youtube": "https://www.youtube.com/@ProjectUnity",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2430-jay-anderson"
+    ]
+  },
+  {
+    "id": "tom-segura",
+    "slug": "tom-segura",
+    "name": "Tom Segura",
+    "bio": "Tom Segura is a comedian, actor, and author. He co-hosts “Your Mom’s House” with his wife, comedian Christina Pazsitzky, and “Two Bears, One Cave” with comedian Bert Kreischer. His new special, “Tom Segura: Teacher,” premieres December 24 on Netflix.",
+    "website": "https://www.tomsegura.com",
+    "youtube": "https://www.youtube.com/@YMHStudios",
+    "twitter": "https://www.netflix.com/title/81605925",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2429-tom-segura"
+    ]
+  },
+  {
+    "id": "michael-p-masters",
+    "slug": "michael-p-masters",
+    "name": "Michael P. Masters",
+    "bio": "Michael P. Masters, PhD, is a professor of biological anthropology at Montana Technological University and the author of several books exploring the hypothesis that alien visitors may be human time travelers from the future. The most recent titles are \"The Extratempestrial Model,\" a work of nonfiction, and the novel \"Revelation: The Future Human Past.\"",
+    "website": "https://www.idflyobj.com/books-%26-merch",
+    "youtube": "https://www.youtube.com/@MichaelPMasters",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2428-michael-p-masters"
+    ]
+  },
+  {
+    "id": "bret-weinstein",
+    "slug": "bret-weinstein",
+    "name": "Bret Weinstein",
+    "bio": "Bret Weinstein, PhD, is an evolutionary biologist, author, and co-host of “The DarkHorse Podcast” with his wife, biologist Heather Heying. They are the co-authors of “A Hunter-Gatherer’s Guide to the 21st Century: Evolution and the Challenges of Modern Life.”",
+    "website": "https://www.bretweinstein.net",
+    "youtube": "https://www.youtube.com/@DarkHorsePod",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2427-bret-weinstein",
+      "2408-bret-weinstein"
+    ]
+  },
+  {
+    "id": "cameron-hanes-adam-greentree",
+    "slug": "cameron-hanes-adam-greentree",
+    "name": "Cameron Hanes & Adam Greentree",
+    "bio": "Cameron Hanes is a master bowhunter, outdoorsman, elite athlete, author, and a host of the podcasts “Keep Hammering Collective,\" \"Sh*t Talkers Weekly,\" and \"Lift. Run. Shoot.\" His most recent book is \"Undeniable: How to Reach the Top and Stay There.\"",
+    "website": "https://www.cameronhanes.com",
+    "youtube": "https://www.youtube.com/@adamgreentree9135",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2426-cameron-hanes-adam-greentree"
+    ]
+  },
+  {
+    "id": "ethan-hawke",
+    "slug": "ethan-hawke",
+    "name": "Ethan Hawke",
+    "bio": "Ethan Hawke is an actor, filmmaker, and author. He recently starred in the film “Blue Moon,” available on major streaming platforms and in select theaters, and the FX series “The Lowdown,” available for streaming on HULU.",
+    "website": "https://bluemoonfilm.com/home/",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2425-ethan-hawke"
+    ]
+  },
+  {
+    "id": "jelly-roll",
+    "slug": "jelly-roll",
+    "name": "Jelly Roll",
+    "bio": "Jelly Roll is a rapper, singer, songwriter, actor, and philanthropist. His most recent album is “Beautifully Broken.”",
+    "website": "https://drop.cobrand.com/d/JellyRoll/downundertour2025",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2424-jelly-roll"
+    ]
+  },
+  {
+    "id": "brendan-allen",
+    "slug": "brendan-allen",
+    "name": "Brendan Allen",
+    "bio": "Joe sits down with Brendan Allen, a professional mixed martial artist currently competing in the Middleweight division of the Ultimate Fighting Championship.",
+    "website": "https://www.ufc.com/athlete/brendan-allen",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "171-brendan-allen"
+    ]
+  },
+  {
+    "id": "john-cena",
+    "slug": "john-cena",
+    "name": "John Cena",
+    "bio": "John Cena is a WWE 17-time World Champion wrestler, bestselling author, and actor whose on-screen career includes installments of the “Fast & Furious” franchise, “The Suicide Squad,” and its spinoff series “Peacemaker.”",
+    "website": "https://www.wwe.com/superstars/john-cena",
+    "youtube": "https://www.youtube.com/@KillTony",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2423-john-cena"
+    ]
+  },
+  {
+    "id": "jensen-huang",
+    "slug": "jensen-huang",
+    "name": "Jensen Huang",
+    "bio": "Jensen Huang is the founder, president, and CEO of NVIDIA, the company whose 1999 invention of the GPU helped transform gaming, computer graphics, and accelerated computing. Under his leadership, NVIDIA has grown into a full-stack computing infrastructure company reshaping AI and data-center technology across industries.",
+    "website": "https://www.nvidia.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2422-jensen-huang"
+    ]
+  },
+  {
+    "id": "derek-more-plates-more-dates",
+    "slug": "derek-more-plates-more-dates",
+    "name": "Derek, More Plates More Dates",
+    "bio": "Derek is the fitness educator and entrepreneur behind the \"More Plates, More Dates\" YouTube channel, podcast, and companion website.",
+    "website": "https://www.moreplatesmoredates.com",
+    "youtube": "https://www.youtube.com/@MorePlatesMoreDates",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2421-derek-more-plates-more-dates"
+    ]
+  },
+  {
+    "id": "chris-masterjohn",
+    "slug": "chris-masterjohn",
+    "name": "Chris Masterjohn",
+    "bio": "Chris Masterjohn, PhD, is a leading expert in nutritional science with a background in the biochemistry and molecular biology of nutrition. He is the host of the \"Mastering Nutrition\" podcast and founder of Mitome",
+    "website": "https://www.chrismasterjohn-phd.com",
+    "youtube": "https://www.youtube.com/@chrismasterjohn",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2420-chris-masterjohn"
+    ]
+  },
+  {
+    "id": "john-lisle",
+    "slug": "john-lisle",
+    "name": "John Lisle",
+    "bio": "John Lisle has a Ph.D. in history from the University of Texas, where he is now a professor of the history of science. His two books on the intelligence community are \"The Dirty Tricks Department\" and \"Project Mind Control: Sidney Gottlieb, the CIA, and the Tragedy of MKULTRA.\"",
+    "website": "https://www.johnlislehistorian.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2419-john-lisle"
+    ]
+  },
+  {
+    "id": "chris-williamson",
+    "slug": "chris-williamson",
+    "name": "Chris Williamson",
+    "bio": "Chris Williamson is a podcaster, YouTuber, and host of the \"Modern Wisdom\" podcast. See him live on his \"Mostly Wise\" tour.",
+    "website": "",
+    "youtube": "",
+    "twitter": "https://chriswillx.com/modernwisdom",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2418-chris-williamson"
+    ]
+  },
+  {
+    "id": "ben-van-kerkwyk",
+    "slug": "ben-van-kerkwyk",
+    "name": "Ben van Kerkwyk",
+    "bio": "Ben van Kerkwyk is an independent researcher and creator of UnchartedX.com and the UnchartedX YouTube channel, dedicated to exploring the mysteries of the past with a focus on ancient engineering, precision, and technology.",
+    "website": "https://rumble.com/c/UnchartedX",
+    "youtube": "",
+    "twitter": "https://www.unchartedx.com",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2417-ben-van-kerkwyk"
+    ]
+  },
+  {
+    "id": "dan-farah",
+    "slug": "dan-farah",
+    "name": "Dan Farah",
+    "bio": "Dan Farah is the director and producer of \"The Age of Disclosure,\" a documentary revealing a 80-year global cover-up of the existence of non-human intelligent life, and a secret war among major nations to reverse-engineer advanced technology of non-human origin. See it now in select theaters and streaming on Amazon Prime Video.",
+    "website": "https://www.theageofdisclosure.com",
+    "youtube": "https://www.youtube.com/@TheAgeOfDisclosure",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2416-dan-farah"
+    ]
+  },
+  {
+    "id": "adam-ray",
+    "slug": "adam-ray",
+    "name": "Adam Ray",
+    "bio": "Adam Ray is a comic, actor, and the host of the podcast \"About Last Night.\" Catch his latest special, \"Adam Ray is Dr. Phil Unleashed\" on Netflix, and see him live on tour.",
+    "website": "https://www.adamraycomedy.com",
+    "youtube": "https://www.youtube.com/c/AboutLastNightPodcast",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2415-adam-ray"
+    ]
+  },
+  {
+    "id": "brian-simpson",
+    "slug": "brian-simpson",
+    "name": "Brian Simpson",
+    "bio": "Brian Simpson is a comedian, host of the podcast “BS with Brian Simpson,” and host of the live Comedy Mothership show “Bottom of the Barrel.” Catch his Netflix special, “Live from the Mothership,” streaming now.",
+    "website": "https://www.briansimpson.com",
+    "youtube": "https://www.youtube.com/@bswithbriansimpson",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2414-brian-simpson"
+    ]
+  },
+  {
+    "id": "theo-von",
+    "slug": "theo-von",
+    "name": "Theo Von",
+    "bio": "Theo Von is a comic and host of the podcast \"This Past Weekend with Theo Von.\"",
+    "website": "https://www.theovon.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2413-theo-von"
+    ]
+  },
+  {
+    "id": "adam-carolla",
+    "slug": "adam-carolla",
+    "name": "Adam Carolla",
+    "bio": "Adam Carolla is a comic, actor, author, and host of “The Adam Carolla Show” podcast. His latest special, “Adam Carolla Comes Cleaner,” is available exclusively on Dry Bar Comedy Plus, the Angel app, and Angel.com.",
+    "website": "",
+    "youtube": "https://⁠www.youtube.com/@TheAdamCarollaShow1",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2412-adam-carolla"
+    ]
+  },
+  {
+    "id": "gavin-de-becker",
+    "slug": "gavin-de-becker",
+    "name": "Gavin de Becker",
+    "bio": "Gavin de Becker is a security expert and the founder of Gavin de Becker & Associates, a firm specializing in threat assessment and protective services. He is the author of several books, including his most recent, \"Forbidden Facts: Government Deceit & Suppression About Brain Damage from Childhood Vaccines.\"",
+    "website": "https://www.gdba.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2411-gavin-de-becker"
+    ]
+  },
+  {
+    "id": "jeff-dye",
+    "slug": "jeff-dye",
+    "name": "Jeff Dye",
+    "bio": "Jeff Dye is a comic, actor, broadcast personality, and host of the podcast \"Dye Hard with Jeff Dye.\" His latest special, \"The Last Cowboy in LA,\" is available to stream on YouTube.",
+    "website": "https://www.jeffdye.com",
+    "youtube": "https://www.youtube.com/@JeffDye",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2410-jeff-dye"
+    ]
+  },
+  {
+    "id": "brian-redban",
+    "slug": "brian-redban",
+    "name": "Brian Redban",
+    "bio": "Brian Redban is a stand-up comic, producer, co-host of the podcast and live-streaming YouTube show \"Kill Tony,\" founder of the Deathsquad podcast network, and a co-owner of the Sunset Strip Comedy Club in Austin.",
+    "website": "https://www.deathsquad.tv",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2409-brian-redban"
+    ]
+  },
+  {
+    "id": "billy-bob-thornton",
+    "slug": "billy-bob-thornton",
+    "name": "Billy Bob Thornton",
+    "bio": "Billy Bob Thornton is an Academy Award–winning actor, filmmaker, and musician. He currently stars as Tommy Norris in the Paramount+ series “Landman” and is the lead singer of The Boxmasters. Season two of “Landman” premieres on November 16. “Pepper Tree Hill,” the latest album from The Boxmasters, is available now.",
+    "website": "https://www.paramountplus.com/shows/landman/",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2407-billy-bob-thornton"
+    ]
+  },
+  {
+    "id": "russell-crowe",
+    "slug": "russell-crowe",
+    "name": "Russell Crowe",
+    "bio": "Russell Crowe is an Academy Award–winning actor, director, and vocalist of the band Indoor Garden Party. His latest film role is that of Nazi war criminal Hermann Göring in the historical drama “Nuremberg,” which premieres in theaters on November 7.",
+    "website": "https://www.sonyclassics.com/film/nuremberg/",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2406-russell-crowe"
+    ]
+  },
+  {
+    "id": "luis-j-gomez-big-jay-oakerson",
+    "slug": "luis-j-gomez-big-jay-oakerson",
+    "name": "Luis J Gomez & Big Jay Oakerson",
+    "bio": "Luis J. Gomez and Big Jay Oakerson are comics and podcasters. Together, they host “Story Warz” and “Legion of Skanks” with Dave Smith. Luis also hosts “Real Ass Podcast” with Zac Amico, and Big Jay hosts “The Bonfire” on SiriusXM with Robert Kelly. Big Jay’s two-part crowdwork special, “Them/They,” is available on YouTube and vinyl, and Luis’s new special, “You’re Making This Worse,” premieres on YouTube on November 2.",
+    "website": "https://www.luisofskanks.com",
+    "youtube": "https://www.youtube.com/@bigjayoakerson",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2405-luis-j-gomez-big-jay-oakerson"
+    ]
+  },
+  {
+    "id": "elon-musk",
+    "slug": "elon-musk",
+    "name": "Elon Musk",
+    "bio": "Elon Musk is a business magnate, designer, and engineer known for his work in electric vehicles, private spaceflight, and artificial intelligence. His portfolio of companies includes Tesla, SpaceX, Neuralink, X, and several others.",
+    "website": "",
+    "youtube": "",
+    "twitter": "https://x.com/elonmusk",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2404-elon-musk"
+    ]
+  },
+  {
+    "id": "andrew-gallimore",
+    "slug": "andrew-gallimore",
+    "name": "Andrew Gallimore",
+    "bio": "Andrew Gallimore, PhD, is a chemical pharmacologist and neurobiologist. He is one of the world’s leading experts on psychedelics and the author of several books, including his most recent, “Death by Astonishment: Confronting the Mystery of the World’s Strangest Drug.”",
+    "website": "https://www.buildingalienworlds.com",
+    "youtube": "https://www.youtube.com/c/alieninsect",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2403-andrew-gallimore"
+    ]
+  },
+  {
+    "id": "miranda-lambert",
+    "slug": "miranda-lambert",
+    "name": "Miranda Lambert",
+    "bio": "Miranda Lambert is a country musician who performs both as a solo artist and as a member of the band Pistol Annies. Her recent releases include “A Song to Sing,” a single recorded with Chris Stapleton; “Postcards from Texas,” a solo album; and “Hell of a Holiday,” an album recorded with Pistol Annies. She’s also the author, with Holly Gleason, of the cookbook “Y’all Eat Yet? Welcome to the Pretty B*tchin’ Kitchen.” In addition, she has her own clothing line, Idyllwind, and winery, Red 55, and oversees the pet charity MuttNation.",
+    "website": "https://www.mirandalambert.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2402-miranda-lambert"
+    ]
+  },
+  {
+    "id": "avi-loeb",
+    "slug": "avi-loeb",
+    "name": "Avi Loeb",
+    "bio": "Avi Loeb, PhD, is a theoretical physicist and Frank B. Baird, Jr., Professor of Science at Harvard University. He is the author of several books, the most recent of which is \"Interstellar: The Search for Extraterrestrial Life and Our Future in the Stars.\"",
+    "website": "https://lweb.cfa.harvard.edu/~loeb/",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2401-avi-loeb"
+    ]
+  },
+  {
+    "id": "katee-sackhoff",
+    "slug": "katee-sackhoff",
+    "name": "Katee Sackhoff",
+    "bio": "Katee Sackhoff is an actor known for such roles as Kara \"Starbuck\" Thrace on \"Battlestar Galactica,\" Bo-Katan Kryze on \"The Mandalorian,\" and Vic Moretti on \"Longmire.\" In addition to her work on-screen, she hosts \"The Sackhoff Show\" podcast.",
+    "website": "https://www.kateesackhoff.com",
+    "youtube": "https://www.youtube.com/@KateeSackhoffOfficial",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2400-katee-sackhoff"
+    ]
+  },
+  {
+    "id": "daryl-davis-jeff-schoep",
+    "slug": "daryl-davis-jeff-schoep",
+    "name": "Daryl Davis & Jeff Schoep",
+    "bio": "Daryl Davis is a blues musician, race relations expert, and author of several books, including \"The Klan Whisperer.\" Jeff Schoep led America's largest neo-Nazi organization, the National Socialist Movement, for nearly three decades before renouncing its ideology. He is the author of \"American Nazi: From Hate to Humanity.\"",
+    "website": "https://www.daryldavis.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2399-daryl-davis-jeff-schoep"
+    ]
+  },
+  {
+    "id": "richard-lindzen-william-happer",
+    "slug": "richard-lindzen-william-happer",
+    "name": "Richard Lindzen & William Happer",
+    "bio": "Richard Lindzen, PhD, is Professor Emeritus of Earth, Atmospheric, and Planetary Sciences at the Massachusetts Institute of Technology. William Happer, PhD, is Professor Emeritus of Physics at Princeton University. Doctors Lindzen and Happer are recognized for questioning prevailing assumptions about climate change and energy policy.",
+    "website": "https://www.co2coalition.org",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2397-richard-lindzen-william-happer"
+    ]
+  },
+  {
+    "id": "andrew-schulz",
+    "slug": "andrew-schulz",
+    "name": "Andrew Schulz",
+    "bio": "Andrew Schulz is a stand-up comic, actor, and podcaster. He's the host of the \"Flagrant\" podcast with Akaash Singh, and the \"Brilliant Idiots\" podcast with Charlamagne Tha God.",
+    "website": "https://www.theandrewschulz.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2396-andrew-schulz"
+    ]
+  },
+  {
+    "id": "mariana-van-zeller",
+    "slug": "mariana-van-zeller",
+    "name": "Mariana van Zeller",
+    "bio": "Mariana van Zeller is the host and executive producer of National Geographic's \"Trafficked with Mariana van Zeller.\" Check out her new podcast \"The Hidden Third\" and also more content on her new YouTube channel.",
+    "website": "",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2395-mariana-van-zeller"
+    ]
+  },
+  {
+    "id": "palmer-luckey",
+    "slug": "palmer-luckey",
+    "name": "Palmer Luckey",
+    "bio": "Palmer Luckey is the founder of defense technology company Anduril Industries, designer of the Oculus Rift, a virtual reality head-mounted display, and the founder of Oculus VR, which was acquired by Facebook in 2014.",
+    "website": "https://www.anduril.com/profile/palmer-luckey",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2394-palmer-luckey"
+    ]
+  },
+  {
+    "id": "bryan-callen",
+    "slug": "bryan-callen",
+    "name": "Bryan Callen",
+    "bio": "Bryan Callen is a comedian and actor. He’s the host of the “Off Limits” podcast and co-host of “The Fighter and the Kid” with Brendan Schaub. Check out his new comedy special \"False Gods\" on YouTube now.",
+    "website": "",
+    "youtube": "https://⁠www.youtube.com/@BryanCallenComedy",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2393-bryan-callen"
+    ]
+  },
+  {
+    "id": "john-kiriakou",
+    "slug": "john-kiriakou",
+    "name": "John Kiriakou",
+    "bio": "John Kiriakou is a former CIA counter-terrorism officer and the first U.S. official to confirm the agency's torture of detainees. Punished for being a whistleblower, he served nearly 2 years in a federal prison.",
+    "website": "https://www.johnkiriakou.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2392-john-kiriakou"
+    ]
+  },
+  {
+    "id": "duncan-trussell",
+    "slug": "duncan-trussell",
+    "name": "Duncan Trussell",
+    "bio": "Duncan Trussell is a stand-up comic, host of the \"Duncan Trussell Family Hour\" podcast, and voice of \"Hippocampus\" on the television series \"Krapopolis.\"",
+    "website": "https://www.duncantrussell.com",
+    "youtube": "https://www.youtube.com/@duncantrussellfamilyhour",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2391-duncan-trussell"
+    ]
+  },
+  {
+    "id": "jack-carr",
+    "slug": "jack-carr",
+    "name": "Jack Carr",
+    "bio": "Jack Carr is a bestselling author, retired Navy SEAL, and host of several podcasts, including “Danger Close.\" His newest book, \"Cry Havoc,” is available now.",
+    "website": "https://www.officialjackcarr.com",
+    "youtube": "https://www.youtube.com/@JackCarrUSA",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2390-jack-carr"
+    ]
+  },
+  {
+    "id": "sal-vulcano",
+    "slug": "sal-vulcano",
+    "name": "Sal Vulcano",
+    "bio": "Sal Vulcano is a stand-up comic and the co-creator, star, and executive producer of the comedy show “Impractical Jokers.\" He’s also the co-host of the podcasts “Hey Babe!” with Chris Distefano and “Taste Buds” with Joe DeRosa. Catch his latest special, “Terrified,” on HBO Max.",
+    "website": "https://www.salvulcanocomedy.com",
+    "youtube": "https://www.youtube.com/@salvulcanoofficial",
+    "twitter": "https://www.hbomax.com/movies/sal-vulcano-terrified/587fe357-435e-449d-bf43-c5555fd1e009",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2389-sal-vulcano"
+    ]
+  },
+  {
+    "id": "michael-venom-page",
+    "slug": "michael-venom-page",
+    "name": "Michael \"Venom\" Page",
+    "bio": "Joe sits down with Michael \"Venom\" Page, a professional mixed martial artist currently competing in the Welterweight and Middleweight divisions of the Ultimate Fighting Championship.",
+    "website": "",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "170-michael-venom-page"
+    ]
+  },
+  {
+    "id": "lionel-richie",
+    "slug": "lionel-richie",
+    "name": "Lionel Richie",
+    "bio": "Lionel Richie is a singer, songwriter, producer, and television personality. He has sold more than 125 million albums worldwide and been the recipient of four Grammy Awards, an Oscar, a Golden Globe, and 18 American Music Awards. Look for his memoir, \"Truly,\" on shelves now, and catch him live on tour in 2025",
+    "website": "https://www.harpercollins.com/products/truly-lionel-richie",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2388-lionel-richie"
+    ]
+  },
+  {
+    "id": "gregg-braden",
+    "slug": "gregg-braden",
+    "name": "Gregg Braden",
+    "bio": "Gregg Braden is an author, scientist, and educator. His latest book, \"Pure Human: The Hidden Truth of Our Divinity, Power, and Destiny,\" is available now.",
+    "website": "https://www.hayhouse.com/pure-human-hardcover",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2387-gregg-braden"
+    ]
+  },
+  {
+    "id": "the-red-clay-strays",
+    "slug": "the-red-clay-strays",
+    "name": "The Red Clay Strays",
+    "bio": "Brandon Coleman, Andy Bishop, and Drew Nix are members of country rock group The Red Clay Strays. Catch them in 2025 on the Get Right tour, and look for their most recent album, \"Live at the Ryman,\" anywhere music is sold.",
+    "website": "https://www.redclaystrays.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2386-the-red-clay-strays"
+    ]
+  },
+  {
+    "id": "rick-strassman",
+    "slug": "rick-strassman",
+    "name": "Rick Strassman",
+    "bio": "Rick Strassman, MD, is a Clinical Associate Professor of Psychiatry at the University of New Mexico School of Medicine. He is the author of several books, the most recent of which is 2024's \"My Altered States: A Doctor's Extraordinary Account of Trauma, Psychedelics, and Spiritual Growth.\"",
+    "website": "https://www.rickstrassman.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2385-rick-strassman"
+    ]
+  },
+  {
+    "id": "mark-kerr",
+    "slug": "mark-kerr",
+    "name": "Mark Kerr",
+    "bio": "Joe sits down with retired mixed martial artist and wrestler Mark Kerr. Kerr is the subject of the A24 feature film \"The Smashing Machine,\" directed by Benny Safdie and starring Dwayne Johnson. Look for it in theaters on October 3, 2025.",
+    "website": "https://a24films.com/films/the-smashing-machine",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2384-mark-kerr"
+    ]
+  },
+  {
+    "id": "ian-edwards",
+    "slug": "ian-edwards",
+    "name": "Ian Edwards",
+    "bio": "Ian Edwards is a comic, actor, and host of the \"Soccer Comic Rant\" podcast. Watch his new comedy special, \"Ian Edwards: Untitled,\" now streaming on YouTube.",
+    "website": "https://linktr.ee/ianedwardscomic",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2383-ian-edwards"
+    ]
+  },
+  {
+    "id": "andrew-santino",
+    "slug": "andrew-santino",
+    "name": "Andrew Santino",
+    "bio": "Andrew Santino is a comic, actor, and host of the podcasts \"Whiskey Ginger,\" \"No Bad Lies,\" and \"Bad Friends\" with comic Bobby Lee. Check out his new special, \"Andrew Santino: White Noise,\" now streaming on Hulu.",
+    "website": "https://www.andrewsantino.com",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2382-andrew-santino"
+    ]
+  },
+  {
+    "id": "taylor-kitsch",
+    "slug": "taylor-kitsch",
+    "name": "Taylor Kitsch",
+    "bio": "Taylor Kitsch is an award-winning actor best known for his roles in films such as \"X-Men Origins: Wolverine\" and \"Lone Survivor,\" as well as television shows including \"Waco,\" \"Painkiller,\" \"American Primeval,\" and \"The Terminal List.\" His new series, \"The Terminal List: Dark Wolf,\" a prequel to \"The Terminal List,\" is streaming exclusively on Amazon Prime Video. In addition to his busy acting career, Taylor is an accomplished wildlife photographer and philanthropist. He is launching Howlers Ridge Fund (HRF), a nonprofit serving veterans, people in recovery, and those facing trauma, grief, and life’s hardest moments through nature-based retreats, educational programs, and grants to aligned nonprofits.",
+    "website": "https://www.primevideo.com/detail/0MYH9XYR9SCGXB57LR8ES71GFL",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2381-taylor-kitsch"
+    ]
+  },
+  {
+    "id": "jordan-jensen",
+    "slug": "jordan-jensen",
+    "name": "Jordan Jensen",
+    "bio": "Jordan Jensen is a comedian, actress, and podcaster. She is the co-host of the podcast \"Bein' Ian with Jordan\" with comedian Ian Fidance, and host of her own podcast, \"RIP Jordan Jensen.\" Her new comedy special, \"Jordan Jensen: Take Me With You,\" is streaming exclusively on Netflix. Look for her in Bradley Cooper's film, \"Is This Thing On?,\" in theaters December 19, 2025.",
+    "website": "https://www.jordanjensencomedy.com",
+    "youtube": "https://www.youtube.com/@jordanjensenlolstop",
+    "twitter": "https://www.netflix.com/title/81978275",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2380-jordan-jensen"
+    ]
+  },
+  {
+    "id": "matthew-mcconaughey",
+    "slug": "matthew-mcconaughey",
+    "name": "Matthew McConaughey",
+    "bio": "Matthew McConaughey is an Academy Award–winning actor and #1 New York Times bestselling author. His new book, \"Poems & Prayers,” comes out September 16. His latest film, \"The Lost Bus,\" will open in select theaters in Los Angeles, New York, and London on September 19 and premiere globally on October 3 on Apple TV+. Matthew is a professor of practice at the University of Texas at Austin, co-owner of Pantalones tequila, co-owner of the Austin FC soccer club, and co-founder of the just keep livin' Foundation, which supports youth through programs in health, education, and active living.",
+    "website": "https://www.jklivinfoundation.org",
+    "youtube": "",
+    "twitter": "",
+    "instagram": "",
+    "latestProject": "",
+    "episodeSlugs": [
+      "2379-matthew-mcconaughey"
+    ]
+  }
+]

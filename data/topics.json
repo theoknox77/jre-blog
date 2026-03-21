@@ -1,0 +1,10 @@
+[
+  { "id": "comedy", "slug": "comedy", "name": "Comedy", "description": "Stand-up comedians, the comedy industry, and everything funny.", "episodeSlugs": ["2471-mark-normand"] },
+  { "id": "politics", "slug": "politics", "name": "Politics", "description": "Politicians, policy, and the state of the world.", "episodeSlugs": ["2470-pierre-poilievre"] },
+  { "id": "conspiracy", "slug": "conspiracy", "name": "Conspiracy", "description": "UFOs, government secrets, and things that make you go hmm.", "episodeSlugs": ["2471-mark-normand"] },
+  { "id": "science", "slug": "science", "name": "Science", "description": "Scientists, researchers, and the frontiers of human knowledge.", "episodeSlugs": [] },
+  { "id": "health", "slug": "health", "name": "Health", "description": "Fitness, nutrition, supplements, and optimizing the human body.", "episodeSlugs": [] },
+  { "id": "mma", "slug": "mma", "name": "MMA and Fighting", "description": "UFC, fighters, martial arts, and combat sports.", "episodeSlugs": [] },
+  { "id": "hunting", "slug": "hunting", "name": "Hunting and Outdoors", "description": "Hunting, fishing, conservation, and the natural world.", "episodeSlugs": [] },
+  { "id": "dmt", "slug": "dmt", "name": "DMT and Psychedelics", "description": "Psychedelic experiences, consciousness, and the nature of reality.", "episodeSlugs": [] }
+]
