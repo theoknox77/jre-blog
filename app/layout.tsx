@@ -33,8 +33,8 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           gtag('js', new Date());
           gtag('config', 'G-JREINDEX01');
         ` }} />
-        {/* AdSense verification — swap pub-ID once approved */}
-        <meta name="google-adsense-account" content="ca-pub-PENDING" />
+        {/* Google AdSense */}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7066928956398194" crossOrigin="anonymous" />
       </head>
       <body>
         <Nav />
