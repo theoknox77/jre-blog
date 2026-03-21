@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { episodes, topics } from "@/lib/data";
 import EpisodeCard from "@/components/EpisodeCard";
+import HomeSearch from "@/components/HomeSearch";
 
 export const metadata: Metadata = {
   title: "JREINDEX — Every Joe Rogan Episode. Every Guest. Everything Ever Mentioned.",
@@ -110,6 +111,9 @@ export default function HomePage() {
             The most complete Joe Rogan Experience resource on the internet. Full episode recaps,
             transcripts, key moments with timestamps, and every book and cool thing they mentioned.
           </p>
+          <div style={{ width: "100%", marginBottom: "2rem" }}>
+            <HomeSearch />
+          </div>
           <div
             style={{ display: "flex", gap: "1rem", justifyContent: "center", flexWrap: "wrap" }}
           >

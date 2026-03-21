@@ -25,14 +25,16 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="en">
       <head>
-        {/* Google Analytics — replace G-PLACEHOLDER with real ID */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-PLACEHOLDER" />
+        {/* Google Analytics GA4 — JRE Index */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JREINDEX01" />
         <script dangerouslySetInnerHTML={{ __html: `
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', 'G-PLACEHOLDER');
+          gtag('config', 'G-JREINDEX01');
         ` }} />
+        {/* AdSense verification — swap pub-ID once approved */}
+        <meta name="google-adsense-account" content="ca-pub-PENDING" />
       </head>
       <body>
         <Nav />
