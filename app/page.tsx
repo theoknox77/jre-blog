@@ -4,12 +4,18 @@ import { episodes, topics } from "@/lib/data";
 import EpisodeCard from "@/components/EpisodeCard";
 
 export const metadata: Metadata = {
-  title: "JRE Clips — Every Joe Rogan Episode, Every Guest, Every Product",
-  description:
-    "The most complete Joe Rogan Experience resource on the internet. Full episode recaps, transcripts, key moments, and every product mentioned — linked to Amazon.",
+  title: "JREINDEX — Every Joe Rogan Episode. Every Guest. Everything Ever Mentioned.",
+  description: "The most complete Joe Rogan Experience resource on the internet. Full episode recaps, transcripts, key moments with timestamps, and every book and cool thing they mentioned.",
   openGraph: {
-    title: "JRE Clips — Every Joe Rogan Episode",
-    description: "Every episode documented. Every product linked.",
+    title: "JREINDEX — The Ultimate JRE Resource",
+    description: "Every episode documented. Every guest indexed. Every cool thing mentioned — linked to Amazon.",
+    images: [{ url: "/jre-curtain.jpg", width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "JREINDEX — Every JRE Episode, Guest & Product",
+    description: "The most complete Joe Rogan Experience resource on the internet.",
+    images: ["/jre-curtain.jpg"],
   },
 };
 
@@ -90,7 +96,7 @@ export default function HomePage() {
           >
             Every JRE Episode.{" "}
             <span style={{ color: "#E85D04" }}>Every Guest.</span>{" "}
-            Every Product.
+            Everything Ever Mentioned.
           </h1>
           <p
             style={{
@@ -102,7 +108,7 @@ export default function HomePage() {
             }}
           >
             The most complete Joe Rogan Experience resource on the internet. Full episode recaps,
-            transcripts, key moments with timestamps, and every product mentioned — linked directly to Amazon.
+            transcripts, key moments with timestamps, and every book and cool thing they mentioned.
           </p>
           <div
             style={{ display: "flex", gap: "1rem", justifyContent: "center", flexWrap: "wrap" }}
@@ -127,13 +133,12 @@ export default function HomePage() {
             <Link
               href="/guests"
               style={{
-                background: "transparent",
-                color: "#F5F0E8",
+                background: "#F5F0E8",
+                color: "#0a0a0a",
                 padding: "0.85rem 2rem",
                 borderRadius: "6px",
-                border: "1px solid #2a2a2a",
                 fontFamily: "'Barlow Condensed', sans-serif",
-                fontWeight: 700,
+                fontWeight: 800,
                 fontSize: "1rem",
                 textTransform: "uppercase",
                 letterSpacing: "0.08em",
@@ -186,7 +191,7 @@ export default function HomePage() {
               {
                 icon: "🛒",
                 title: "Shop Everything Mentioned",
-                desc: "Every book, supplement, gear item, and product mentioned in the episode — linked directly to Amazon.",
+                desc: "Books, supplements, gear, and more — every cool thing brought up across 2,471 episodes, linked straight to Amazon.",
               },
             ].map(({ icon, title, desc }) => (
               <div
