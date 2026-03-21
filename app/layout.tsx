@@ -26,12 +26,12 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     <html lang="en">
       <head>
         {/* Google Analytics GA4 — JRE Index */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JREINDEX01" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-WLRG4VW0X6" />
         <script dangerouslySetInnerHTML={{ __html: `
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', 'G-JREINDEX01');
+          gtag('config', 'G-WLRG4VW0X6');
         ` }} />
         {/* Google AdSense */}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7066928956398194" crossOrigin="anonymous" />
