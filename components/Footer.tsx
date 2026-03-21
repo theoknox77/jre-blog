@@ -22,6 +22,8 @@ export default function Footer() {
                 { href: "/episodes", label: "All Episodes" },
                 { href: "/guests", label: "All Guests" },
                 { href: "/mentioned", label: "Mentioned" },
+                { href: "/about", label: "About" },
+                { href: "/privacy", label: "Privacy Policy" },
               ].map(({ href, label }) => (
                 <Link key={href} href={href} style={{ display: "block", color: "#9A9A8A", fontSize: "0.875rem", marginBottom: "0.4rem", textDecoration: "none" }}>
                   {label}
