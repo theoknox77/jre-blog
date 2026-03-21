@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { episodes, getEpisodeBySlug, getEpisodesByGuest } from "@/lib/data";
 import EpisodeCard from "@/components/EpisodeCard";
+import ShareButtons from "@/components/ShareButtons";
 
 export async function generateStaticParams() {
   return episodes.map((ep) => ({ slug: ep.slug }));
@@ -71,11 +72,17 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
           <h1 style={{ fontSize: "clamp(2rem, 6vw, 3.5rem)", color: "#F5F0E8", marginBottom: "1rem" }}>
             {ep.guestName}
           </h1>
-          <div style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap" }}>
+          <div style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap", marginBottom: "1rem" }}>
             {ep.tags.map((tag) => (
               <span key={tag} className="tag">{tag}</span>
             ))}
           </div>
+          <ShareButtons
+            title={ep.title}
+            url={`/episodes/${ep.slug}`}
+            episodeNumber={ep.episodeNumber}
+            guestName={ep.guestName}
+          />
         </div>
       </div>
 

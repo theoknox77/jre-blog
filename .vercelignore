@@ -2,3 +2,4 @@ node_modules
 .next
 data/episodes_generated
 scripts
+steel-sdk
