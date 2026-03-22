@@ -5,18 +5,19 @@ import EpisodeCard from "@/components/EpisodeCard";
 import HomeSearch from "@/components/HomeSearch";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://jreindex.com"),
   title: "JREINDEX — Every Joe Rogan Episode. Every Guest. Everything Ever Mentioned.",
   description: "The most complete Joe Rogan Experience resource on the internet. Full episode recaps, transcripts, key moments with timestamps, and every book and cool thing they mentioned.",
   openGraph: {
     title: "JREINDEX — The Ultimate JRE Resource",
     description: "Every episode documented. Every guest indexed. Every cool thing mentioned — linked to Amazon.",
-    images: [{ url: "/jre-curtain.jpg", width: 1200, height: 630 }],
+    images: [{ url: "https://jreindex.com/jre-curtain.jpg", width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",
     title: "JREINDEX — Every JRE Episode, Guest & Product",
     description: "The most complete Joe Rogan Experience resource on the internet.",
-    images: ["/jre-curtain.jpg"],
+    images: ["https://jreindex.com/jre-curtain.jpg"],
   },
 };
 
