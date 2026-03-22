@@ -220,10 +220,34 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
 
         {/* Full Transcript */}
         <details className="transcript-toggle" style={{ marginBottom: "2rem" }}>
-          <summary>Full Transcript — click to expand (great for search)</summary>
+          <summary>
+            <span>Full Transcript</span>
+          </summary>
           <div className="transcript-content">
-            {ep.transcript ? <p>{ep.transcript}</p> : <p style={{ color: "#555" }}>Transcript being processed. Check back soon.</p>}
-            <p style={{ color: "#555", marginTop: "1rem" }}>Auto-generated captions may contain errors.</p>
+            {ep.transcript ? (
+              <>
+                {ep.transcript
+                  .split(/(?<=[.!?])\s+/)
+                  .reduce((paras: string[][], sentence: string) => {
+                    const last = paras[paras.length - 1];
+                    if (!last || last.join(' ').length > 700) {
+                      paras.push([sentence]);
+                    } else {
+                      last.push(sentence);
+                    }
+                    return paras;
+                  }, [])
+                  .map((para: string[], i: number) => (
+                    <p key={i}>{para.join(' ')}</p>
+                  ))
+                }
+                <p style={{ color: "#555", fontSize: "0.8rem", marginTop: "1rem" }}>
+                  Auto-generated transcript. May contain errors.
+                </p>
+              </>
+            ) : (
+              <p style={{ color: "#555" }}>Transcript coming soon — check back shortly.</p>
+            )}
           </div>
         </details>
 
