@@ -5,6 +5,7 @@ import Footer from "@/components/Footer";
 import BackToTop from "@/components/BackToTop";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://jreindex.com"),
   title: {
     default: "JREINDEX — Every Joe Rogan Episode. Every Guest. Everything Ever Mentioned.",
     template: "%s | JREINDEX",
