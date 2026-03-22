@@ -88,7 +88,7 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
         </div>
       </div>
 
-      <div className="episode-content" style={{ maxWidth: "900px", margin: "0 auto", padding: "2rem 1.25rem 6rem" }}>
+      <div className="episode-content" style={{ maxWidth: "900px", margin: "0 auto", padding: "2rem 1.25rem 3rem" }}>
 
         {/* YouTube Embed */}
         <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", borderRadius: "8px", background: "#111", marginBottom: "2.5rem" }}>
