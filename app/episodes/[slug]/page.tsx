@@ -4,6 +4,7 @@ import Link from "next/link";
 import { episodes, getEpisodeBySlug, getEpisodesByGuest } from "@/lib/data";
 import EpisodeCard from "@/components/EpisodeCard";
 import ShareButtons from "@/components/ShareButtons";
+import AdSlot from "@/components/AdSlot";
 
 export async function generateStaticParams() {
   return episodes.map((ep) => ({ slug: ep.slug }));
@@ -98,6 +99,9 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
             style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", border: "none" }}
           />
         </div>
+
+        {/* Ad — below video */}
+        <AdSlot slot="4537956235" format="horizontal" style={{ marginBottom: "2.5rem" }} />
 
         {/* Who Is */}
         <section style={{ background: "#111111", border: "1px solid #2a2a2a", borderRadius: "8px", padding: "1.5rem", marginBottom: "2.5rem" }}>
@@ -210,6 +214,9 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
             Articles, videos, and studies mentioned in this episode will appear here as we catalog them.
           </p>
         </section>
+
+        {/* Ad — before transcript */}
+        <AdSlot slot="7291834560" format="auto" style={{ marginBottom: "2.5rem" }} />
 
         {/* Full Transcript */}
         <details className="transcript-toggle" style={{ marginBottom: "2rem" }}>

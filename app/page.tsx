@@ -3,6 +3,7 @@ import Link from "next/link";
 import { episodes, topics } from "@/lib/data";
 import EpisodeCard from "@/components/EpisodeCard";
 import HomeSearch from "@/components/HomeSearch";
+import AdSlot from "@/components/AdSlot";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://jreindex.com"),
@@ -155,6 +156,9 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Ad — between hero and content */}
+      <AdSlot slot="2847361590" format="horizontal" style={{ padding: "1rem 1.25rem", background: "#0a0a0a" }} />
 
       {/* How It Works */}
       <section
