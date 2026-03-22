@@ -5,6 +5,7 @@ import { episodes, getEpisodeBySlug, getEpisodesByGuest } from "@/lib/data";
 import EpisodeCard from "@/components/EpisodeCard";
 import ShareButtons from "@/components/ShareButtons";
 import AdSlot from "@/components/AdSlot";
+import TranscriptSection from "@/components/TranscriptSection";
 
 export async function generateStaticParams() {
   return episodes.map((ep) => ({ slug: ep.slug }));
@@ -87,7 +88,7 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
         </div>
       </div>
 
-      <div style={{ maxWidth: "900px", margin: "0 auto", padding: "2rem 1.25rem" }}>
+      <div className="episode-content" style={{ maxWidth: "900px", margin: "0 auto", padding: "2rem 1.25rem 6rem" }}>
 
         {/* YouTube Embed */}
         <div style={{ position: "relative", paddingBottom: "56.25%", height: 0, overflow: "hidden", borderRadius: "8px", background: "#111", marginBottom: "2.5rem" }}>
@@ -218,38 +219,8 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
         {/* Ad — before transcript */}
         <AdSlot slot="7291834560" format="auto" style={{ marginBottom: "2.5rem" }} />
 
-        {/* Full Transcript */}
-        <details className="transcript-toggle" style={{ marginBottom: "2rem" }}>
-          <summary>
-            <span>Full Transcript</span>
-          </summary>
-          <div className="transcript-content">
-            {ep.transcript ? (
-              <>
-                {ep.transcript
-                  .split(/(?<=[.!?])\s+/)
-                  .reduce((paras: string[][], sentence: string) => {
-                    const last = paras[paras.length - 1];
-                    if (!last || last.join(' ').length > 700) {
-                      paras.push([sentence]);
-                    } else {
-                      last.push(sentence);
-                    }
-                    return paras;
-                  }, [])
-                  .map((para: string[], i: number) => (
-                    <p key={i}>{para.join(' ')}</p>
-                  ))
-                }
-                <p style={{ color: "#555", fontSize: "0.8rem", marginTop: "1rem" }}>
-                  Auto-generated transcript. May contain errors.
-                </p>
-              </>
-            ) : (
-              <p style={{ color: "#555" }}>Transcript coming soon — check back shortly.</p>
-            )}
-          </div>
-        </details>
+        {/* Full Transcript — loads on demand */}
+        <TranscriptSection slug={ep.slug} hasTranscript={ep.hasTranscript ?? false} />
 
       </div>
     </div>
