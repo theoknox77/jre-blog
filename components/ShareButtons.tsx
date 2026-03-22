@@ -86,8 +86,8 @@ export default function ShareButtons({ title, url, episodeNumber, guestName }: S
 
   return (
     <>
-      {/* Inline compact version in header (always visible) */}
-      <div style={{ display: "flex", gap: "0.4rem", alignItems: "center", flexWrap: "wrap" }}>
+      {/* Inline compact version in header (desktop only) */}
+      <div className="share-pill-desktop" style={{ display: "flex", gap: "0.4rem", alignItems: "center", flexWrap: "wrap" }}>
         <span style={{ color: "#555", fontSize: "0.7rem", fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.1em" }}>
           Share
         </span>
@@ -122,7 +122,7 @@ export default function ShareButtons({ title, url, episodeNumber, guestName }: S
         ))}
       </div>
 
-      {/* Floating side pill — appears after scroll */}
+      {/* Floating side pill — desktop only, appears after scroll */}
       <div
         style={{
           position: "fixed",
@@ -135,6 +135,7 @@ export default function ShareButtons({ title, url, episodeNumber, guestName }: S
           gap: "0.5rem",
           zIndex: 100,
         }}
+        className="share-pill-desktop"
       >
         {buttons.map((b) => (
           <button
