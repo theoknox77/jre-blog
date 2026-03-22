@@ -38,7 +38,8 @@ export interface Episode {
   products: Product[];
   tags: string[];
   relatedEpisodes: string[];
-  transcript: string;
+  transcript?: string;
+  hasTranscript?: boolean;
 }
 
 export interface Guest {
