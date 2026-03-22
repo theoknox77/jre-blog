@@ -29,7 +29,7 @@ export default function TranscriptSection({ slug, hasTranscript }: TranscriptSec
 
   if (!hasTranscript) {
     return (
-      <details className="transcript-toggle" style={{ marginBottom: "4rem" }}>
+      <details className="transcript-toggle" style={{ marginBottom: "1.5rem" }}>
         <summary><span>Full Transcript</span></summary>
         <div className="transcript-content">
           <p style={{ color: "#555" }}>Transcript coming soon — check back shortly.</p>
@@ -39,7 +39,7 @@ export default function TranscriptSection({ slug, hasTranscript }: TranscriptSec
   }
 
   return (
-    <div className="transcript-toggle" style={{ marginBottom: "4rem" }}>
+    <div className="transcript-toggle" style={{ marginBottom: "1.5rem" }}>
       {/* Header row — click to toggle */}
       <div
         onClick={handleOpen}
