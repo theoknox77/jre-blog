@@ -208,13 +208,7 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
           </section>
         )}
 
-        {/* Reference Material */}
-        <section style={{ marginBottom: "2.5rem" }}>
-          <h2 style={{ fontSize: "1.8rem", color: "#F5F0E8", marginBottom: "0.75rem" }}>Reference Material</h2>
-          <p style={{ color: "#555", fontSize: "0.9rem" }}>
-            Articles, videos, and studies mentioned in this episode will appear here as we catalog them.
-          </p>
-        </section>
+        {/* Reference Material — hidden until we have real data to show */}
 
         {/* Ad — before transcript */}
         <AdSlot slot="7291834560" format="auto" style={{ marginBottom: "2.5rem" }} />
