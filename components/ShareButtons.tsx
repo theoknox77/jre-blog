@@ -17,6 +17,14 @@ export default function ShareButtons({ title, url, episodeNumber, guestName }: S
 
   const [copied, setCopied] = useState(false);
   const [visible, setVisible] = useState(false);
+  const [isDesktop, setIsDesktop] = useState(false);
+
+  useEffect(() => {
+    const check = () => setIsDesktop(window.innerWidth >= 1024);
+    check();
+    window.addEventListener("resize", check);
+    return () => window.removeEventListener("resize", check);
+  }, []);
 
   // Show pill after scrolling 300px
   useEffect(() => {
@@ -87,7 +95,7 @@ export default function ShareButtons({ title, url, episodeNumber, guestName }: S
   return (
     <>
       {/* Inline compact version in header (desktop only) */}
-      <div className="share-pill-desktop" style={{ display: "flex", gap: "0.4rem", alignItems: "center", flexWrap: "wrap" }}>
+      {isDesktop && <div style={{ display: "flex", gap: "0.4rem", alignItems: "center", flexWrap: "wrap" }}>
         <span style={{ color: "#555", fontSize: "0.7rem", fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.1em" }}>
           Share
         </span>
@@ -120,10 +128,10 @@ export default function ShareButtons({ title, url, episodeNumber, guestName }: S
             {b.icon}
           </button>
         ))}
-      </div>
+      </div>}
 
       {/* Floating side pill — desktop only, appears after scroll */}
-      <div
+      {isDesktop && <div
         style={{
           position: "fixed",
           left: "1rem",
@@ -135,7 +143,6 @@ export default function ShareButtons({ title, url, episodeNumber, guestName }: S
           gap: "0.5rem",
           zIndex: 100,
         }}
-        className="share-pill-desktop"
       >
         {buttons.map((b) => (
           <button
@@ -163,7 +170,7 @@ export default function ShareButtons({ title, url, episodeNumber, guestName }: S
             {b.icon}
           </button>
         ))}
-      </div>
+      </div>}
     </>
   );
 }
