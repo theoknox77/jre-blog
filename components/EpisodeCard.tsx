@@ -82,11 +82,11 @@ export default function EpisodeCard({ episode }: { episode: Episode }) {
               marginBottom: "0.75rem",
             }}
           >
-            {new Date(episode.date).toLocaleDateString("en-US", {
+            {episode.date ? new Date(episode.date).toLocaleDateString("en-US", {
               month: "long",
               day: "numeric",
               year: "numeric",
-            })}
+            }) : ""}
           </p>
           <p
             style={{
