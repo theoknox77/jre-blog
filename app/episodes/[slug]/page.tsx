@@ -102,7 +102,7 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
         </div>
 
         {/* Ad — below video */}
-        <AdSlot slot="4537956235" format="horizontal" style={{ marginBottom: "2.5rem" }} />
+        {/* Ad slot removed — was causing large blank gap on mobile */}
 
         {/* Who Is */}
         <section style={{ background: "#111111", border: "1px solid #2a2a2a", borderRadius: "8px", padding: "1.5rem", marginBottom: "2.5rem" }}>
