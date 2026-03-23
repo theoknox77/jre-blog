@@ -99,7 +99,9 @@ export default function EpisodeCard({ episode }: { episode: Episode }) {
               overflow: "hidden",
             }}
           >
-            {episode.tldr[0]}
+            {episode.tldr[0]?.includes("Transcript not available") || episode.tldr[0]?.includes("Cannot extract")
+              ? episode.guestBio?.slice(0, 120) || `${episode.guestName} on the Joe Rogan Experience.`
+              : episode.tldr[0]}
           </p>
         </div>
       </div>
