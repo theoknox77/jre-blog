@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/episodes/jre-:slug*",
+      "destination": "/episodes/:slug*",
+      "permanent": true
+    }
+  ]
+}
