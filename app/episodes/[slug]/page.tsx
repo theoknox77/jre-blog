@@ -186,7 +186,7 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
                 <a key={i} href={product.amazonUrl} target="_blank" rel="noopener noreferrer" className="product-card" style={{ textDecoration: "none", display: "block" }}>
                   <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: "0.5rem", marginBottom: "0.5rem" }}>
                     <p style={{ fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 700, fontSize: "1.05rem", textTransform: "uppercase", color: "#F5F0E8", margin: 0 }}>{product.name}</p>
-                    <span style={{ background: "#E85D04", color: "#fff", fontSize: "0.65rem", fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.06em", padding: "0.2rem 0.4rem", borderRadius: "3px", flexShrink: 0 }}>Amazon</span>
+                    <span style={{ background: (product as any).buttonLabel === "Netflix" ? "#e50914" : (product as any).buttonLabel === "Spotify" ? "#1db954" : (product as any).buttonLabel === "YouTube" ? "#ff0000" : (product as any).buttonLabel === "IMDB" ? "#f5c518" : (product as any).buttonLabel === "Prime Video" ? "#00a8e1" : "#E85D04", color: "#fff", fontSize: "0.65rem", fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.06em", padding: "0.2rem 0.4rem", borderRadius: "3px", flexShrink: 0 }}>{(product as any).buttonLabel || "Amazon"}</span>
                   </div>
                   <p style={{ color: "#9A9A8A", fontSize: "0.825rem", margin: 0 }}>{product.description}</p>
                 </a>

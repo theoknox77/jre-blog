@@ -6,6 +6,19 @@ const AD_BRANDS = ["perplexity","hellofresh","ziprecruiter","squarespace","audib
 
 const CATEGORIES = ["All", "Books", "Film", "Fitness Equipment", "Food & Drink", "Health", "Music", "Podcasts", "Sports", "Supplements", "Tech", "Other"];
 
+function getLabelColor(label: string): string {
+  switch(label) {
+    case "Netflix": return "#e50914";
+    case "Spotify": return "#1db954";
+    case "YouTube": return "#ff0000";
+    case "IMDB": return "#f5c518";
+    case "Prime Video": return "#00a8e1";
+    case "Watch": return "#6200ea";
+    case "Search": return "#555";
+    default: return "#E85D04"; // Amazon / orange
+  }
+}
+
 export default function MentionedPage() {
   const [query, setQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState("All");
@@ -131,8 +144,8 @@ export default function MentionedPage() {
                     <p style={{ fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 700, fontSize: "1.05rem", textTransform: "uppercase", color: "#F5F0E8", margin: 0 }}>
                       {product.name}
                     </p>
-                    <span style={{ background: "#E85D04", color: "#fff", fontSize: "0.6rem", fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.06em", padding: "0.2rem 0.4rem", borderRadius: "3px", flexShrink: 0 }}>
-                      Amazon
+                    <span style={{ background: getLabelColor((product as any).buttonLabel), color: "#fff", fontSize: "0.6rem", fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.06em", padding: "0.2rem 0.4rem", borderRadius: "3px", flexShrink: 0 }}>
+                      {(product as any).buttonLabel || "Amazon"}
                     </span>
                   </div>
                   {product.description && (
