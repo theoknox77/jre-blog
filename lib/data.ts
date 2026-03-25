@@ -63,9 +63,9 @@ export interface Topic {
   episodeSlugs: string[];
 }
 
-export const episodes: Episode[] = episodesData as Episode[];
-export const guests: Guest[] = guestsData as Guest[];
-export const topics: Topic[] = topicsData as Topic[];
+export const episodes: Episode[] = episodesData as unknown as Episode[];
+export const guests: Guest[] = guestsData as unknown as Guest[];
+export const topics: Topic[] = topicsData as unknown as Topic[];
 
 export function getEpisodeBySlug(slug: string): Episode | undefined {
   return episodes.find((e) => e.slug === slug);

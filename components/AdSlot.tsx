@@ -16,7 +16,7 @@ export default function AdSlot({ slot, format = "auto", style }: AdSlotProps) {
   }, []);
 
   return (
-    <div style={{ textAlign: "center", overflow: "hidden", ...style }}>
+    <div style={{ textAlign: "center", overflow: "hidden", minHeight: 0, ...style }}>
       <ins
         className="adsbygoogle"
         style={{ display: "block" }}

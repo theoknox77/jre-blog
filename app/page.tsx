@@ -158,7 +158,7 @@ export default function HomePage() {
       </section>
 
       {/* Ad — between hero and content */}
-      <AdSlot slot="2847361590" format="horizontal" style={{ padding: "1rem 1.25rem", background: "#0a0a0a" }} />
+      <AdSlot slot="2847361590" format="horizontal" style={{ padding: "0", background: "#0a0a0a", minHeight: 0 }} />
 
       {/* How It Works */}
       <section
@@ -182,9 +182,10 @@ export default function HomePage() {
           <div
             style={{
               display: "grid",
-              gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
+              gridTemplateColumns: "repeat(3, 1fr)",
               gap: "1.5rem",
             }}
+            className="how-it-works-grid"
           >
             {[
               {
