@@ -4,7 +4,7 @@ import { episodes } from "@/lib/data";
 
 const AD_BRANDS = ["perplexity","hellofresh","ziprecruiter","squarespace","audible","draftkings","betterhelp","expressvpn","nordvpn","manscaped","athletic greens","ag1","roman","hims","keeps","mybookie","fanduel","prizepicks","underdog","betmgm","onnit ad","cash app","door dash","doordash"];
 
-const CATEGORIES = ["All", "Books", "Supplements", "Fitness Equipment", "Tech", "Food & Drink", "Other"];
+const CATEGORIES = ["All", "Books", "Film", "Fitness Equipment", "Food & Drink", "Health", "Music", "Sports", "Supplements", "Tech", "Other"];
 
 export default function MentionedPage() {
   const [query, setQuery] = useState("");
