@@ -12,13 +12,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: "JREINDEX — The Ultimate JRE Resource",
     description: "Every episode documented. Every guest indexed. Every cool thing mentioned — linked to Amazon.",
-    images: [{ url: "https://jreindex.com/jre-curtain.jpg", width: 1200, height: 630 }],
+    images: [{ url: "https://jreindex.com/og-image.jpg?v=2", width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",
     title: "JREINDEX — Every JRE Episode, Guest & Product",
     description: "The most complete Joe Rogan Experience resource on the internet.",
-    images: ["https://jreindex.com/jre-curtain.jpg"],
+    images: ["https://jreindex.com/og-image.jpg?v=2"],
   },
 };
 
