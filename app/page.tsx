@@ -158,7 +158,7 @@ export default function HomePage() {
       </section>
 
       {/* Ad — between hero and content */}
-      <AdSlot slot="2847361590" format="horizontal" style={{ padding: "0", background: "#0a0a0a", minHeight: 0 }} />
+      {/* Ad moved below Latest Episodes — no gap between hero and How It Works */}
 
       {/* How It Works */}
       <section
@@ -274,6 +274,9 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Ad between Latest Episodes and Topics */}
+      <AdSlot slot="2847361590" format="horizontal" style={{ padding: "0.5rem 0", background: "#0a0a0a" }} />
 
       {/* Topics */}
       <section
