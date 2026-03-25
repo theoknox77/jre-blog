@@ -160,7 +160,7 @@ export default function HomePage() {
       {/* Ad — between hero and content */}
       {/* Stats Bar */}
       <section style={{ background: "#0a0a0a", borderBottom: "1px solid #1a1a1a", padding: "1.75rem 1.25rem" }}>
-        <div style={{ maxWidth: "1100px", margin: "0 auto", display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))", gap: "1.5rem", textAlign: "center" }}>
+        <div style={{ maxWidth: "1100px", margin: "0 auto", display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: "1.5rem", textAlign: "center" }}>
           {[
             { num: "2,501", label: "Episodes" },
             { num: "2,024", label: "Guest Profiles" },
