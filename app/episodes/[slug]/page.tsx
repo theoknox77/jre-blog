@@ -210,8 +210,8 @@ export default async function EpisodePage({ params }: { params: Promise<{ slug: 
 
         {/* Reference Material — hidden until we have real data to show */}
 
-        {/* Ad — before transcript */}
-        <AdSlot slot="7291834560" format="auto" style={{ marginBottom: "2.5rem" }} />
+        {/* Ad — before transcript (collapsed when no ad loaded) */}
+        <AdSlot slot="7291834560" format="auto" style={{ marginBottom: 0, minHeight: 0 }} />
 
         {/* Full Transcript — loads on demand */}
         <TranscriptSection slug={ep.slug} hasTranscript={ep.hasTranscript ?? false} />

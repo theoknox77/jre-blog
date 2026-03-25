@@ -20,23 +20,14 @@ export default function TranscriptSection({ slug, hasTranscript }: TranscriptSec
         const data = await res.json();
         setTranscript(data.transcript);
       } catch {
-        setTranscript("Error loading transcript. Please try again.");
+        setOpen(false); // just close if it fails — no error message
       }
       setLoading(false);
     }
     setOpen((o) => !o);
   }
 
-  if (!hasTranscript) {
-    return (
-      <details className="transcript-toggle" style={{ marginBottom: "1.5rem" }}>
-        <summary><span>Full Transcript</span></summary>
-        <div className="transcript-content">
-          <p style={{ color: "#555" }}>Transcript coming soon — check back shortly.</p>
-        </div>
-      </details>
-    );
-  }
+  if (!hasTranscript) return null;
 
   return (
     <div className="transcript-toggle" style={{ marginBottom: "1.5rem" }}>
