@@ -158,7 +158,24 @@ export default function HomePage() {
       </section>
 
       {/* Ad — between hero and content */}
-      {/* Ad moved below Latest Episodes — no gap between hero and How It Works */}
+      {/* Stats Bar */}
+      <section style={{ background: "#0a0a0a", borderBottom: "1px solid #1a1a1a", padding: "1.75rem 1.25rem" }}>
+        <div style={{ maxWidth: "1100px", margin: "0 auto", display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))", gap: "1.5rem", textAlign: "center" }}>
+          {[
+            { num: "2,501", label: "Episodes" },
+            { num: "2,024", label: "Guest Profiles" },
+            { num: "2,420", label: "Episode Recaps" },
+            { num: "10,436", label: "Quotes" },
+            { num: "1,152", label: "Products Mentioned" },
+            { num: "10,460", label: "Key Moments" },
+          ].map(({ num, label }) => (
+            <div key={label}>
+              <div style={{ fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 900, fontSize: "clamp(1.6rem, 4vw, 2.2rem)", color: "#E85D04", lineHeight: 1, marginBottom: "0.3rem" }}>{num}</div>
+              <div style={{ fontSize: "0.75rem", fontWeight: 600, color: "#9A9A8A", textTransform: "uppercase", letterSpacing: "0.08em" }}>{label}</div>
+            </div>
+          ))}
+        </div>
+      </section>
 
       {/* How It Works */}
       <section
@@ -201,7 +218,7 @@ export default function HomePage() {
               {
                 icon: "🛒",
                 title: "Shop Everything Mentioned",
-                desc: "Books, supplements, gear, and more — every cool thing brought up across 2,471 episodes, linked straight to Amazon.",
+                desc: "Books, supplements, gear, and more — every cool thing brought up across 2,501 episodes, linked straight to Amazon.",
               },
             ].map(({ icon, title, desc }) => (
               <div
