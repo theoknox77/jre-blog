@@ -34,23 +34,28 @@ export default function MentionedPage() {
     });
   }, [allProducts, query, activeCategory]);
 
-  const byCategory: Record<string, typeof filtered> = {};
-  for (const p of filtered) {
-    const cat = p.category || "Other";
-    if (!byCategory[cat]) byCategory[cat] = [];
-    byCategory[cat].push(p);
-  }
+  // Bucket by category
+  const byCategory = useMemo(() => {
+    const map: Record<string, typeof filtered> = {};
+    for (const p of filtered) {
+      const cat = (p.category || "Other").trim();
+      if (!map[cat]) map[cat] = [];
+      map[cat].push(p);
+    }
+    return map;
+  }, [filtered]);
 
-  // Books first, then everything else alphabetical, Other always last
-  const sortedCategories = activeCategory !== "All"
-    ? [activeCategory]
-    : Object.keys(byCategory).sort((a, b) => {
-        if (a === "Books") return -1;
-        if (b === "Books") return 1;
-        if (a === "Other") return 1;
-        if (b === "Other") return -1;
-        return a.localeCompare(b);
-      });
+  // Sort categories: Books first, Other last, rest alphabetical
+  const sortedCategories = useMemo(() => {
+    if (activeCategory !== "All") return [activeCategory];
+    return Object.keys(byCategory).sort((a, b) => {
+      if (a === "Books") return -1;
+      if (b === "Books") return 1;
+      if (a === "Other") return 1;
+      if (b === "Other") return -1;
+      return a.localeCompare(b);
+    });
+  }, [byCategory, activeCategory]);
 
   return (
     <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "3rem 1.25rem" }}>
@@ -107,10 +112,13 @@ export default function MentionedPage() {
 
       {/* Products by category */}
       {sortedCategories.map(cat => (
-        <section key={cat} style={{ marginBottom: "3rem" }} id={cat.toLowerCase().replace(/\s+/g, "-")}>
-          <h2 style={{ fontSize: "1.8rem", color: "#F5F0E8", marginBottom: "1.25rem", borderBottom: "1px solid #1a1a1a", paddingBottom: "0.75rem" }}>
-            {cat}
-          </h2>
+        <section key={cat} style={{ marginBottom: "4rem", paddingTop: "1rem" }} id={cat.toLowerCase().replace(/\s+/g, "-")}>
+          <div style={{ display: "flex", alignItems: "baseline", gap: "1rem", borderBottom: "2px solid #E85D04", paddingBottom: "0.75rem", marginBottom: "1.5rem" }}>
+            <h2 style={{ fontFamily: "'Barlow Condensed', sans-serif", fontWeight: 900, fontSize: "2rem", textTransform: "uppercase", color: "#F5F0E8", margin: 0 }}>
+              {cat}
+            </h2>
+            <span style={{ color: "#9A9A8A", fontSize: "0.85rem" }}>{(byCategory[cat] || []).length} items</span>
+          </div>
           <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(420px, 1fr))", gap: "1rem" }}>
             {(byCategory[cat] || []).map((product, i) => (
               <a key={i} href={product.amazonUrl} target="_blank" rel="noopener noreferrer" className="product-card" style={{ textDecoration: "none", display: "flex", gap: "1rem", alignItems: "flex-start" }}>
