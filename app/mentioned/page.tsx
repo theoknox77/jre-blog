@@ -4,7 +4,7 @@ import { episodes } from "@/lib/data";
 
 const AD_BRANDS = ["perplexity","hellofresh","ziprecruiter","squarespace","audible","draftkings","betterhelp","expressvpn","nordvpn","manscaped","athletic greens","ag1","roman","hims","keeps","mybookie","fanduel","prizepicks","underdog","betmgm","onnit ad","cash app","door dash","doordash"];
 
-const CATEGORIES = ["All", "Books", "Film", "Fitness Equipment", "Food & Drink", "Health", "Music", "Sports", "Supplements", "Tech", "Other"];
+const CATEGORIES = ["All", "Books", "Film", "Fitness Equipment", "Food & Drink", "Health", "Music", "Podcasts", "Sports", "Supplements", "Tech", "Other"];
 
 export default function MentionedPage() {
   const [query, setQuery] = useState("");
@@ -34,13 +34,17 @@ export default function MentionedPage() {
     });
   }, [allProducts, query, activeCategory]);
 
-  // Bucket by category
+  // Bucket by category, sorted alphabetically within each
   const byCategory = useMemo(() => {
     const map: Record<string, typeof filtered> = {};
     for (const p of filtered) {
       const cat = (p.category || "Other").trim();
       if (!map[cat]) map[cat] = [];
       map[cat].push(p);
+    }
+    // Sort each bucket alphabetically by product name
+    for (const cat in map) {
+      map[cat].sort((a, b) => a.name.localeCompare(b.name));
     }
     return map;
   }, [filtered]);
