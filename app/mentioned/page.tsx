@@ -41,10 +41,16 @@ export default function MentionedPage() {
     byCategory[cat].push(p);
   }
 
-  const categoryOrder = ["Books", "Supplements", "Fitness Equipment", "Tech", "Food & Drink", "Other"];
+  // Books first, then everything else alphabetical, Other always last
   const sortedCategories = activeCategory !== "All"
     ? [activeCategory]
-    : [...categoryOrder.filter(c => byCategory[c]), ...Object.keys(byCategory).filter(c => !categoryOrder.includes(c))];
+    : Object.keys(byCategory).sort((a, b) => {
+        if (a === "Books") return -1;
+        if (b === "Books") return 1;
+        if (a === "Other") return 1;
+        if (b === "Other") return -1;
+        return a.localeCompare(b);
+      });
 
   return (
     <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "3rem 1.25rem" }}>
