@@ -17,7 +17,7 @@ export default function EpisodesPage() {
   const [query, setQuery] = useState("");
   const [searchIndex, setSearchIndex] = useState<SearchEntry[]>([]);
 
-  const sorted = useMemo(() => [...episodes].sort((a, b) => b.episodeNumber - a.episodeNumber), []);
+  const sorted = useMemo(() => [...episodes].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()), []);
 
   // Load search index once
   useEffect(() => {
@@ -73,7 +73,7 @@ export default function EpisodesPage() {
     }
 
     return scored
-      .sort((a, b) => b.score - a.score || b.ep.episodeNumber - a.ep.episodeNumber)
+      .sort((a, b) => b.score - a.score || new Date(b.ep.date).getTime() - new Date(a.ep.date).getTime())
       .map((s) => s.ep);
   }, [query, sorted, searchIndex, episodeMap]);
 
