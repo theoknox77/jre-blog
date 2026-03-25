@@ -25,12 +25,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: "JREINDEX",
-    images: [{ url: "/og-image.jpg?v=1", width: 1200, height: 630 }],
+    url: "https://jreindex.com",
+    images: [{ url: "https://jreindex.com/og-image.jpg?v=2", width: 1200, height: 630, alt: "JREINDEX — The Ultimate JRE Resource" }],
   },
   twitter: {
     card: "summary_large_image",
     site: "@jreindex",
-    images: ["/og-image.jpg?v=1"],
+    images: ["https://jreindex.com/og-image.jpg?v=2"],
   },
 };
 
