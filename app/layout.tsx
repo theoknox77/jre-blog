@@ -26,12 +26,12 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "JREINDEX",
     url: "https://jreindex.com",
-    images: [{ url: "https://jreindex.com/og-image.jpg?v=2", width: 1200, height: 630, alt: "JREINDEX — The Ultimate JRE Resource" }],
+    images: [{ url: "https://jreindex.com/og-image.jpg?v=3", width: 1200, height: 630, alt: "JREINDEX — The Ultimate JRE Resource" }],
   },
   twitter: {
     card: "summary_large_image",
     site: "@jreindex",
-    images: ["https://jreindex.com/og-image.jpg?v=2"],
+    images: ["https://jreindex.com/og-image.jpg?v=3"],
   },
 };
 
