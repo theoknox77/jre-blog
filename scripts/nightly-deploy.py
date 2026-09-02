@@ -20,7 +20,21 @@ VERCEL_PROJECT = "prj_UejdGXw6z46L0UDzWBkjTD0LLgq1"
 WORKSPACE = "/Users/theoknox/workspace/jre-blog"
 
 def get_token():
-    return subprocess.check_output(["gh", "auth", "token"]).decode().strip()
+    # Try gh CLI first (works in interactive shells)
+    try:
+        token = subprocess.check_output(["gh", "auth", "token"], stderr=subprocess.DEVNULL).decode().strip()
+        if token:
+            return token
+    except Exception:
+        pass
+    # Fall back to GH_TOKEN env var or ~/.config/gh-token
+    token = os.environ.get("GH_TOKEN", "")
+    if token:
+        return token
+    token_file = os.path.expanduser("~/.config/gh-token")
+    if os.path.exists(token_file):
+        return open(token_file).read().strip()
+    raise RuntimeError("No GitHub token found. Set GH_TOKEN env var or create ~/.config/gh-token")
 
 def gh_get(path, token):
     req = urllib.request.Request(
