@@ -113,22 +113,39 @@ def check_vercel_status():
         return state
     return "unknown"
 
+def git_push():
+    """Push local changes to GitHub using git (more reliable than API for large files)."""
+    import subprocess
+    result = subprocess.run(
+        ["git", "-C", WORKSPACE, "add", "data/episodes.json", "public/search-index.json"],
+        capture_output=True, text=True
+    )
+    result = subprocess.run(
+        ["git", "-C", WORKSPACE, "commit", "-m", f"Nightly deploy: update episodes + transcripts + search index", "--allow-empty"],
+        capture_output=True, text=True
+    )
+    print(f"git commit: {result.stdout.strip() or result.stderr.strip()[:100]}")
+    result = subprocess.run(
+        ["git", "-C", WORKSPACE, "push"],
+        capture_output=True, text=True, timeout=120
+    )
+    if result.returncode == 0:
+        print(f"git push: OK")
+        return True
+    else:
+        print(f"git push ERROR: {result.stderr[:200]}")
+        return False
+
 def main():
     print("=== JRE Nightly Deploy ===")
-    token = get_token()
 
     # Step 1: Strip transcripts from episodes.json
     episodes_path = strip_transcripts()
+    import shutil
+    shutil.copy(episodes_path, os.path.join(WORKSPACE, "data/episodes.json"))
 
-    # Step 2: Push episodes.json
-    push_file("data/episodes.json", episodes_path, token, "Nightly: update episodes.json")
-
-    # Step 3: Push search-index.json
-    search_path = os.path.join(WORKSPACE, "public/search-index.json")
-    if os.path.exists(search_path):
-        push_file("public/search-index.json", search_path, token, "Nightly: update search-index.json")
-    else:
-        print("search-index.json not found, skipping")
+    # Step 2: Push episodes.json + search-index.json via git (API had BrokenPipe issues)
+    git_push()
 
     # Step 4: Trigger Vercel deploy
     trigger_deploy(token)
