@@ -1,0 +1,111 @@
+{
+  "id": "2465",
+  "slug": "2465-michael-shellenberger",
+  "episodeNumber": 2465,
+  "title": "JRE 2465 - Michael Shellenberger",
+  "guestName": "Michael Shellenberger",
+  "guestSlug": "michael-shellenberger",
+  "date": "",
+  "youtubeId": "7ph99mEQrTY",
+  "spotifyUrl": "",
+  "guestBio": "Michael Shellenberger is an author, journalist, and founder of Civilization Works. He is the CBR Chair of Politics, Censorship, and Free Speech at the University of Austin. His books include “Apocalypse Never\" and “San Fransicko.\"",
+  "guestWebsite": "https://www.public.news",
+  "guestYoutube": "https://www.youtube.com/@michaelshellenberger",
+  "guestTwitter": "@ShellenbergerMD",
+  "guestInstagram": "@michaelshellenberger",
+  "guestNetflix": "",
+  "tldr": [
+    "Trump's Iran strike represents a complete break from the post-WWII foreign policy establishment, with Trump making independent decisions without think tank or State Department consensus",
+    "Shellenberger argues Trump is genuinely his own man, pointing to him refusing to give Elon Musk the EV battery subsidy despite his $250 million campaign contribution",
+    "The administration seems focused on asserting American power and leverage rather than achieving specific regime change outcomes in Iran, Venezuela, or elsewhere",
+    "Biden's open border policy was driven by a combination of his cognitive decline and wanting to give progressive activists what they wanted on immigration",
+    "Mail-in voting and lack of voter ID requirements are indefensible policies that don't actually help poor people vote, as demonstrated by interviews showing most people already have ID",
+    "The collapse of the old liberal international order is being recognized globally, even by figures like Canadian PM Mark Carney at Davos"
+  ],
+  "recap": "Michael Shellenberger returns to discuss the Trump administration's radical departure from traditional American foreign policy, specifically the Iran strike that Joe found confusing and concerning. The conversation centers on whether Trump is actually independent or being influenced by hawks like Netanyahu, with Shellenberger arguing pretty convincingly that Trump does whatever he wants. His evidence is compelling: he literally wouldn't give Elon Musk the battery subsidy he lobbied for, so why would he bend the knee to Netanyahu? That's fair.\n\nThe broader point Shellenberger makes is that we're witnessing the complete collapse of the post-1945 international order where the UN, Security Council, think tanks, and the so-called Cathedral decided everything. Trump just ignores all of it and acts. He's not trying to achieve regime change in Iran necessarily, he's just asserting power and using leverage. Whether that's smart or reckless is still unclear, but Shellenberger sees parallels to Reagan pushing back against communism with a moral argument, except this time there's less moral clarity about what we're actually trying to accomplish.\n\nJoe pushes back on this being a good idea, especially given Trump ran on no more wars, and Shellenberger admits he has mixed feelings. But he also points out that we don't have opposition leaders to work with in Iran, Venezuela, or Cuba, so the whole \"they should rise up\" narrative is halfhearted theater. The administration knows this.\n\nThe conversation pivots to Biden's open border policy, which Shellenberger says was partly Biden's cognitive decline and partly just wanting to appease the progressive left and Soros-backed immigration groups. Joe brings up the obvious voter importation strategy, which Shellenberger actually disputes using polling data showing that if all eligible voters had voted, Trump would have won by three points instead of 1.5. The voter ID debate gets heated with Joe rightfully pointing out that people need ID for vaccines but suddenly don't need ID to vote, which is absurd. Shellenberger agrees it makes no sense and that progressives just repeat what they hear without thinking about it.\n\nThe episode explores how Trump represents something genuinely new in American politics: a president who isn't beholden to the institutional structure that normally constrains executive power. Whether that's liberating or dangerous remains the fundamental question they can't quite answer.",
+  "keyMoments": [
+    {
+      "label": "Shellenberger explains Trump's Iran strategy isn't about regime change but asserting American power",
+      "timestamp": "0:08:30",
+      "seconds": 510
+    },
+    {
+      "label": "Joe expresses confusion about why any of this makes sense given Trump ran on no more wars",
+      "timestamp": "0:12:15",
+      "seconds": 735
+    },
+    {
+      "label": "Shellenberger uses Elon not getting battery subsidy as evidence Trump is truly independent",
+      "timestamp": "0:15:45",
+      "seconds": 945
+    },
+    {
+      "label": "Discussion of Reagan's moral argument against communism parallels to current Iran situation",
+      "timestamp": "0:28:00",
+      "seconds": 1680
+    },
+    {
+      "label": "Voter ID debate with Joe arguing it's obviously reasonable to require ID to vote",
+      "timestamp": "0:42:30",
+      "seconds": 2550
+    }
+  ],
+  "quotes": [
+    "Trump is in charge like he's making these decisions. There's nobody behind him. There's nobody pulling the strings, not the Russians, not the Israelis, nobody.",
+    "I would have thought at a minimum you'd give your largest campaign contributor the one thing he wants. The fact that he didn't give Elon the battery credit tells me Trump is fully independent.",
+    "The entire paradigm where the United States had these allies and everything's going to go through the security council, that's just gone now.",
+    "When you don't have evidence of something, then you can't assume that it's happening. We don't see any evidence for it.",
+    "You need an ID to prove you've been vaccinated to work, to get on a plane, to eat at a restaurant. But you don't need an ID to vote? That's stupid."
+  ],
+  "products": [
+    {
+      "name": "Perplexity AI",
+      "description": "AI search app available at pplx.ai/rogan",
+      "amazonUrl": "https://www.perplexity.ai",
+      "category": "Tech",
+      "url": "https://www.perplexity.ai",
+      "buttonLabel": "Visit"
+    },
+    {
+      "name": "Visible Wireless",
+      "description": "Digital wireless carrier offering unlimited data and hotspot for $25/month with taxes and fees included",
+      "amazonUrl": "https://www.amazon.com/s?k=Visible%20Wireless&tag=selfcaremap-20",
+      "category": "Tech",
+      "url": "https://www.amazon.com/s?k=Visible%20Wireless&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "TurboTax",
+      "description": "Tax software from Intuit available at turbotax.intuit.com",
+      "amazonUrl": "https://www.amazon.com/s?k=TurboTax&tag=selfcaremap-20",
+      "category": "Tech",
+      "url": "https://www.amazon.com/s?k=TurboTax&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Apocalypse Never",
+      "description": "Book by Michael Shellenberger exploring environmental and energy policy",
+      "amazonUrl": "https://www.amazon.com/s?k=Apocalypse%20Never&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Apocalypse%20Never&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "San Fransicko",
+      "description": "Book by Michael Shellenberger about homelessness and urban policy in San Francisco",
+      "amazonUrl": "https://www.amazon.com/s?k=San%20Fransicko&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=San%20Fransicko&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "politics",
+    "military",
+    "history",
+    "philosophy"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "Joe Rogan podcast. Check it out. >> The Joe Rogan Experience. >> TRAIN BY DAY. JOE ROGAN PODCAST BY NIGHT. All day. >> Good to see you, sir. Thanks for having me back. >> My pleasure. Always. >> Yeah. >> So much crazy going on in the world and and even before we scheduled this like uh more crazy stuff has happened. The war broke out, all kinds of things. >> Yeah. How are you uh how are you feeling about the President Trump? >> That's a open-ended question. Um >> do you text with him and talk to him? >> Occasionally. Yeah, occasionally he'll send me a text. I I get these like truth social posts of uh you know, things that he's saying, but this whole  Iran thing, man. Like, did you see this coming? >> No, definitely. I don't know. I mean, who did? Uh I mean, when did he even decide? you know, their national security strategy they put out in November basically just said we've degraded their capacity. It's a win. There was no sense in which there would be additional action. I think it ushers in a new paradigm completely like the older post-war era is just over. Mark Carney, the prime minister of Canada, articulated that the World Economic Forum probably better than the Trump administration did, saying very clearly that older rules-based order is gone. You saw AOC try to sort of articulate it, but she sort of fell apart at the Munich Security Conference in in February. So, this is an administration that is I mean, and I don't even think they're thinking I wrote a piece and I decided not to publish it because I was sort of like decapitation doesn't really work for regime change, but it's not clear that they're really out for regime change or they're just asserting power, shaking up things. I mean, some of it's art of the deal, changing the person that we're negotiating with, that's Venezuela and Iran. Is it really going to change those regimes? I don't I don't think most people don't think so. But that I'm not sure that that's what they're going for. They're just going for an assertion of American power in service of American interests. And then what happens in Iran, what happens in Venezuela, I don't think they care that much about. At least they're not behaving as though they do. >> Well, the none neither thing made any sense to me. the Venezuela thing. I mean, look, they wanted him out forever, and he definitely stole the election to get in there in the first place, and he was a dictator, but at least that one was at least clean. They go in, kidnap him, get him out. This one's nuts. Like, and what's happening in Tel Aviv, it's it's hard to know what's real and what's not because there's a lot of uh fake video going around and a lot of weird posts on X. So, it's, you know, when I do peek in, it's hard to know. And you have to listen to Grock and then Grock's dismantling a lot of the uh fake videos. >> Mhm. What What are the fake videos that you're thinking? >> This is like fake videos of, you know, like an insane amount of bombs dropping down on the city, but it seems like there's a massive amount of destruction in Tel Aviv. >> Yeah. I haven't checked in lately, but I'm assuming. Was that just today or >> yesterday? Yeah. >> Yeah. Um, I mean, I think the president is, there's been some dis, you know, Rubio said something about how, oh, we had to act because we knew that Israel was going to act anyway, and I think people interpreted, and then Netanyahu was in the White House a lot. This, I think this president has shown, whether you like him or not, you know, and there's certainly things that I'm unhappy about and have criticized, but I think Trump is in charge like he's making these decisions. There's nobody behind him. There's nobody nobody pulling for all of that you know the Russians or whoever some you know these now the Israelis you know it's just he's clearly I mean Elon gave him you know $250 million and he still you he didn't give him even the electric car credit you know like like Trump is in charge you know like I think that's one of the big lessons from this and I don't think that I think that means that there's not a lot of like second order thinking here like oh what's the move after that he doesn't know he's just acting that's what's so wild about it is that this older foreign policy establishment which you know was like let the experts decide what the right foreign polic you know all these think tanks and that's just gone now it's just irrelevant in this presidency and I don't think it'll come back like if you get a Gavin Newsome president AOC I don't >> president who >> I don't think yeah for a minute before before Munich but I don't think it's going to come back and I think that that's what the prime minister of Canada realized I think that's what the Europeans are starting to realize is that this is a completely different world that we live in than the one we lived in just a couple of years ago, >> which just doesn't make any sense to me unless we're acting on someone else's interest, like par...",
+  "guestNetWorth": "$3 million"
+}
