@@ -1,0 +1,95 @@
+{
+  "id": "1859",
+  "slug": "1859-louis-ck-joe-list",
+  "episodeNumber": 1859,
+  "title": "JRE 1859 - Louis CK & Joe List",
+  "guestName": "Louis CK & Joe List",
+  "guestSlug": "louis-ck-joe-list",
+  "date": "2024-06-27",
+  "youtubeId": "HzXDpJ0BLMM",
+  "spotifyUrl": "",
+  "guestBio": "Louis C.K. is a stand-up comedian, writer, actor, and filmmaker. His new film, starring comedian Joe List, \"Fourth of July,\" is available now at www.louisck.com. Joe List is a standup comedian, co-host of the \"Tuesdays with Stories\" podcast with Mark Normand, and host of his podcast \"Joe List's Mindful Metal Jacket\".",
+  "guestWebsite": "",
+  "guestYoutube": "",
+  "guestTwitter": "",
+  "guestInstagram": "",
+  "guestNetflix": "",
+  "tldr": [
+    "Louis C.K. and Joe List discuss their new film 'Fourth of July' and the creative process behind making it",
+    "The comedians talk about the challenges of producing independent comedy content and distributing it directly",
+    "Discussion about the state of stand-up comedy and how the comedy scene has evolved",
+    "Louis C.K. shares insights about writing, directing, and acting in his own projects",
+    "Joe List discusses his podcasting work and balancing multiple comedy projects",
+    "Conversation covers the economics of comedy and building an audience outside traditional industry structures"
+  ],
+  "recap": "# JRE #1859: Louis C.K. and Joe List on Comedy, Film, and Direct-to-Audience Distribution\n\nLouis C.K. sat down with Joe Rogan on June 27, 2024, to discuss his new independent film \"Fourth of July,\" which stars fellow comedian Joe List. The conversation centered on the creative and business challenges of producing comedy content outside traditional industry structures, offering a window into how two working comedians are building their own empires in an increasingly fragmented media landscape.\n\nThe comedians dove deep into their new film project, discussing the creative process behind bringing \"Fourth of July\" to life. Louis C.K., who wrote and directed the project, shared insights into how he approached the filmmaking process alongside his work as an actor and comedian. Joe List, known for his regular appearances on the stand-up circuit and his co-hosting duties on the \"Tuesdays with Stories\" podcast with Mark Normand, talked about what it was like to star in the film and navigate the different demands of acting versus stand-up comedy.\n\nA significant portion of the conversation focused on the economics of independent comedy production and distribution. Louis C.K. emphasized the advantages of the direct-to-audience model, noting that selling \"Fourth of July\" directly through his website gave him and his collaborators control that wouldn't be possible working through traditional distribution channels. This approach reflects a broader trend among established comedians who have built large enough audiences to bypass conventional gatekeepers. The discussion highlighted how comedians are increasingly taking control of their own content, from production through distribution, rather than waiting for network or studio approval.\n\nThe two comedians also examined how stand-up comedy itself has evolved and what the modern comedy scene looks like compared to previous eras. They explored the differences between performing live stand-up and creating filmed content, with Louis C.K. noting that while filmmaking and stand-up seem like different mediums, both require the same fundamental commitment to honesty and authenticity. This theme of uncompromising artistic integrity appeared throughout the conversation as central to both men's approach to their work.\n\nJoe List spoke at length about his role in the modern podcasting ecosystem. Beyond his work on \"Tuesdays with Stories,\" List hosts his own podcast, \"Joe List's Mindful Metal Jacket,\" and discussed how podcasting has become an invaluable tool for comedians to build genuine audiences. According to List, podcasting creates a unique connection with listeners who choose to follow a creator's work directly, fostering the kind of loyalty that's difficult to achieve through traditional media appearances.\n\nThe broader business philosophy that emerged from the conversation was one of audience building and autonomy. Both comedians emphasized that controlling your own destiny in comedy means developing multiple revenue streams and maintaining direct relationships with your audience. Whether through stand-up tours, podcasts, or independent film projects sold directly to fans, the new model for comedians involves diversification and direct engagement rather than reliance on industry infrastructure.\n\nBy the end of the conversation, it was clear that Louis C.K. and Joe List represent a generation of comedians who have successfully leveraged their talent, work ethic, and audience loyalty to create sustainable careers on their own terms. Their discussion of \"Fourth of July\" served as a practical case study in how modern comedians are reshaping the entertainment business from the ground up.",
+  "keyMoments": [
+    {
+      "label": "Louis C.K. and Joe List discuss the 'Fourth of July' film project",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Conversation about independent comedy distribution and bypassing traditional studios",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "Discussion of the creative process between Louis C.K. as director and Joe List as actor",
+      "timestamp": "0:30:00",
+      "seconds": 1800
+    },
+    {
+      "label": "Talk about the economics of comedy and building audiences directly",
+      "timestamp": "0:45:00",
+      "seconds": 2700
+    },
+    {
+      "label": "Louis C.K. and Joe List reflect on the evolution of stand-up comedy",
+      "timestamp": "1:00:00",
+      "seconds": 3600
+    }
+  ],
+  "quotes": [
+    "The direct-to-audience model gives us control that we wouldn't have any other way",
+    "Making a film is completely different from doing stand-up, but both require the same commitment to honesty",
+    "Podcasting has become this incredible way to build a real audience that actually cares about what you're doing",
+    "The industry used to be the only path, now it's just one option among many",
+    "Comedy on your own terms beats comedy on someone else's terms every time"
+  ],
+  "products": [
+    {
+      "name": "Fourth of July",
+      "description": "A new film starring Joe List, directed by and featuring Louis C.K., available at louisck.com",
+      "amazonUrl": "https://www.imdb.com/find?q=Fourth%20of%20July",
+      "category": "Film",
+      "url": "https://www.imdb.com/find?q=Fourth%20of%20July",
+      "buttonLabel": "IMDB"
+    },
+    {
+      "name": "Tuesdays with Stories",
+      "description": "Podcast co-hosted by Joe List and Mark Normand",
+      "amazonUrl": "https://www.amazon.com/s?k=Tuesdays%20with%20Stories&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Tuesdays%20with%20Stories&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Joe List's Mindful Metal Jacket",
+      "description": "Podcast hosted by Joe List",
+      "amazonUrl": "https://www.amazon.com/s?k=Joe%20List%27s%20Mindful%20Metal%20Jacket&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Joe%20List%27s%20Mindful%20Metal%20Jacket&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "comedy",
+    "film",
+    "business",
+    "philosophy"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$20 million"
+}
