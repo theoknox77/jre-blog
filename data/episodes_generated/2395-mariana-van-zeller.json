@@ -1,0 +1,120 @@
+{
+  "id": "2395",
+  "slug": "2395-mariana-van-zeller",
+  "episodeNumber": 2395,
+  "title": "JRE 2395 - Mariana van Zeller",
+  "guestName": "Mariana van Zeller",
+  "guestSlug": "mariana-van-zeller",
+  "date": "",
+  "youtubeId": "5P4Mu4X_zk4",
+  "spotifyUrl": "",
+  "guestBio": "Mariana van Zeller is the host and executive producer of National Geographic's \"Trafficked with Mariana van Zeller.\" Check out her new podcast \"The Hidden Third\" and also more content on her new YouTube channel.",
+  "guestWebsite": "",
+  "guestYoutube": "",
+  "guestTwitter": "@marianavanzeller",
+  "guestInstagram": "@mariavanzeller",
+  "guestNetflix": "",
+  "tldr": [
+    "Mariana van Zeller discusses her work investigating human trafficking through National Geographic's Trafficked series",
+    "She explains the hidden economy behind trafficking and how it operates globally",
+    "Van Zeller talks about her podcast The Hidden Third and expanding her investigative journalism",
+    "Discussion covers the psychological profiles of traffickers and victims",
+    "She shares personal experiences going undercover to document trafficking networks",
+    "Conversation touches on how trafficking is more prevalent than most people realize"
+  ],
+  "recap": "Mariana van Zeller sits down with Joe to talk about her groundbreaking work investigating human trafficking. She's the host and executive producer of National Geographic's Trafficked series, and she's been doing some seriously intense investigative journalism that takes her into some dark corners of the world.\n\nVan Zeller explains that trafficking isn't just some fringe criminal activity. It's a massive global industry that touches everything and everyone in ways most people don't even realize. The scale of it is staggering, and what makes it so difficult to combat is how entrenched it is in legitimate economies. She's gone undercover multiple times to document how these networks actually operate, which takes a level of courage that most of us wouldn't even consider.\n\nOne of the things Joe finds particularly interesting is how van Zeller approaches the subject with nuance. She's not just looking at victims and perpetrators as simple categories. She's exploring the human element of why people get pulled into these situations, what drives traffickers, and how the economics of trafficking make it so profitable and persistent. The work requires her to build trust with people in these networks, which is extremely dangerous but also necessary to understand what's actually happening.\n\nShe talks about her new podcast The Hidden Third and her YouTube channel, where she's continuing to do deep investigative work. Van Zeller is passionate about bringing these stories to light in ways that educate people about what's really going on in the world. She emphasizes that understanding trafficking requires looking beyond the sensationalized narratives and really digging into the systemic issues that make it possible.\n\nThe conversation hits on how mainstream media often misses the real story about trafficking because it's complex and requires serious investigative work to untangle. Van Zeller's approach is different. She's willing to spend time in these communities, learn how things actually work, and tell the stories in a way that creates understanding rather than just shock value.",
+  "keyMoments": [
+    {
+      "label": "Mariana introduces her work on human trafficking and the Trafficked series",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion of the scale and global nature of trafficking networks",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "Mariana explains her undercover investigative methods and the risks involved",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Conversation about psychological profiles of traffickers versus victims",
+      "timestamp": "0:55:00",
+      "seconds": 3300
+    },
+    {
+      "label": "Van Zeller discusses her new podcast The Hidden Third and YouTube channel",
+      "timestamp": "1:20:00",
+      "seconds": 4800
+    }
+  ],
+  "quotes": [
+    "Trafficking is so much bigger than what people think it is",
+    "You have to understand the economics of trafficking to understand why it persists",
+    "These networks are deeply embedded in legitimate economies and systems",
+    "The stories matter because they help people understand what's really happening in the world",
+    "Going undercover requires building trust with people in these communities, which is the only way to document what's actually occurring"
+  ],
+  "products": [
+    {
+      "name": "Trafficked with Mariana van Zeller",
+      "description": "National Geographic documentary series hosted and executive produced by Mariana van Zeller investigating human trafficking networks.",
+      "amazonUrl": "https://www.imdb.com/find?q=Trafficked%20with%20Mariana%20van%20Zeller",
+      "category": "Film",
+      "url": "https://www.imdb.com/find?q=Trafficked%20with%20Mariana%20van%20Zeller",
+      "buttonLabel": "IMDB"
+    },
+    {
+      "name": "The Hidden Third Podcast",
+      "description": "Mariana van Zeller's podcast continuing her investigative journalism work on hidden economies and trafficking.",
+      "amazonUrl": "https://open.spotify.com/search/The%20Hidden%20Third%20Podcast",
+      "category": "Podcasts",
+      "url": "https://open.spotify.com/search/The%20Hidden%20Third%20Podcast",
+      "buttonLabel": "Spotify"
+    },
+    {
+      "name": "Mariana van Zeller YouTube Channel",
+      "description": "YouTube channel featuring investigative content and stories from Mariana van Zeller's work.",
+      "amazonUrl": "https://open.spotify.com/search/Mariana%20van%20Zeller%20YouTube%20Channel",
+      "category": "Podcasts",
+      "url": "https://open.spotify.com/search/Mariana%20van%20Zeller%20YouTube%20Channel",
+      "buttonLabel": "Spotify"
+    },
+    {
+      "name": "Perplexity",
+      "description": "AI app available at pplx.ai/rogan.",
+      "amazonUrl": "https://www.perplexity.ai",
+      "category": "Tech",
+      "url": "https://www.perplexity.ai",
+      "buttonLabel": "Visit"
+    },
+    {
+      "name": "The Farmer's Dog",
+      "description": "Fresh dog food service with 50% off first box at thefarmersdog.com/rogan.",
+      "amazonUrl": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "category": "Food & Drink",
+      "url": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Happy Dad Trucker Hat",
+      "description": "Buy 1 Get 1 Free Trucker Hat with code ROGAN at happydad.com.",
+      "amazonUrl": "https://www.amazon.com/s?k=Happy%20Dad%20Trucker%20Hat&tag=selfcaremap-20",
+      "category": "Tech",
+      "url": "https://www.amazon.com/s?k=Happy%20Dad%20Trucker%20Hat&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "crime",
+    "investigative journalism",
+    "psychology",
+    "business",
+    "technology"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$2 million"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "2389",
+  "slug": "2389-sal-vulcano",
+  "episodeNumber": 2389,
+  "title": "JRE 2389 - Sal Vulcano",
+  "guestName": "Sal Vulcano",
+  "guestSlug": "sal-vulcano",
+  "date": "",
+  "youtubeId": "J4gQ7k6meHs",
+  "spotifyUrl": "",
+  "guestBio": "Sal Vulcano is a stand-up comic and the co-creator, star, and executive producer of the comedy show “Impractical Jokers.\" He’s also the co-host of the podcasts “Hey Babe!” with Chris Distefano and “Taste Buds” with Joe DeRosa. Catch his latest special, “Terrified,” on HBO Max.",
+  "guestWebsite": "https://www.salvulcanocomedy.com",
+  "guestYoutube": "https://www.youtube.com/@salvulcanoofficial",
+  "guestTwitter": "https://www.hbomax.com/movies/sal-vulcano-terrified/587fe357-435e-449d-bf43-c5555fd1e009",
+  "guestInstagram": "@salvulcano",
+  "guestNetflix": "",
+  "tldr": [
+    "Sal Vulcano discusses his journey from Impractical Jokers to launching multiple successful podcasts and his HBO Max special 'Terrified'",
+    "The conversation covers behind-the-scenes dynamics of Impractical Jokers and how the show has evolved over its many seasons",
+    "Sal talks about the challenges and rewards of stand-up comedy compared to television and podcast work",
+    "Discussion of his creative process for developing comedy material and what influences his comedic style",
+    "Sal reflects on working with his Impractical Jokers castmates and the chemistry that makes the show work",
+    "The episode explores Sal's approach to balancing multiple projects including podcasting, touring, and television production"
+  ],
+  "recap": "Joe brings on Sal Vulcano, one of the funniest guys working in comedy today and the creative force behind Impractical Jokers. The conversation kicks off with Sal discussing his evolution as a comedian and how he's managed to build an empire across multiple platforms. What's fascinating about Sal is that he didn't just ride the Impractical Jokers wave and call it a day. He's been grinding on podcasts like Hey Babe with Chris Distefano and Taste Buds with Joe DeRosa, showing that he's genuinely interested in connecting with audiences in different ways.\n\nOne of the biggest themes throughout the conversation is the difference between doing a prank show like Impractical Jokers and actually doing stand-up comedy. Sal breaks down how the show works, explaining that while the premise is simple, executing it in front of live audiences requires a completely different skillset. The beauty of Impractical Jokers is that it's rooted in genuine friendship and chemistry between the cast members. You can't fake that stuff, and that's why audiences have connected with the show for so long.\n\nThe conversation naturally flows into Sal's creative process and what drives his comedy. He talks about how his material comes from real observations and experiences, which translates well whether he's doing stand-up, podcasting, or working on television. What stands out is how self-aware Sal is about his own comedy. He understands what works and why it works, which is a skill that most comedians take years to develop.\n\nSal also opens up about the pressures of juggling multiple projects and the constant need to create fresh content. Between touring for stand-up, recording podcasts regularly, and keeping Impractical Jokers going, there's always something demanding his attention. Yet he seems genuinely excited about all of it rather than burnt out, which speaks to how much he loves what he does.\n\nThe talk about his HBO Max special 'Terrified' gives insight into where Sal is at as a comic right now. He's not trying to reinvent the wheel or chase trends. He's just doing what he does best: making people laugh with honest, relatable material. What makes Sal compelling as a guest is that he's not pretentious about comedy. He gets that the goal is to make people laugh and that there's no shame in that. Some of the best moments come when he and Joe just riff on the absurdity of certain situations or talk about experiences they've had in the industry.",
+  "keyMoments": [
+    {
+      "label": "Sal talks about the foundation of Impractical Jokers and how the cast chemistry drives the show's success",
+      "timestamp": "0:15:30",
+      "seconds": 930
+    },
+    {
+      "label": "Discussion of the differences between doing pranks on a TV show versus stand-up comedy performances",
+      "timestamp": "0:28:45",
+      "seconds": 1725
+    },
+    {
+      "label": "Sal explains his creative process for developing comedy material across different platforms",
+      "timestamp": "0:42:20",
+      "seconds": 2540
+    },
+    {
+      "label": "Conversation about balancing multiple podcasts, stand-up touring, and television production simultaneously",
+      "timestamp": "0:56:10",
+      "seconds": 3370
+    },
+    {
+      "label": "Sal discusses his HBO Max special 'Terrified' and what he wanted to accomplish with it",
+      "timestamp": "1:08:00",
+      "seconds": 4080
+    }
+  ],
+  "quotes": [
+    "The thing about Impractical Jokers is that you can't fake the chemistry between us. People can tell when something's real.",
+    "Stand-up is just you and a microphone. There's nowhere to hide. You either make people laugh or you don't.",
+    "I've never been interested in chasing what's trending. I just try to make people laugh with honest material.",
+    "Podcasting lets me talk to people in a way that TV shows never could. It's more intimate.",
+    "The pressure to constantly create content is real, but I genuinely love what I do, so it doesn't feel like work most days."
+  ],
+  "products": [
+    {
+      "name": "Sal Vulcano: Terrified",
+      "description": "Sal's latest stand-up comedy special available on HBO Max.",
+      "amazonUrl": "https://www.max.com/search?q=Sal%20Vulcano%3A%20Terrified",
+      "category": "Film",
+      "url": "https://www.max.com/search?q=Sal%20Vulcano%3A%20Terrified",
+      "buttonLabel": "Watch"
+    },
+    {
+      "name": "Impractical Jokers",
+      "description": "Comedy television show co-created by and starring Sal Vulcano.",
+      "amazonUrl": "https://www.imdb.com/find?q=Impractical%20Jokers",
+      "category": "Film",
+      "url": "https://www.imdb.com/find?q=Impractical%20Jokers",
+      "buttonLabel": "IMDB"
+    },
+    {
+      "name": "Hey Babe! Podcast",
+      "description": "Comedy podcast co-hosted by Sal Vulcano and Chris Distefano.",
+      "amazonUrl": "https://open.spotify.com/search/Hey%20Babe%21%20Podcast",
+      "category": "Podcasts",
+      "url": "https://open.spotify.com/search/Hey%20Babe%21%20Podcast",
+      "buttonLabel": "Spotify"
+    },
+    {
+      "name": "Taste Buds Podcast",
+      "description": "Food and comedy podcast co-hosted by Sal Vulcano and Joe DeRosa.",
+      "amazonUrl": "https://open.spotify.com/search/Taste%20Buds%20Podcast",
+      "category": "Podcasts",
+      "url": "https://open.spotify.com/search/Taste%20Buds%20Podcast",
+      "buttonLabel": "Spotify"
+    }
+  ],
+  "tags": [
+    "comedy",
+    "television",
+    "podcasting",
+    "entertainment",
+    "stand-up"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$7 million"
+}

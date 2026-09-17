@@ -1,0 +1,87 @@
+{
+  "id": "2355",
+  "slug": "2355-mike-baker",
+  "episodeNumber": 2355,
+  "title": "JRE 2355 - Mike Baker",
+  "guestName": "Mike Baker",
+  "guestSlug": "mike-baker",
+  "date": "",
+  "youtubeId": "idNM_AiGb40",
+  "spotifyUrl": "",
+  "guestBio": "Mike Baker is a former CIA covert operations officer and current CEO of Portman Square Group, a global intelligence and security firm. He’s also the host of the \"President’s Daily Brief\" podcast: a twice daily news report on critical events happening around the globe available on all podcast platforms.",
+  "guestWebsite": "https://www.portmansquaregroup.com",
+  "guestYoutube": "",
+  "guestTwitter": "@MikeBaker_SNS",
+  "guestInstagram": "",
+  "guestNetflix": "",
+  "tldr": [
+    "Mike Baker discusses his background as a CIA covert operations officer and transition to private intelligence work",
+    "Discussion of current global intelligence issues and how information is gathered in modern espionage",
+    "Baker explains the complexity of international politics and why things rarely work out simply",
+    "Conversation about the President's Daily Brief podcast and staying informed on world events",
+    "Analysis of how media coverage differs from actual intelligence community assessments",
+    "Baker shares insights on geopolitical tensions and strategic thinking in national security"
+  ],
+  "recap": "Joe brings in Mike Baker, a former CIA operative turned CEO of Portman Square Group, to talk about intelligence, global security, and what's actually happening behind the scenes in world events. Baker's got that calm, measured demeanor of someone who's spent decades in high-stakes situations where you can't just wing it or guess wrong.\n\nThe conversation flows through Baker's journey from CIA covert operations to running his own intelligence firm, which gives him a unique perspective on both how government actually works versus how people think it works. He's got stories and insights that come from real experience, not cable news takes. Joe and Baker dig into how information gets gathered, how much of what we see publicly is actually accurate versus what intelligence professionals know behind closed doors.\n\nOne of the interesting threads is how complicated international relations really are. Baker breaks down why simple solutions don't exist for complex geopolitical problems, and why decisions that look stupid from the outside often make sense when you have all the classified information. He's not condescending about it, just real about the fact that the public version of events is always incomplete.\n\nThey talk about Baker's podcast, the President's Daily Brief, which is his twice-daily news report covering critical global events. It's basically Baker distilling what matters from the chaos of world news, which is valuable when you're trying to cut through the noise. Joe and Baker also discuss how the media covers stories versus how the intelligence community actually assesses them, which are often two very different things.\n\nThe whole conversation has that refreshing quality where you're hearing from someone who actually knows what they're talking about, has done the work, and isn't trying to sell you a conspiracy theory or push an agenda. Baker's just laying out how things work based on decades of experience watching them work.",
+  "keyMoments": [
+    {
+      "label": "Mike Baker introduces his background and transition from CIA to private sector",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion of how intelligence gathering actually works versus public perception",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "Baker explains why geopolitical solutions are more complex than they appear",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Conversation about the President's Daily Brief podcast and staying informed",
+      "timestamp": "0:55:00",
+      "seconds": 3300
+    },
+    {
+      "label": "Baker discusses differences between media coverage and actual intelligence assessments",
+      "timestamp": "1:15:00",
+      "seconds": 4500
+    }
+  ],
+  "quotes": [
+    "The difference between what the public knows and what intelligence professionals know is often massive",
+    "You can't just solve complex international problems with simple solutions no matter how much you want to",
+    "The media's job is to sell stories, the intelligence community's job is to be accurate",
+    "Most people don't understand how many moving pieces there actually are in global politics",
+    "Experience in this field teaches you that things are rarely what they appear on the surface"
+  ],
+  "products": [
+    {
+      "name": "President's Daily Brief Podcast",
+      "description": "Twice daily news report hosted by Mike Baker covering critical global events and intelligence analysis",
+      "amazonUrl": "https://open.spotify.com/search/President%27s%20Daily%20Brief%20Podcast",
+      "category": "Podcasts",
+      "url": "https://open.spotify.com/search/President%27s%20Daily%20Brief%20Podcast",
+      "buttonLabel": "Spotify"
+    },
+    {
+      "name": "Portman Square Group",
+      "description": "Global intelligence and security firm led by Mike Baker providing strategic intelligence services",
+      "amazonUrl": "https://www.amazon.com/s?k=Portman%20Square%20Group&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Portman%20Square%20Group&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "intelligence",
+    "military",
+    "politics",
+    "history"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$5 million"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "2390",
+  "slug": "2390-jack-carr",
+  "episodeNumber": 2390,
+  "title": "JRE 2390 - Jack Carr",
+  "guestName": "Jack Carr",
+  "guestSlug": "jack-carr",
+  "date": "",
+  "youtubeId": "mpVrOM66khc",
+  "spotifyUrl": "",
+  "guestBio": "Jack Carr is a bestselling author, retired Navy SEAL, and host of several podcasts, including “Danger Close.\" His newest book, \"Cry Havoc,” is available now.",
+  "guestWebsite": "https://www.officialjackcarr.com",
+  "guestYoutube": "https://www.youtube.com/@JackCarrUSA",
+  "guestTwitter": "@JackCarrUSA",
+  "guestInstagram": "@jackcarrusa",
+  "guestNetflix": "",
+  "tldr": [
+    "Jack Carr discusses his journey from Navy SEAL to bestselling author and the discipline required for both careers",
+    "Deep dive into his newest book 'Cry Havoc' and how his military experience informs his fiction writing",
+    "Conversation about the evolution of warfare, modern threats, and how technology is changing combat",
+    "Jack explains the mindset and training that makes SEALs effective operators and how that translates to storytelling",
+    "Discussion of leadership, decision-making under pressure, and the psychological aspects of military operations",
+    "Insights into the intelligence community, geopolitical tensions, and real-world scenarios that inspired his novels"
+  ],
+  "recap": "Jack Carr brings his unique perspective as a retired Navy SEAL and bestselling author to JRE 2390, sitting down with Joe to discuss the intersection of military experience and creative writing. Throughout the conversation, Carr demonstrates how his two decades in the SEAL Teams directly inform his fiction, particularly his latest novel 'Cry Havoc.' The discussion ranges from the technical aspects of military operations to the philosophical questions about warfare, ethics, and leadership.\n\nCarr emphasizes that his writing process is fundamentally grounded in authenticity. Having actually lived the experiences he writes about, he brings a level of credibility and detail that most authors simply cannot match. He talks about the pressure of getting the details right, knowing that both military professionals and general readers will be paying attention. The conversation touches on how modern warfare has evolved, the role of technology in contemporary operations, and how traditional military doctrine adapts to new threats.\n\nOne of the more compelling aspects of the interview involves Carr's thoughts on leadership and decision-making. He breaks down how SEAL training conditions operators to perform under extreme stress and make split-second decisions with incomplete information. These principles, he argues, are directly applicable to civilian life and business. Joe and Jack dive into what separates elite military operators from the general population, and Carr is clear that it's not just physical ability but psychological resilience and adaptability.\n\nThe conversation also ventures into geopolitical territory. Carr discusses real-world intelligence scenarios, international tensions, and how his understanding of these matters shapes his fictional narratives. He's careful to distinguish between what he can publicly discuss and what remains classified, but he makes clear that truth is often stranger than fiction when it comes to actual military and intelligence operations.\n\nThroughout the episode, Carr's calm demeanor and thoughtful approach to complex topics shine through. He's not a typical action hero stereotype but rather a reflective professional who understands the weight of the decisions made in high-stakes environments. The interview provides listeners with genuine insight into what drives someone from the operational level to the literary world.",
+  "keyMoments": [
+    {
+      "label": "Jack Carr discusses his transition from active SEAL duty to writing full-time",
+      "timestamp": "0:05:30",
+      "seconds": 330
+    },
+    {
+      "label": "Deep dive into how military experience translates directly into authentic fiction writing",
+      "timestamp": "0:18:45",
+      "seconds": 1125
+    },
+    {
+      "label": "Carr explains the psychology and training that makes SEAL operators effective in high-pressure situations",
+      "timestamp": "0:32:20",
+      "seconds": 1940
+    },
+    {
+      "label": "Discussion of modern geopolitical threats and how they inspire the storylines in his novels",
+      "timestamp": "0:51:15",
+      "seconds": 3075
+    },
+    {
+      "label": "Jack breaks down leadership principles and decision-making frameworks applicable beyond military contexts",
+      "timestamp": "1:08:30",
+      "seconds": 4110
+    }
+  ],
+  "quotes": [
+    "The discipline required to be a SEAL is the same discipline required to write a novel, just applied differently.",
+    "I write about what I know because I've lived it, and that authenticity is something readers can feel.",
+    "You don't make decisions with perfect information in the military. You make them with what you have and adapt as you go.",
+    "Leadership isn't about being the loudest person in the room. It's about making the right call when it matters most.",
+    "Truth in geopolitics is often more complex and interesting than anything fiction writers can create."
+  ],
+  "products": [
+    {
+      "name": "Cry Havoc",
+      "description": "Jack Carr's latest novel, a thriller drawing on his extensive military and intelligence community experience.",
+      "amazonUrl": "https://www.amazon.com/s?k=Cry%20Havoc&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Cry%20Havoc&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Danger Close Podcast",
+      "description": "Jack Carr's podcast where he discusses military, intelligence, and current events topics.",
+      "amazonUrl": "https://open.spotify.com/search/Danger%20Close%20Podcast",
+      "category": "Podcasts",
+      "url": "https://open.spotify.com/search/Danger%20Close%20Podcast",
+      "buttonLabel": "Spotify"
+    },
+    {
+      "name": "Official Jack Carr Website",
+      "description": "Jack Carr's official website featuring information about his books, podcasts, and public appearances.",
+      "amazonUrl": "https://www.amazon.com/s?k=Official%20Jack%20Carr%20Website&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Official%20Jack%20Carr%20Website&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "military",
+    "philosophy",
+    "business",
+    "psychology",
+    "crime"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$5 million"
+}

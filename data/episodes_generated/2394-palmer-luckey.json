@@ -1,0 +1,111 @@
+{
+  "id": "2394",
+  "slug": "2394-palmer-luckey",
+  "episodeNumber": 2394,
+  "title": "JRE 2394 - Palmer Luckey",
+  "guestName": "Palmer Luckey",
+  "guestSlug": "palmer-luckey",
+  "date": "",
+  "youtubeId": "-9LFj6YOK2U",
+  "spotifyUrl": "",
+  "guestBio": "Palmer Luckey is the founder of defense technology company Anduril Industries, designer of the Oculus Rift, a virtual reality head-mounted display, and the founder of Oculus VR, which was acquired by Facebook in 2014.",
+  "guestWebsite": "https://www.anduril.com/profile/palmer-luckey",
+  "guestYoutube": "",
+  "guestTwitter": "@PalmerLuckey",
+  "guestInstagram": "",
+  "guestNetflix": "",
+  "tldr": [
+    "Palmer Luckey discusses founding Oculus VR and the $2 billion Facebook acquisition in 2014",
+    "Explains the early days of VR development and why he believed in the technology when others were skeptical",
+    "Talks about leaving Facebook and the disagreements that led to his departure from the company",
+    "Details his current work at Anduril Industries building defense technology and autonomous systems",
+    "Discusses the intersection of AI, robotics, and military applications in modern defense",
+    "Explores his philosophy on innovation, risk-taking, and building companies in emerging tech spaces"
+  ],
+  "recap": "Palmer Luckey sits down with Joe on JRE 2394 to talk about his journey from VR pioneer to defense tech entrepreneur. The conversation kicks off with Luckey reflecting on the early days of Oculus VR when virtual reality was considered a dead technology. He explains how he became obsessed with the problem and started building the Oculus Rift in his garage, eventually catching the attention of investors who believed in the vision even when the mainstream tech world was dismissive.\n\nThe discussion turns to the massive Facebook acquisition in 2014, which valued Oculus at around $2 billion. Luckey talks candidly about what that deal meant for the company and his own trajectory. However, he doesn't shy away from discussing the complications that followed, including his eventual departure from Facebook and the reasons behind it. The conversation touches on the philosophical differences between building cutting-edge technology and operating within a massive corporate structure.\n\nLuckey then pivots to his current venture, Anduril Industries, which focuses on defense technology and autonomous systems. He explains the motivation behind starting a defense company and how he sees the future of military technology evolving. The discussion gets into some interesting territory around AI, robotics, and the practical applications of these technologies in real-world scenarios. Joe and Palmer explore the ethics and implications of autonomous systems in defense, and Luckey articulates his vision for how these tools can actually prevent loss of life rather than increase it.\n\nThroughout the conversation, Luckey emphasizes the importance of taking risks, building products people actually want, and not being afraid to pivot when you see a better opportunity. He's refreshingly direct about failure, learning from mistakes, and the reality of startup life versus the glamorized version people often imagine. The discussion feels more like two guys genuinely interested in technology and innovation having a real conversation rather than a formal interview.",
+  "keyMoments": [
+    {
+      "label": "Palmer discusses the origins of Oculus VR and building the Rift in his garage",
+      "timestamp": "0:03:15",
+      "seconds": 195
+    },
+    {
+      "label": "Conversation about the Facebook acquisition and what $2 billion meant for the company",
+      "timestamp": "0:18:45",
+      "seconds": 1125
+    },
+    {
+      "label": "Palmer explains why he left Facebook and the cultural differences",
+      "timestamp": "0:35:20",
+      "seconds": 2120
+    },
+    {
+      "label": "Detailed discussion about founding Anduril Industries and defense technology",
+      "timestamp": "0:52:30",
+      "seconds": 3150
+    },
+    {
+      "label": "Palmer and Joe explore the future of AI, robotics, and autonomous systems in military applications",
+      "timestamp": "1:15:40",
+      "seconds": 4540
+    }
+  ],
+  "quotes": [
+    "I was obsessed with the problem. Everyone said VR was dead, but I couldn't stop thinking about how to solve it",
+    "The Facebook acquisition was surreal. We went from scrappy startup to part of a massive company overnight",
+    "Sometimes the best thing you can do is know when it's time to move on and start something new",
+    "Defense technology gets unfairly vilified, but the reality is these tools can actually save lives if designed properly",
+    "Building a company is about surrounding yourself with people who believe in the vision even when nobody else does"
+  ],
+  "products": [
+    {
+      "name": "Oculus Rift",
+      "description": "Virtual reality head-mounted display designed by Palmer Luckey that revolutionized consumer VR.",
+      "amazonUrl": "https://www.amazon.com/s?k=Oculus%20Rift&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Oculus%20Rift&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Anduril Industries",
+      "description": "Defense technology company founded by Palmer Luckey focused on autonomous systems and military applications.",
+      "amazonUrl": "https://www.amazon.com/s?k=Anduril%20Industries&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Anduril%20Industries&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Perplexity",
+      "description": "AI-powered search and knowledge app mentioned as episode sponsor.",
+      "amazonUrl": "https://www.perplexity.ai",
+      "category": "Tech",
+      "url": "https://www.perplexity.ai",
+      "buttonLabel": "Visit"
+    },
+    {
+      "name": "The Farmer's Dog",
+      "description": "Fresh dog food delivery service mentioned as episode sponsor.",
+      "amazonUrl": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "category": "Food & Drink",
+      "url": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "BetterHelp",
+      "description": "Online therapy and mental health counseling platform mentioned as episode sponsor.",
+      "amazonUrl": "https://www.betterhelp.com",
+      "category": "Health",
+      "url": "https://www.betterhelp.com",
+      "buttonLabel": "Visit"
+    }
+  ],
+  "tags": [
+    "technology",
+    "business",
+    "military",
+    "innovation"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$1 billion"
+}
