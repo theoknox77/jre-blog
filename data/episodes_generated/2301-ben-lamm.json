@@ -1,0 +1,80 @@
+{
+  "id": "2301",
+  "slug": "2301-ben-lamm",
+  "episodeNumber": 2301,
+  "title": "JRE 2301 - Ben Lamm",
+  "guestName": "Ben Lamm",
+  "guestSlug": "ben-lamm",
+  "date": "2025-04-07",
+  "youtubeId": "NRVEkc9lxH0",
+  "spotifyUrl": "",
+  "guestBio": "Ben Lamm is a serial entrepreneur and the founder and CEO of Colossal Biosciences, a company dedicated to genetic engineering and de-extinction projects. Colossal’s mission includes bringing back extinct species like the woolly mammoth and advancing conservation efforts through cutting-edge biotechnology.",
+  "guestWebsite": "https://www.colossal.com",
+  "guestYoutube": "",
+  "guestTwitter": "@benlamm",
+  "guestInstagram": "@benlamm",
+  "guestNetflix": "",
+  "tldr": [
+    "Ben Lamm founded Colossal Biosciences to use genetic engineering for de-extinction projects, starting with the woolly mammoth",
+    "The company is developing advanced biotechnology to bring back extinct species and prevent future extinctions",
+    "Colossal is working on passenger pigeon resurrection as a secondary project alongside mammoth genetics",
+    "De-extinction technology could have massive applications for conservation and ecosystem restoration",
+    "The woolly mammoth project involves creating a cold-resistant elephant hybrid rather than a perfect mammoth clone",
+    "Ben discusses the business model, funding, and practical challenges of bringing extinct animals back to life"
+  ],
+  "recap": "Ben Lamm sits down with Joe to talk about one of the most ambitious scientific projects in modern history: bringing back the woolly mammoth. As the founder and CEO of Colossal Biosciences, Ben has built a company dedicated to genetic engineering and de-extinction, raising significant capital to turn what sounds like science fiction into actual science fact.\n\nThe core idea is elegant but complex. Rather than trying to perfectly recreate a woolly mammoth from frozen DNA, Colossal is taking living Asian elephant genetics and engineering the traits that made mammoths uniquely suited to cold environments. Think of it as working backwards from extinction to create a cold-resistant elephant that can thrive in arctic ecosystems. This isn't about theme parks or making cool animals for zoos. Ben explains that the real application is ecological restoration and preventing future extinctions through technological advancement.\n\nWhat's wild about this conversation is how seriously legitimate this project actually is. This isn't some fringe science thing. Colossal has real funding, real scientists, and a real timeline for creating viable woolly mammoths within the next decade. Joe digs into the practical stuff: how they're solving the genetic engineering problems, what the regulatory challenges look like, and what happens when you actually have living mammoths ready to introduce into the wild.\n\nBeyond the mammoth, Ben discusses Colossal's other de-extinction projects, including the passenger pigeon. The conversation touches on why this matters beyond the cool factor. Bringing back these species could actually restore ecosystem balance in places like the arctic tundra, where the absence of mammoths has fundamentally changed the landscape. It's not just nostalgia or scientific curiosity. There's legitimate conservation potential here.\n\nThe business side gets interesting too. How do you fund something this insane? How do you navigate regulatory bodies who've never dealt with de-extinct animals before? Ben's background as a serial entrepreneur comes through in how pragmatically he approaches these enormous technical and bureaucratic challenges. This is cutting-edge biotech meeting venture capital meeting environmental science, and somehow it's actually happening.",
+  "keyMoments": [
+    {
+      "label": "Ben explains Colossal's mission and what the woolly mammoth project actually entails",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion of genetic engineering approach to create cold-resistant elephant-mammoth hybrids",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "Timeline and practical challenges for bringing mammoths back to life",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Ecological impact and ecosystem restoration potential of de-extinction",
+      "timestamp": "0:55:00",
+      "seconds": 3300
+    },
+    {
+      "label": "Regulatory, legal, and business challenges of making de-extinction commercially viable",
+      "timestamp": "1:15:00",
+      "seconds": 4500
+    }
+  ],
+  "quotes": [
+    "We're not trying to create a perfect mammoth from frozen DNA. We're engineering the traits that made mammoths suited to cold environments into living elephants.",
+    "This is about ecosystem restoration and preventing future extinctions through genetic technology.",
+    "We have a legitimate timeline and the funding to make this happen, not in a hundred years, but in the next decade.",
+    "The passenger pigeon went extinct in the early 1900s due to commercial hunting, and we can bring it back.",
+    "The real challenge isn't just the science, it's navigating a world that's never dealt with de-extinct animals before."
+  ],
+  "products": [
+    {
+      "name": "Colossal Biosciences",
+      "description": "Genetic engineering and de-extinction biotechnology company focused on bringing back woolly mammoths and other extinct species.",
+      "amazonUrl": "https://www.amazon.com/s?k=Colossal%20Biosciences&tag=selfcaremap-20",
+      "category": "Tech",
+      "url": "https://www.amazon.com/s?k=Colossal%20Biosciences&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "science",
+    "technology",
+    "business",
+    "environment",
+    "history"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$100 million"
+}

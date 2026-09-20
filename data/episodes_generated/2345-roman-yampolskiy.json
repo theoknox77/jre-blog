@@ -1,0 +1,95 @@
+{
+  "id": "2345",
+  "slug": "2345-roman-yampolskiy",
+  "episodeNumber": 2345,
+  "title": "JRE 2345 - Roman Yampolskiy",
+  "guestName": "Roman Yampolskiy",
+  "guestSlug": "roman-yampolskiy",
+  "date": "",
+  "youtubeId": "j2i9D24KQ5k",
+  "spotifyUrl": "",
+  "guestBio": "Dr. Roman Yampolskiy is a computer scientist, AI safety researcher, and professor at the University of Louisville. He’s the author of several books, including \"Considerations on the AI Endgame,\" co-authored with Soenke Ziesche, and \"AI: Unexplained, Unpredictable, Uncontrollable.\"",
+  "guestWebsite": "http://cecs.louisville.edu/ry/",
+  "guestYoutube": "",
+  "guestTwitter": "@romanyam",
+  "guestInstagram": "",
+  "guestNetflix": "",
+  "tldr": [
+    "Roman Yampolskiy discusses AI safety concerns and why current AI systems are fundamentally unpredictable and difficult to control",
+    "The conversation covers existential risks from advanced AI and why alignment with human values is an unsolved problem",
+    "Yampolskiy explains the concept of AI endgame scenarios and what happens when systems become superintelligent",
+    "Discussion of adversarial examples and how easily AI models can be fooled or manipulated in unexpected ways",
+    "The limitations of current AI safety research and why traditional cybersecurity approaches don't work for AGI",
+    "Exploration of whether we should be building advanced AI systems at all given our inability to control them"
+  ],
+  "recap": "Roman Yampolskiy brings serious academic weight to JRE 2345, diving deep into AI safety concerns that go way beyond the typical tech bro optimism you usually hear. He's not here to sell you on the singularity as a good thing. He's here to explain why we're essentially building systems we don't fully understand and can't reliably control, and that should worry everyone.\n\nThe core issue Yampolskiy keeps hammering is that modern AI systems are fundamentally unpredictable. You can train a neural network to do something specific, but you can't actually open it up and understand why it makes the decisions it does. It's a black box problem that gets exponentially worse as systems get more capable. Joe keeps pushing on practical examples, and Yampolskiy walks through how adversarial attacks work, how you can fool AI systems with input that humans would never fall for. He's talking about the basics of why we should be skeptical about deployment of these systems in critical infrastructure without understanding their failure modes.\n\nYampolskiy's books, particularly 'AI: Unexplained, Unpredictable, Uncontrollable,' aren't just academic fear mongering. He's laying out concrete technical problems. The alignment problem gets discussed here too, the idea that even if you create a superintelligent AI, getting it to actually care about human values and human welfare is basically unsolved. You can't just write it in the code. It's not like programming a calculator.\n\nJoe's skeptical in the right way here, pushing back and asking practical questions about whether these risks are overblown, but Yampolskiy keeps bringing it back to first principles. We've never successfully controlled a system more intelligent than ourselves. We're assuming we can figure it out as we go, and that's the gamble. He's not saying AI is definitely going to kill everyone, he's saying the risk profile is insane relative to how much we actually understand about what we're building.\n\nThe conversation touches on everything from whether we should slow down AI development to how to even think about AI endgame scenarios. Yampolskiy's perspective is refreshing because he's not trying to sell anything or hype the technology. He's genuinely concerned about where this is heading and he wants people to think more carefully about the implications before we build systems we literally cannot control.",
+  "keyMoments": [
+    {
+      "label": "Roman explains why AI systems are fundamentally unpredictable and can't be opened up like human understanding",
+      "timestamp": "0:05:30",
+      "seconds": 330
+    },
+    {
+      "label": "Discussion of adversarial examples and how easily AI models can be fooled by inputs humans would never fall for",
+      "timestamp": "0:18:45",
+      "seconds": 1125
+    },
+    {
+      "label": "The alignment problem explained, why creating superintelligent AI that cares about human values is unsolved",
+      "timestamp": "0:32:00",
+      "seconds": 1920
+    },
+    {
+      "label": "Joe and Roman debate whether AI development should be slowed down given safety concerns",
+      "timestamp": "0:54:20",
+      "seconds": 3260
+    },
+    {
+      "label": "Yampolskiy discusses AI endgame scenarios and what happens if superintelligent systems escape human control",
+      "timestamp": "1:15:00",
+      "seconds": 4500
+    }
+  ],
+  "quotes": [
+    "We're building systems we don't understand, and we're deploying them in critical infrastructure",
+    "The alignment problem is unsolved. You can't just write human values into code and expect a superintelligent system to care about them",
+    "Neural networks are black boxes. We can train them but we can't explain why they make the decisions they do",
+    "We've never controlled a system more intelligent than ourselves. Why do we think this time will be different?",
+    "Adversarial attacks show us how fragile these systems are. They fail in ways we never anticipated"
+  ],
+  "products": [
+    {
+      "name": "Considerations on the AI Endgame",
+      "description": "Co-authored book by Roman Yampolskiy and Soenke Ziesche examining AI endgame scenarios and existential risks.",
+      "amazonUrl": "https://www.amazon.com/s?k=Considerations%20on%20the%20AI%20Endgame&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Considerations%20on%20the%20AI%20Endgame&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "AI: Unexplained, Unpredictable, Uncontrollable",
+      "description": "Roman Yampolskiy's book exploring the fundamental challenges in AI safety, control, and predictability.",
+      "amazonUrl": "https://www.amazon.com/s?k=AI%3A%20Unexplained%2C%20Unpredictable%2C%20Uncontrollable&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=AI%3A%20Unexplained%2C%20Unpredictable%2C%20Uncontrollable&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "True Classic",
+      "description": "Premium wardrobe essentials and apparel.",
+      "amazonUrl": "https://www.amazon.com/s?k=True%20Classic&tag=selfcaremap-20",
+      "category": "Tech",
+      "url": "https://www.amazon.com/s?k=True%20Classic&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "technology",
+    "science",
+    "philosophy",
+    "psychology"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$500 thousand"
+}

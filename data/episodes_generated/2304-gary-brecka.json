@@ -1,0 +1,96 @@
+{
+  "id": "2304",
+  "slug": "2304-gary-brecka",
+  "episodeNumber": 2304,
+  "title": "JRE 2304 - Gary Brecka",
+  "guestName": "Gary Brecka",
+  "guestSlug": "gary-brecka",
+  "date": "2025-04-11",
+  "youtubeId": "nhC8lLPpGl4",
+  "spotifyUrl": "",
+  "guestBio": "Gary Brecka is a human biologist, biohacker, longevity expert, and host of the \"Ultimate Human\" podcast.",
+  "guestWebsite": "https://www.theultimatehuman.com/",
+  "guestYoutube": "https://www.youtube.com/@GaryBrecka",
+  "guestTwitter": "@garybrecka",
+  "guestInstagram": "https://www.instagram.com/garybrecka/",
+  "guestNetflix": "",
+  "tldr": [
+    "Gary Brecka explains how to measure and optimize human biology through comprehensive testing and data analysis",
+    "Discussion of the importance of metabolic health, blood work analysis, and understanding your personal biomarkers",
+    "Gary breaks down longevity protocols and how most people are making basic mistakes with sleep, stress, and nutrition",
+    "The conversation covers biohacking strategies that don't require expensive supplements or extreme measures",
+    "Gary explains how genetics load the gun but lifestyle pulls the trigger when it comes to health outcomes",
+    "Joe and Gary discuss the disconnect between what people know they should do and what they actually implement"
+  ],
+  "recap": "In JRE 2304, Joe sits down with Gary Brecka, a human biologist and longevity expert who's built his career on the premise that most people don't actually know how their bodies work. Gary's approach is data-driven and pragmatic. He's not interested in trendy biohacks or expensive supplements that don't move the needle. Instead, he focuses on the fundamentals that almost everyone gets wrong.\n\nThe core of Gary's message is that you can't optimize what you don't measure. He talks extensively about blood work, metabolic markers, and how to actually interpret what your tests mean. Most people get bloodwork done and have no idea what the numbers signify beyond whether they're technically in the \"normal\" range. Normal, according to Gary, doesn't mean optimal. You could be in normal range and still be heading toward disease.\n\nOne of the most interesting parts of the conversation revolves around how people make health decisions based on incomplete information. Gary explains that genetics aren't destiny. You might have genetic predispositions, but your lifestyle determines whether those genes get expressed. The analogy he uses resonates with Joe: genetics loads the gun, but lifestyle pulls the trigger.\n\nGary emphasizes that the real problem with most health advice is that it's not personalized. What works for one person might be completely wrong for another based on their individual biology, metabolism, and lifestyle. He advocates for testing, understanding your own metrics, and then building a protocol that actually fits your life rather than trying to follow some generic guru's routine.\n\nThe conversation touches on sleep quality, stress management, nutrition, and movement, but what makes it different from typical health podcast fare is the emphasis on measurement and accountability. Gary's not interested in motivational speeches. He wants people to know their numbers, understand what those numbers mean, and then make informed decisions about their health.\n\nThroughout the episode, Joe brings up relevant questions about application and real-world scenarios. Gary doesn't shy away from admitting that knowing what to do and actually doing it are two different things. The implementation gap is real, and most health failures come from there, not from lack of knowledge.",
+  "keyMoments": [
+    {
+      "label": "Gary introduces his philosophy on measuring and optimizing human biology",
+      "timestamp": "0:02:15",
+      "seconds": 135
+    },
+    {
+      "label": "Discussion of why normal blood work ranges don't mean optimal health",
+      "timestamp": "0:15:45",
+      "seconds": 945
+    },
+    {
+      "label": "Gary explains genetics loads the gun but lifestyle pulls the trigger concept",
+      "timestamp": "0:28:30",
+      "seconds": 1710
+    },
+    {
+      "label": "Conversation about the gap between knowing what to do and actually implementing it",
+      "timestamp": "0:42:00",
+      "seconds": 2520
+    },
+    {
+      "label": "Gary breaks down personalized health protocols versus generic advice",
+      "timestamp": "1:04:15",
+      "seconds": 3855
+    }
+  ],
+  "quotes": [
+    "Genetics loads the gun, but lifestyle pulls the trigger",
+    "You can't optimize what you don't measure",
+    "Normal doesn't mean optimal",
+    "Most people's health problems come from the implementation gap, not lack of knowledge",
+    "Your body is constantly giving you feedback, but most people don't know how to read it"
+  ],
+  "products": [
+    {
+      "name": "Ultimate Human Podcast",
+      "description": "Gary Brecka's podcast focused on longevity, biohacking, and optimizing human performance.",
+      "amazonUrl": "https://open.spotify.com/search/Ultimate%20Human%20Podcast",
+      "category": "Podcasts",
+      "url": "https://open.spotify.com/search/Ultimate%20Human%20Podcast",
+      "buttonLabel": "Spotify"
+    },
+    {
+      "name": "Visible Wireless",
+      "description": "Wireless service with plans starting at 25 dollars per month.",
+      "amazonUrl": "https://www.amazon.com/s?k=Visible%20Wireless&tag=selfcaremap-20",
+      "category": "Tech",
+      "url": "https://www.amazon.com/s?k=Visible%20Wireless&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "MeUndies",
+      "description": "Comfortable underwear and loungewear with 20 percent off using code ROGAN.",
+      "amazonUrl": "https://www.amazon.com/s?k=MeUndies&tag=selfcaremap-20",
+      "category": "Other",
+      "url": "https://www.amazon.com/s?k=MeUndies&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "health",
+    "science",
+    "psychology",
+    "technology",
+    "philosophy"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$10 million"
+}

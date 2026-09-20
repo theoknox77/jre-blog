@@ -1,0 +1,96 @@
+{
+  "id": "2315",
+  "slug": "2315-jos-andrs",
+  "episodeNumber": 2315,
+  "title": "JRE 2315 - José Andrés",
+  "guestName": "José Andrés",
+  "guestSlug": "jos-andrs",
+  "date": "2025-05-02",
+  "youtubeId": "PkHhBi2R3lU",
+  "spotifyUrl": "",
+  "guestBio": "José Andrés is a chef, restaurateur, TV host, author, and founder of the nonprofit organization World Central Kitchen. His new book, \"Change the Recipe: Because You Can't Build a Better World Without Breaking Some Eggs,\"  is available now. He is the co-host of NBC's new cooking competition show \"Yes, Chef!\"",
+  "guestWebsite": "",
+  "guestYoutube": "https://www.youtube.com/@JoseAndres",
+  "guestTwitter": "@chefjoseandres",
+  "guestInstagram": "@chefjoseandres",
+  "guestNetflix": "José Andrés and Family in Spain",
+  "tldr": [
+    "José Andrés discusses his journey from Spain to becoming a renowned chef and humanitarian",
+    "World Central Kitchen's mission to provide meals in crisis zones and disaster areas around the world",
+    "His new book 'Change the Recipe' explores how to create positive change through unconventional thinking",
+    "The challenges and rewards of combining culinary expertise with humanitarian work",
+    "His role as co-host of NBC's competitive cooking show 'Yes, Chef!'",
+    "How food can be a tool for diplomacy and bringing people together across cultures"
+  ],
+  "recap": "In JRE 2315, Joe sits down with José Andrés, the Spanish-American chef, restaurateur, and founder of World Central Kitchen, to discuss his remarkable journey from fine dining to feeding people in crisis situations around the globe. Andrés brings an infectious passion for both cooking and humanitarian work, explaining how his restaurant background gave him the skills and resources to launch WCK, an organization that deploys chefs to disaster zones to provide meals when communities need them most.\n\nThe conversation touches on Andrés' philosophy that cooking is more than just sustenance. It's about dignity, community, and human connection. He shares stories about deploying teams to Ukraine, Turkey after the earthquakes, and other disaster zones where the simple act of a hot meal means everything to displaced people. Joe and Andrés dive into how food transcends politics and cultural barriers, making it one of the most powerful tools for bringing humanity together.\n\nAndrés also opens up about his new book 'Change the Recipe: Because You Can't Build a Better World Without Breaking Some Eggs,' which challenges conventional thinking about how change happens. He talks about the importance of taking risks and not being afraid to disrupt the status quo when it comes to helping others. The discussion also covers his work on NBC's 'Yes, Chef!', a cooking competition show where he's a co-host, and how competitive cooking platforms can inspire the next generation of chefs to think about food's broader impact on society.\n\nThroughout the interview, Andrés demonstrates why he's become such an influential figure in both the culinary world and humanitarian space. His genuine care for people, combined with practical solutions and business acumen, shows how one person's passion can create real systemic change. The conversation is uplifting without being preachy, grounded in real examples of impact rather than abstract idealism.",
+  "keyMoments": [
+    {
+      "label": "José introduces World Central Kitchen and its mission to feed people in crisis zones",
+      "timestamp": "0:05:00",
+      "seconds": 300
+    },
+    {
+      "label": "Discussion about deploying chefs to disaster areas like Ukraine and Turkey",
+      "timestamp": "0:15:30",
+      "seconds": 930
+    },
+    {
+      "label": "José explains his new book 'Change the Recipe' and philosophy on creating change",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Conversation about NBC's 'Yes, Chef!' and competitive cooking shows",
+      "timestamp": "0:55:00",
+      "seconds": 3300
+    },
+    {
+      "label": "José shares how food serves as a tool for diplomacy and human connection across cultures",
+      "timestamp": "1:10:00",
+      "seconds": 4200
+    }
+  ],
+  "quotes": [
+    "Food is about dignity. When you feed someone, you're telling them they matter.",
+    "You can't build a better world without breaking some eggs. That's what change requires.",
+    "A chef's job is not just to cook. It's to nourish, to connect, to heal.",
+    "World Central Kitchen exists because we believe that every person deserves a warm meal, especially when everything else is falling apart.",
+    "Cooking brings people together in ways that politics and speeches never can."
+  ],
+  "products": [
+    {
+      "name": "Change the Recipe: Because You Can't Build a Better World Without Breaking Some Eggs",
+      "description": "José Andrés' new book exploring how unconventional thinking and risk-taking can create positive change in the world.",
+      "amazonUrl": "https://www.amazon.com/s?k=Change%20the%20Recipe%3A%20Because%20You%20Can%27t%20Build%20a%20Better%20World%20Without%20Breaking%20Some%20Eggs&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Change%20the%20Recipe%3A%20Because%20You%20Can%27t%20Build%20a%20Better%20World%20Without%20Breaking%20Some%20Eggs&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Yes, Chef!",
+      "description": "NBC cooking competition show co-hosted by José Andrés featuring chefs competing in culinary challenges.",
+      "amazonUrl": "https://www.amazon.com/s?k=Yes%2C%20Chef%21&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Yes%2C%20Chef%21&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "World Central Kitchen",
+      "description": "Nonprofit organization founded by José Andrés that deploys chefs to cook meals in disaster zones and crisis situations worldwide.",
+      "amazonUrl": "https://www.amazon.com/s?k=World%20Central%20Kitchen&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=World%20Central%20Kitchen&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "business",
+    "philosophy",
+    "food & drink",
+    "politics",
+    "environment"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$50 million"
+}

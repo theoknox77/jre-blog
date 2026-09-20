@@ -1,0 +1,96 @@
+{
+  "id": "2324",
+  "slug": "2324-amanda-knox",
+  "episodeNumber": 2324,
+  "title": "JRE 2324 - Amanda Knox",
+  "guestName": "Amanda Knox",
+  "guestSlug": "amanda-knox",
+  "date": "2025-05-20",
+  "youtubeId": "uDG6A7B7jRg",
+  "spotifyUrl": "",
+  "guestBio": "Amanda Knox is an exoneree, journalist, public speaker, and author of two books, the newest of which is “Free: My Search for Meaning.” She co-hosts the podcast “Labyrinths” with her partner, Christopher Robinson. Knoxsits on the board of the Innocence Center, and serves as an Innocence Network Ambassador.",
+  "guestWebsite": "",
+  "guestYoutube": "https://www.youtube.com/@AmandaKnox",
+  "guestTwitter": "@amandaknox",
+  "guestInstagram": "@amandaknox",
+  "guestNetflix": "Amanda Knox",
+  "tldr": [
+    "Amanda Knox discusses her wrongful conviction in Italy for a murder she didn't commit and the 4 years she spent in prison before exoneration",
+    "She explores how the media narrative and public perception shaped her case more than actual evidence, turning her into a villain before facts emerged",
+    "Knox talks about the psychological impact of having your identity completely reconstructed by others and the difficulty of reclaiming your own story",
+    "She discusses her new book 'Free: My Search for Meaning' and her work with the Innocence Network helping other exonerees",
+    "The conversation covers how confirmation bias and storytelling can override evidence in criminal cases and public opinion",
+    "Knox shares insights on her podcast 'Labyrinths' and how she's processing her experience through journalism and speaking"
+  ],
+  "recap": "Amanda Knox sits down with Joe to talk about one of the most bizarre and infuriating criminal cases in modern history. She was a 20-year-old American exchange student in Italy when her roommate was murdered, and instead of the actual evidence leading anywhere, the Italian justice system essentially decided Knox was guilty because she didn't act sad enough and fit a narrative they'd already constructed.\n\nThe wild part isn't just that she went to prison for 4 years for something she didn't do. It's how completely the media and public created an alternate version of who Amanda Knox was. She became this character in a story that had almost nothing to do with reality. Joe and Amanda dig into how the prosecution was essentially writing fan fiction about her guilt, and somehow that mattered more in court than, you know, actual evidence.\n\nKnox talks about the specific mechanisms of how this happened. The Italian media had already decided on a narrative before facts were even gathered. She was the American girl, the outsider, the one who didn't cry the right way. All of that became 'evidence' in people's minds. The confirmation bias was insane, where every normal thing she did got reinterpreted to fit the guilty narrative they'd created.\n\nWhat's particularly interesting is Knox's perspective on how you rebuild your identity after something like that. For years, she was defined by what other people said about her, not who she actually was. The exoneration didn't immediately fix that because the story about Amanda Knox the villain was already out there and more entertaining than Amanda Knox the actual person.\n\nShe's clearly thought deeply about this and turned it into her work. Her book 'Free' explores the search for meaning after having your life completely derailed. She's also doing serious work through the Innocence Network, helping other exonerees navigate similar situations. And her podcast 'Labyrinths' digs into these kinds of complex stories where truth gets buried under narrative.",
+  "keyMoments": [
+    {
+      "label": "Amanda explains the initial accusation and media circus that surrounded her wrongful conviction",
+      "timestamp": "0:05:30",
+      "seconds": 330
+    },
+    {
+      "label": "Discussion of how media narrative overrode actual evidence in her case and shaped public perception",
+      "timestamp": "0:18:45",
+      "seconds": 1125
+    },
+    {
+      "label": "Amanda describes what it's like to have your identity completely reconstructed by others and the media",
+      "timestamp": "0:32:15",
+      "seconds": 1935
+    },
+    {
+      "label": "Conversation about confirmation bias and how prosecutors built a case on narrative rather than facts",
+      "timestamp": "0:47:20",
+      "seconds": 2840
+    },
+    {
+      "label": "Amanda discusses her work with the Innocence Network and her book 'Free: My Search for Meaning'",
+      "timestamp": "1:05:00",
+      "seconds": 3900
+    }
+  ],
+  "quotes": [
+    "The story they told about me mattered more than who I actually was",
+    "I didn't cry the right way, and somehow that became evidence of guilt",
+    "Exoneration doesn't erase the narrative that was already out there about you",
+    "The media had decided on a story before the evidence was even collected",
+    "I had to learn who I actually was underneath what everyone else said I was"
+  ],
+  "products": [
+    {
+      "name": "Free: My Search for Meaning",
+      "description": "Amanda Knox's book exploring her journey after exoneration and the search for meaning following her wrongful conviction.",
+      "amazonUrl": "https://www.amazon.com/s?k=Free%3A%20My%20Search%20for%20Meaning&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Free%3A%20My%20Search%20for%20Meaning&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Labyrinths Podcast",
+      "description": "A podcast co-hosted by Amanda Knox and Christopher Robinson exploring complex stories and narratives.",
+      "amazonUrl": "https://open.spotify.com/search/Labyrinths%20Podcast",
+      "category": "Podcasts",
+      "url": "https://open.spotify.com/search/Labyrinths%20Podcast",
+      "buttonLabel": "Spotify"
+    },
+    {
+      "name": "AG1",
+      "description": "Daily nutrition supplement drink available with a free welcome kit.",
+      "amazonUrl": "https://www.amazon.com/s?k=AG1&tag=selfcaremap-20",
+      "category": "Supplements",
+      "url": "https://www.amazon.com/s?k=AG1&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "crime",
+    "psychology",
+    "philosophy",
+    "justice",
+    "media"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$1 million"
+}

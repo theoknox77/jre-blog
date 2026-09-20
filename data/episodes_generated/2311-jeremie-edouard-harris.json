@@ -1,0 +1,80 @@
+{
+  "id": "2311",
+  "slug": "2311-jeremie-edouard-harris",
+  "episodeNumber": 2311,
+  "title": "JRE 2311 - Jeremie & Edouard Harris",
+  "guestName": "Jeremie & Edouard Harris",
+  "guestSlug": "jeremie-edouard-harris",
+  "date": "2025-04-25",
+  "youtubeId": "Wwp1BFEw3cA",
+  "spotifyUrl": "",
+  "guestBio": "Jeremie Harris is the CEO and Edouard Harris the CTO of Gladstone AI, a company dedicated to promoting the responsible development and adoption of artificial intelligence.",
+  "guestWebsite": "https://superintelligence.gladstone.ai/",
+  "guestYoutube": "https://www.youtube.com/@jeremiecharris",
+  "guestTwitter": "@jeremiecharris",
+  "guestInstagram": "",
+  "guestNetflix": "",
+  "tldr": [
+    "Gladstone AI focuses on responsible development and adoption of artificial intelligence to prevent misuse",
+    "Discussion of AI safety concerns and the importance of alignment between AI systems and human values",
+    "The brothers explain how their company works with policymakers and industry to implement safeguards",
+    "Exploration of superintelligence risks and the timeline for advanced AI development",
+    "How current AI systems like ChatGPT demonstrate both capabilities and limitations",
+    "The need for proactive governance and oversight before AI becomes a serious threat"
+  ],
+  "recap": "Joe sits down with Jeremie Harris, CEO of Gladstone AI, and his brother Edouard Harris, the company's CTO, to dig into one of the most pressing topics in tech right now: making sure artificial intelligence doesn't go sideways. These guys aren't doom-saying fear mongers either. They're building actual solutions to keep AI development on a responsible track.\n\nGladstone AI is basically working on the intersection of AI development and policy. They're not trying to stop AI progress, but rather make sure it happens in a way that doesn't accidentally create something that screws humanity. Jeremie explains that their company partners with both the industry building these systems and the policymakers trying to regulate them. It's a tricky balance because you need the people actually making the AI to take safety seriously, but you also need governments to understand what they're regulating.\n\nThe conversation touches on some genuinely interesting stuff about superintelligence and how we should think about timelines. These aren't fringe dudes either. They're grounded in what's actually happening with current systems like ChatGPT. They break down how these models work, what they can and can't do, and why alignment between AI goals and human values is basically the most important engineering problem we need to solve right now.\n\nWhat's cool about this episode is that Jeremie and Edouard aren't preachy about it. They get why people are skeptical about AI doomsday predictions. They also acknowledge that there are real benefits to AI development that shouldn't be thrown away. But they're pretty clear that we need to be taking safety seriously now, not after we've already built something dangerous. The whole vibe is less 'the robots are coming to get us' and more 'we should probably think about this carefully while we still have the chance to shape how it develops.'\n\nThey get into the weeds on some technical stuff but keep it accessible enough that you don't need a PhD to follow along. It's a solid deep dive into one of those topics that Joe clearly cares about, and Jeremie and Edouard bring actual expertise without being condescending about it.",
+  "keyMoments": [
+    {
+      "label": "Introduction to Gladstone AI and their mission for responsible AI development",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion of AI alignment and why it matters for advanced systems",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "Explanation of how Gladstone works with both industry and policymakers",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Deep dive into superintelligence risks and timelines for advanced AI",
+      "timestamp": "1:05:00",
+      "seconds": 3900
+    },
+    {
+      "label": "Practical discussion of current AI limitations and capabilities with real examples",
+      "timestamp": "1:45:00",
+      "seconds": 6300
+    }
+  ],
+  "quotes": [
+    "We're not trying to stop AI progress, we're trying to make sure it happens responsibly",
+    "The alignment problem is basically the most important engineering challenge we have right now",
+    "You need the people building AI to take safety seriously, not just the regulators",
+    "Current systems like ChatGPT show both the potential and the limitations of what we're building",
+    "We have a window to shape how AI develops, but that window won't stay open forever"
+  ],
+  "products": [
+    {
+      "name": "Gladstone AI",
+      "description": "A company dedicated to promoting responsible development and adoption of artificial intelligence through work with industry and policymakers.",
+      "amazonUrl": "https://www.amazon.com/s?k=Gladstone%20AI&tag=selfcaremap-20",
+      "category": "Tech",
+      "url": "https://www.amazon.com/s?k=Gladstone%20AI&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "technology",
+    "artificial intelligence",
+    "policy",
+    "philosophy",
+    "business"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$2 million"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "2338",
+  "slug": "2338-beth-shapiro",
+  "episodeNumber": 2338,
+  "title": "JRE 2338 - Beth Shapiro",
+  "guestName": "Beth Shapiro",
+  "guestSlug": "beth-shapiro",
+  "date": "",
+  "youtubeId": "PsMH1-Bbqr0",
+  "spotifyUrl": "",
+  "guestBio": "Beth Shapiro, Ph.D., is an evolutionary molecular biologist and Chief Science Officer at Colossal Biosciences. She’s also the author of “Life as We Made It: How 50,000 Years of Human Innovation Refined―and Redefined―Nature.”",
+  "guestWebsite": "",
+  "guestYoutube": "",
+  "guestTwitter": "",
+  "guestInstagram": "",
+  "guestNetflix": "",
+  "tldr": [
+    "Beth Shapiro explains her work at Colossal Biosciences on de-extinction and genetic rescue of endangered species",
+    "Discussion of how humans have shaped nature for 50,000 years through selective breeding and environmental manipulation",
+    "The science behind recovering genetic information from ancient DNA and what we can learn from extinct species",
+    "How CRISPR and modern genetic engineering could help restore lost biodiversity and ecosystem function",
+    "The ethical considerations around bringing back extinct animals versus focusing on existing endangered species",
+    "Real-world examples of how selective breeding has dramatically changed domesticated animals from their wild ancestors"
+  ],
+  "recap": "Joe Rogan sits down with evolutionary molecular biologist Beth Shapiro to discuss her groundbreaking work in de-extinction and genetic rescue at Colossal Biosciences. Shapiro's expertise centers on understanding how humans have fundamentally reshaped nature over the past 50,000 years, a concept she explores deeply in her book Life as We Made It.\n\nThe conversation kicks off with Shapiro explaining that humans aren't separate from nature but have been actively engineering it for millennia. Through selective breeding of livestock and crops, we've created versions of animals and plants that look nothing like their wild ancestors. She uses compelling examples of how dramatically we've changed dogs, cattle, and other domesticated species from their original forms.\n\nShapiro discusses the technical side of her work, explaining how scientists can extract and analyze ancient DNA from fossils and preserved remains. This genetic information gives us a window into what extinct species were actually like and how we might restore lost genetic diversity. The conversation explores whether de-extinction is a viable tool for conservation and ecosystem restoration.\n\nA major theme throughout is the ethical complexity of the work. Should resources go toward resurrecting extinct species like woolly mammoths, or should the focus remain on preventing current species from going extinct in the first place? Shapiro presents both sides thoughtfully, discussing how de-extinction research could actually help us better understand and protect living species.\n\nThe discussion touches on CRISPR technology and how genetic engineering could theoretically bring back certain extinct animals or restore genetic diversity to endangered populations. Shapiro is careful to distinguish between science fiction speculation and what's actually possible with current technology. She emphasizes the importance of understanding the underlying biology before attempting these kinds of interventions.",
+  "keyMoments": [
+    {
+      "label": "Beth explains her role at Colossal Biosciences and what genetic rescue actually means",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion of how selective breeding has transformed wild animals into domesticated versions over thousands of years",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "Shapiro breaks down how ancient DNA analysis works and what we can learn from it",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Conversation about the ethical debate between de-extinction versus preventing current extinctions",
+      "timestamp": "0:55:00",
+      "seconds": 3300
+    },
+    {
+      "label": "Explanation of CRISPR technology and its potential applications for species conservation",
+      "timestamp": "1:20:00",
+      "seconds": 4800
+    }
+  ],
+  "quotes": [
+    "Humans have been engineering nature for 50,000 years, we're not separate from it, we're part of it",
+    "The animals we live with today look almost nothing like their wild ancestors because we've selectively bred them so intensely",
+    "Ancient DNA gives us this incredible window into what extinct species were actually like genetically",
+    "We need to think carefully about whether resurrecting extinct species is the best use of conservation resources",
+    "The science of de-extinction can actually teach us how to better protect species that are still alive today"
+  ],
+  "products": [
+    {
+      "name": "Life as We Made It: How 50,000 Years of Human Innovation Refined and Redefined Nature",
+      "description": "Beth Shapiro's book exploring humanity's role in shaping nature through selective breeding and environmental manipulation.",
+      "amazonUrl": "https://www.amazon.com/s?k=Life%20as%20We%20Made%20It%3A%20How%2050%2C000%20Years%20of%20Human%20Innovation%20Refined%20and%20Redefined%20Nature&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Life%20as%20We%20Made%20It%3A%20How%2050%2C000%20Years%20of%20Human%20Innovation%20Refined%20and%20Redefined%20Nature&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "WHOOP",
+      "description": "Fitness tracking and health monitoring wearable device offering biometric insights.",
+      "amazonUrl": "https://www.amazon.com/s?k=WHOOP&tag=selfcaremap-20",
+      "category": "Fitness Equipment",
+      "url": "https://www.amazon.com/s?k=WHOOP&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "The Farmer's Dog",
+      "description": "Fresh dog food delivery service offering nutritionally balanced meals for dogs.",
+      "amazonUrl": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "category": "Food & Drink",
+      "url": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "science",
+    "technology",
+    "environment",
+    "history",
+    "biology"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$1 million"
+}

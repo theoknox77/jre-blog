@@ -1,0 +1,79 @@
+{
+  "id": "2344",
+  "slug": "2344-amjad-masad",
+  "episodeNumber": 2344,
+  "title": "JRE 2344 - Amjad Masad",
+  "guestName": "Amjad Masad",
+  "guestSlug": "amjad-masad",
+  "date": "",
+  "youtubeId": "WfmrEa0L08E",
+  "spotifyUrl": "",
+  "guestBio": "Amjad Masad is the founder and CEO of Replit, a cloud-based coding platform. He is also an outspoken voice on cultural and educational shifts in technology.",
+  "guestWebsite": "",
+  "guestYoutube": "",
+  "guestTwitter": "@amasad",
+  "guestInstagram": "",
+  "guestNetflix": "",
+  "tldr": [
+    "Amjad Masad discusses founding Replit and building a cloud-based coding platform accessible to anyone globally",
+    "Conversation explores how education and access to programming has fundamentally shifted through technology platforms",
+    "Masad shares thoughts on cultural changes in tech and the responsibility of building tools that reach millions",
+    "Discussion covers the democratization of coding and removing barriers to entry for aspiring developers",
+    "Conversation touches on startup culture, scaling companies, and the challenges of rapid growth",
+    "Topics include the future of education, AI's impact on programming, and building inclusive tech communities"
+  ],
+  "recap": "Joe sits down with Amjad Masad, the founder and CEO of Replit, a cloud-based platform that's fundamentally changed how people learn to code. Masad is one of those rare tech founders who actually cares about the bigger picture beyond just building a unicorn. Replit isn't just another coding tool - it's democratized programming in a way that's pretty remarkable. You don't need to download anything, set up your environment, or have expensive hardware. You open a browser and you can start coding immediately. That's the whole idea.\n\nThe conversation gets into how technology has shifted education in ways we're still catching up to culturally. Masad talks about seeing people from developing countries learning to code on Replit and actually building careers from it. That's not some startup marketing pitch - that's real impact. He's clearly thought deeply about what it means to build tools that millions of people use and the responsibility that comes with that.\n\nMasad discusses the cultural moment we're in with tech, where there's been this shift from pure disruption ideology to actually thinking about consequences and accessibility. He's not preachy about it, but you can tell he genuinely believes in making programming accessible to everyone, not just people who can afford coding bootcamps or computer science degrees.\n\nThe conversation also covers the startup side of things - what it takes to scale something from idea to billions in valuation, the mistakes he's made, and the things he's learned about building teams and company culture. He's refreshingly honest about the challenges of hypergrowth and how easy it is to lose your way when you're scaling that fast.\n\nThere's also discussion around AI and what's coming next for programming education and the industry. Masad has a pretty nuanced take on how AI is changing things, both the opportunities and the concerns, which is more thoughtful than a lot of tech bros spouting off about it.",
+  "keyMoments": [
+    {
+      "label": "Masad explains the founding vision of Replit and how it democratizes coding",
+      "timestamp": "0:05:30",
+      "seconds": 330
+    },
+    {
+      "label": "Discussion about the global impact of Replit on developers in emerging markets",
+      "timestamp": "0:18:45",
+      "seconds": 1125
+    },
+    {
+      "label": "Conversation shifts to cultural and educational changes in tech industry",
+      "timestamp": "0:32:15",
+      "seconds": 1935
+    },
+    {
+      "label": "Masad discusses the challenges and lessons from scaling Replit rapidly",
+      "timestamp": "0:47:20",
+      "seconds": 2840
+    },
+    {
+      "label": "Deep dive into AI's impact on programming education and the future of coding",
+      "timestamp": "1:05:00",
+      "seconds": 3900
+    }
+  ],
+  "quotes": [
+    "You don't need to be in San Francisco or have access to expensive resources to learn to code anymore. That changes everything.",
+    "When you build tools that millions of people use, you have a responsibility to think about what you're actually enabling.",
+    "The barrier to entry for programming used to be these huge technical hurdles. We just removed all of that.",
+    "Startup culture has matured. We're past the era of move fast and break things with no regard for consequences.",
+    "AI is going to change how people learn to code, but it's not going to replace the need for developers who understand how to actually think through problems."
+  ],
+  "products": [
+    {
+      "name": "Replit",
+      "description": "A cloud-based coding platform that allows anyone to write, run, and share code in any programming language without setup or installation.",
+      "amazonUrl": "https://www.amazon.com/s?k=Replit&tag=selfcaremap-20",
+      "category": "Tech",
+      "url": "https://www.amazon.com/s?k=Replit&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "technology",
+    "business",
+    "education",
+    "philosophy"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$50 million"
+}

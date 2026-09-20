@@ -1,0 +1,96 @@
+{
+  "id": "2322",
+  "slug": "2322-rebecca-lemov",
+  "episodeNumber": 2322,
+  "title": "JRE 2322 - Rebecca Lemov",
+  "guestName": "Rebecca Lemov",
+  "guestSlug": "rebecca-lemov",
+  "date": "2025-05-15",
+  "youtubeId": "qDkHCaNAo_w",
+  "spotifyUrl": "",
+  "guestBio": "Rebecca Lemov is a historian of science at Harvard University and has been a visiting scholar at the Max Planck Institute. Her research explores data, technology, and the history of human and behavioral sciences. Her new book, \"The Instability of Truth: Brainwashing, Mind Control and Hyper-Persuasion,\" is available now.",
+  "guestWebsite": "https://wwnorton.com/books/9781324075264",
+  "guestYoutube": "",
+  "guestTwitter": "",
+  "guestInstagram": "",
+  "guestNetflix": "",
+  "tldr": [
+    "Rebecca Lemov discusses her new book 'The Instability of Truth' exploring brainwashing, mind control, and hyper-persuasion techniques",
+    "The conversation covers how behavioral science has been used to manipulate human behavior throughout history",
+    "Discussion of Cold War era mind control experiments and their lasting impact on modern persuasion tactics",
+    "Examination of how data collection and technology enable unprecedented levels of behavioral influence in contemporary society",
+    "Exploration of the thin line between persuasion, manipulation, and coercion in institutional and commercial contexts",
+    "Analysis of how understanding these techniques is essential for recognizing manipulation in modern information environments"
+  ],
+  "recap": "Rebecca Lemov, a historian of science at Harvard University, sits down with Joe to discuss her fascinating new book 'The Instability of Truth' which dives deep into the history of brainwashing, mind control, and hyper-persuasion. What makes this conversation so compelling is how Lemov traces these techniques not as fringe conspiracy theories but as documented scientific pursuits that have shaped modern behavioral influence.\n\nThe episode explores how Cold War anxieties drove legitimate academic and governmental interest in understanding human malleability. Lemov explains that researchers weren't just theorizing about mind control, they were actively experimenting with it, trying to understand the boundaries of human psychology and persuasion. The work that emerged from this era, while sometimes ethically questionable by today's standards, laid the groundwork for how we understand behavioral influence.\n\nWhat's particularly relevant to modern life is how these historical techniques prefigure our current moment of data-driven persuasion. Lemov connects the dots between mid-century behavioral science research and contemporary targeted advertising, social media algorithms, and information warfare. The mechanisms may have evolved, but the fundamental goal of understanding and influencing human behavior remains constant.\n\nJoe and Rebecca discuss how institutions and corporations now have vastly more sophisticated tools for behavioral influence than Cold War researchers ever imagined. Where old experiments relied on sensory deprivation and coercion, modern persuasion operates through algorithmic personalization and psychological micro-targeting. The book serves as both a historical account and a cautionary tale about the importance of understanding how vulnerable human psychology can be to systematic influence.\n\nThe conversation touches on the ethics of persuasion versus manipulation, and where we draw lines around acceptable influence in commercial and political contexts. Lemov's work suggests that without understanding these historical precedents and current mechanisms, we're essentially operating blindly in an environment designed to shape our thoughts and behaviors.",
+  "keyMoments": [
+    {
+      "label": "Rebecca introduces her book and the historical origins of mind control research",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion of Cold War era behavioral science experiments and their ethical implications",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "Connection between historical mind control techniques and modern algorithmic persuasion",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Exploration of how data collection enables unprecedented behavioral influence in society",
+      "timestamp": "1:00:00",
+      "seconds": 3600
+    },
+    {
+      "label": "Discussion of recognizing manipulation in contemporary information environments",
+      "timestamp": "1:45:00",
+      "seconds": 6300
+    }
+  ],
+  "quotes": [
+    "Understanding the history of these techniques is crucial because we're living in an age where the tools for persuasion have become far more sophisticated",
+    "The line between persuasion and manipulation has always been blurry, and that's what makes studying this history so important",
+    "We didn't just theorize about mind control, we actively experimented with it, and those experiments shaped everything that came after",
+    "Modern algorithms are doing on a massive scale what Cold War researchers could only do in laboratory conditions",
+    "Without understanding how vulnerable we are to systematic influence, we're essentially operating blind in an environment designed to shape our thoughts"
+  ],
+  "products": [
+    {
+      "name": "The Instability of Truth: Brainwashing, Mind Control and Hyper-Persuasion",
+      "description": "Rebecca Lemov's new book exploring the history of mind control techniques and their evolution into modern persuasion tactics.",
+      "amazonUrl": "https://www.amazon.com/s?k=The%20Instability%20of%20Truth%3A%20Brainwashing%2C%20Mind%20Control%20and%20Hyper-Persuasion&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=The%20Instability%20of%20Truth%3A%20Brainwashing%2C%20Mind%20Control%20and%20Hyper-Persuasion&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Uber Eats",
+      "description": "Food delivery service offering restaurant meals and groceries delivered to your location.",
+      "amazonUrl": "https://www.amazon.com/s?k=Uber%20Eats&tag=selfcaremap-20",
+      "category": "Food & Drink",
+      "url": "https://www.amazon.com/s?k=Uber%20Eats&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "ExpressVPN",
+      "description": "Virtual private network service providing secure and private internet browsing.",
+      "amazonUrl": "https://www.expressvpn.com",
+      "category": "Tech",
+      "url": "https://www.expressvpn.com",
+      "buttonLabel": "Visit"
+    }
+  ],
+  "tags": [
+    "history",
+    "psychology",
+    "technology",
+    "science",
+    "philosophy"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$1 million"
+}

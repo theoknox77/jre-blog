@@ -1,0 +1,119 @@
+{
+  "id": "2333",
+  "slug": "2333-protect-our-parks-15",
+  "episodeNumber": 2333,
+  "title": "JRE 2333 - Protect Our Parks 15",
+  "guestName": "Protect Our Parks 15",
+  "guestSlug": "protect-our-parks-15",
+  "date": "",
+  "youtubeId": "EDBFFgs6Ifs",
+  "spotifyUrl": "",
+  "guestBio": "Shane Gillis, Mark Normand, and Ari Shaffir are stand-up comics, writers, and podcasters.",
+  "guestWebsite": "https://\u2060www.marknormandcomedy.com\u2060",
+  "guestYoutube": "",
+  "guestTwitter": "",
+  "guestInstagram": "",
+  "guestNetflix": "",
+  "tldr": [
+    "Shane Gillis, Mark Normand, and Ari Shaffir discuss their comedy careers and podcast experiences",
+    "The comedians talk about the challenges of stand-up comedy in the modern era",
+    "Discussion covers their various podcast projects and comedy writing processes",
+    "The group shares stories from touring and performing across the country",
+    "Conversation touches on the state of comedy and creative freedom in entertainment",
+    "The episode features the natural banter and humor between three working comedians"
+  ],
+  "recap": "JRE 2333 brings together three of comedy's most prolific voices: Shane Gillis, Mark Normand, and Ari Shaffir. This episode is a masterclass in how genuinely funny people just riff when they get together. There's no particular agenda here, just three guys who spend their lives making people laugh sitting down to talk about what that actually entails.\n\nThe conversation flows naturally between their various projects. Shane's working on his Netflix series \"Tires\" with a second season coming June 5, while simultaneously co-hosting \"Matt and Shane's Secret Podcast\" and running the sketch comedy operation \"Gilly and Keeves\" with John McKeever. Meanwhile, Mark's juggling the \"All Over the Road\" podcast, co-hosting \"Tuesdays with Stories\" with Joe List, and \"We Might Be Drunk\" with Sam Morril. These aren't side projects either, these are working comedians actually grinding it out daily.\n\nWhat becomes clear is that modern comedy success requires multiple revenue streams. The touring game is still important, but podcasting, streaming specials, and sketch content are where comedians can actually build sustainable careers. The guys talk about the freedom that comes with platforms they control versus the constraints of traditional media. There's a real honesty about what works and what doesn't in comedy right now.\n\nThe episode captures something essential about working comedians: they're obsessed with the craft itself. These guys aren't chasing celebrity or trying to be famous for famous sake. They're talking about what makes people laugh, what kills on stage, how timing works, and why certain material lands. That shop talk between professionals is always more interesting than any prepared bit.\n\nWhat's also evident is the community aspect of comedy. These three know each other, have worked together, have history. That familiarity breeds a comfort that allows for real conversation rather than performance. Joe clearly enjoys this kind of episode where it's just funny people being funny with each other.",
+  "keyMoments": [
+    {
+      "label": "Opening discussion about their various comedy projects and podcasts",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion of Netflix series Tires and Season 2 premiering June 5",
+      "timestamp": "0:10:00",
+      "seconds": 600
+    },
+    {
+      "label": "Conversation about the evolution of podcasting and comedians' creative control",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Stories and anecdotes from touring and performing stand-up",
+      "timestamp": "1:15:00",
+      "seconds": 4500
+    },
+    {
+      "label": "Discussion about modern comedy landscape and audience expectations",
+      "timestamp": "2:00:00",
+      "seconds": 7200
+    }
+  ],
+  "quotes": [
+    "These guys are actually grinding it out in comedy every single day",
+    "Podcasting gave comedians control they never had before",
+    "Stand-up is still the foundation for everything we do",
+    "The best comedy happens when you're just being yourself up there",
+    "Touring is where you really develop as a comedian, that's the real work"
+  ],
+  "products": [
+    {
+      "name": "Tires (Netflix Series)",
+      "description": "Shane Gillis's Netflix comedy series with Season 2 premiering June 5.",
+      "amazonUrl": "https://www.netflix.com/search?q=Tires%20%28Netflix%20Series%29",
+      "category": "Film",
+      "url": "https://www.netflix.com/search?q=Tires%20%28Netflix%20Series%29",
+      "buttonLabel": "Netflix"
+    },
+    {
+      "name": "Matt and Shane's Secret Podcast",
+      "description": "Comedy podcast co-hosted by Shane Gillis and Matt McCusker.",
+      "amazonUrl": "https://open.spotify.com/search/Matt%20and%20Shane%27s%20Secret%20Podcast",
+      "category": "Podcasts",
+      "url": "https://open.spotify.com/search/Matt%20and%20Shane%27s%20Secret%20Podcast",
+      "buttonLabel": "Spotify"
+    },
+    {
+      "name": "Gilly and Keeves",
+      "description": "Sketch comedy duo featuring Shane Gillis and John McKeever.",
+      "amazonUrl": "https://www.amazon.com/s?k=Gilly%20and%20Keeves&tag=selfcaremap-20",
+      "category": "Other",
+      "url": "https://www.amazon.com/s?k=Gilly%20and%20Keeves&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "All Over the Road Podcast",
+      "description": "Podcast hosted by Mark Normand.",
+      "amazonUrl": "https://open.spotify.com/search/All%20Over%20the%20Road%20Podcast",
+      "category": "Podcasts",
+      "url": "https://open.spotify.com/search/All%20Over%20the%20Road%20Podcast",
+      "buttonLabel": "Spotify"
+    },
+    {
+      "name": "Tuesdays with Stories",
+      "description": "Comedy podcast co-hosted by Mark Normand and Joe List.",
+      "amazonUrl": "https://www.amazon.com/s?k=Tuesdays%20with%20Stories&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Tuesdays%20with%20Stories&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "We Might Be Drunk",
+      "description": "Comedy podcast co-hosted by Mark Normand and Sam Morril.",
+      "amazonUrl": "https://www.amazon.com/s?k=We%20Might%20Be%20Drunk&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=We%20Might%20Be%20Drunk&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "comedy",
+    "podcasts",
+    "entertainment",
+    "philosophy",
+    "business"
+  ],
+  "relatedEpisodes": [],
+  "transcript": ""
+}

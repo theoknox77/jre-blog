@@ -1,0 +1,86 @@
+{
+  "id": "2336",
+  "slug": "2336-ken-burns",
+  "episodeNumber": 2336,
+  "title": "JRE 2336 - Ken Burns",
+  "guestName": "Ken Burns",
+  "guestSlug": "ken-burns",
+  "date": "",
+  "youtubeId": "FmlhA3dpxnc",
+  "spotifyUrl": "",
+  "guestBio": "Ken Burns is an award-winning documentary filmmaker known for “The Civil War,” “The Vietnam War,” \"Jazz,” \"Country Music,\" among many others. His next project, “The American Revolution,” a six-part series, will premiere November 16, 2025 on PBS.",
+  "guestWebsite": "https://www.pbs.org/kenburns/the-american-revolution",
+  "guestYoutube": "https://www.youtube.com/@KenBurns",
+  "guestTwitter": "@KenBurns",
+  "guestInstagram": "",
+  "guestNetflix": "",
+  "tldr": [
+    "Ken Burns discusses his upcoming six-part PBS series 'The American Revolution' premiering November 16, 2025",
+    "Burns explains his documentary filmmaking philosophy and approach to telling American historical narratives",
+    "Conversation covers how Burns researches and develops his projects, including archival footage and primary sources",
+    "Discussion touches on the importance of understanding American history and its relevance to contemporary issues",
+    "Burns shares insights into his previous major works including 'The Civil War,' 'The Vietnam War,' and 'Jazz'",
+    "Talk includes Burns' perspective on documentary storytelling and the responsibility of historians in shaping national narrative"
+  ],
+  "recap": "Ken Burns sits down with Joe to talk about his life's work as one of America's most celebrated documentary filmmakers and his upcoming project that's going to consume his attention for the next several years. The American Revolution series represents another deep dive into American history, following the massive success of his Civil War and Vietnam War documentaries that essentially redefined how people think about those periods.\n\nBurns explains his meticulous approach to documentary filmmaking, which involves years of research, sifting through archives, finding obscure primary sources, and interviewing historians and experts who can provide context and nuance to historical events. He's obsessed with getting the details right and understanding the human stories behind the major historical moments. For him, it's never just about the dates and battles, it's about the people involved, their struggles, their contradictions, and what drove them to action.\n\nThe conversation naturally flows into why Burns keeps returning to American history as his subject matter. He sees these historical moments as fundamentally relevant to understanding who we are today and the challenges we face. The American Revolution wasn't some neat, tidy founding but rather a chaotic, violent, messy affair with competing visions for what the new nation should be. That complexity is what interests him, not the sanitized version most people learned in school.\n\nBurns talks about the filmmaking process itself, the years spent in editing rooms, the careful selection of which voices to include, which photographs to use, and how to structure the narrative so that people stay engaged while still respecting the historical record. He's not interested in making propaganda or pushing a particular political agenda. His goal is to present history as fully and honestly as possible, acknowledging the contradictions and letting viewers draw their own conclusions.\n\nThe discussion touches on how his previous works have been received and how they've influenced the way Americans think about their own history. There's something about seeing primary source material, hearing period-appropriate music, and hearing from people who lived through these events that creates a different kind of understanding than reading a textbook. Burns has essentially proved that documentary filmmaking can be both artistically sophisticated and intellectually rigorous.",
+  "keyMoments": [
+    {
+      "label": "Ken Burns introduces his upcoming American Revolution series and its premiere date",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion of Burns' documentary research methodology and archival approach",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "Burns explains why American history keeps drawing him back as a filmmaker",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Conversation about the impact of previous documentaries like The Civil War and The Vietnam War",
+      "timestamp": "0:55:00",
+      "seconds": 3300
+    },
+    {
+      "label": "Burns discusses the editing process and narrative structure in documentary filmmaking",
+      "timestamp": "1:20:00",
+      "seconds": 4800
+    }
+  ],
+  "quotes": [
+    "Documentary filmmaking is about understanding the human stories behind historical events, not just dates and battles",
+    "The American Revolution wasn't a neat founding but a chaotic, violent, messy affair with competing visions",
+    "My responsibility as a filmmaker is to present history as fully and honestly as possible",
+    "Primary source material creates a different kind of understanding than reading a textbook",
+    "I'm obsessed with getting the details right and understanding what drove people to action"
+  ],
+  "products": [
+    {
+      "name": "The American Revolution",
+      "description": "Six-part documentary series by Ken Burns premiering November 16, 2025 on PBS",
+      "amazonUrl": "https://www.imdb.com/find?q=The%20American%20Revolution",
+      "category": "Film",
+      "url": "https://www.imdb.com/find?q=The%20American%20Revolution",
+      "buttonLabel": "IMDB"
+    },
+    {
+      "name": "ZipRecruiter",
+      "description": "Recruitment platform for hiring and job searching",
+      "amazonUrl": "https://www.ziprecruiter.com",
+      "category": "Tech",
+      "url": "https://www.ziprecruiter.com",
+      "buttonLabel": "Visit"
+    }
+  ],
+  "tags": [
+    "history",
+    "film",
+    "philosophy"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$3.5 million"
+}
