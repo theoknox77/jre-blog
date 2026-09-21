@@ -1,0 +1,95 @@
+{
+  "id": "2272",
+  "slug": "2272-mike-benz",
+  "episodeNumber": 2272,
+  "title": "JRE 2272 - Mike Benz",
+  "guestName": "Mike Benz",
+  "guestSlug": "mike-benz",
+  "date": "2025-02-12",
+  "youtubeId": "XPPc8OVNngg",
+  "spotifyUrl": "",
+  "guestBio": "Mike Benz is a former official with the U.S. Department of State and current Executive Director of the Foundation For Freedom Online, is a free speech watchdog organization dedicated to restoring the promise of a free and open Internet.",
+  "guestWebsite": "http://www.foundationforfreedomonline.com",
+  "guestYoutube": "https://www.youtube.com/@mikebenz",
+  "guestTwitter": "@MikeBenzCyber",
+  "guestInstagram": "",
+  "guestNetflix": "",
+  "guestNetWorth": "$2 million",
+  "tldr": [
+    "Mike Benz discusses his work at the State Department and how he became a free speech advocate",
+    "Deep dive into government censorship operations and coordination between tech platforms and federal agencies",
+    "The role of the National Security State in controlling information and narrative during elections",
+    "How the U.S. exported censorship infrastructure globally through the State Department",
+    "The difference between Section 230 protections and how platforms use them selectively",
+    "What needs to happen to restore internet freedom and reduce corporate-government collaboration"
+  ],
+  "recap": "Mike Benz sits down with Joe to talk about his journey from State Department official to free speech crusader. He runs the Foundation For Freedom Online, an organization dedicated to fighting censorship and restoring an actually free internet. The conversation goes deep into how government and big tech have become deeply intertwined, operating as what Benz calls a de facto censorship regime.\n\nBenz explains how during his time at the State Department, he watched the government develop and export censorship infrastructure globally, often under the guise of fighting disinformation and election interference. What started as genuine security concerns evolved into something much more expansive, where the government effectively outsources censorship to tech companies by flagging content as problematic, and the platforms comply. The whole system operates in a murky legal gray area where platforms can claim they're making independent moderation decisions while actually just following government suggestions.\n\nThe episode explores how this accelerated post-2016 when there was genuine panic in D.C. about election interference. Instead of addressing actual problems, the response was to build an infrastructure for controlling what Americans could see and say online. Benz details how multiple government agencies coordinate with each other and with tech platforms to suppress speech around elections, public health, foreign policy, and anything else deemed problematic by the national security establishment.\n\nJoe and Mike discuss the chilling effect this has on free speech, even beyond what actually gets removed. People self-censor because they know the system exists. The platforms operate with such vague community standards that they can remove content retroactively or shadowban accounts without ever explaining why. It's a system designed to be opaque and hard to challenge.\n\nBenz emphasizes that this isn't about left versus right politics, though it often appears that way. The national security state wants control over information flow regardless of political party. What changed is that tech companies gave the government a tool to do it at scale, and once you build that infrastructure, it doesn't go away. It expands.",
+  "keyMoments": [
+    {
+      "label": "Mike Benz introduces his background and transition from State Department to free speech advocacy",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion of government censorship infrastructure development and export",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "How agencies coordinate with tech platforms to flag content as problematic",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "The expansion of censorship post-2016 election interference concerns",
+      "timestamp": "0:55:00",
+      "seconds": 3300
+    },
+    {
+      "label": "Discussion of the chilling effect and self-censorship in the current system",
+      "timestamp": "1:20:00",
+      "seconds": 4800
+    }
+  ],
+  "quotes": [
+    "The government doesn't actually censor. They just ask tech companies to do it for them.",
+    "Once you build the infrastructure for controlling information, it doesn't go away. It expands.",
+    "The national security state wants control over the information ecosystem regardless of which party is in power.",
+    "People self-censor because they know the system exists, even if their specific post never gets removed.",
+    "What started as election security concerns became a tool for controlling the entire narrative around what Americans can discuss."
+  ],
+  "products": [
+    {
+      "name": "Foundation For Freedom Online",
+      "description": "A free speech watchdog organization dedicated to restoring the promise of a free and open internet.",
+      "amazonUrl": "https://www.amazon.com/s?k=Foundation%20For%20Freedom%20Online&tag=selfcaremap-20",
+      "category": "Other",
+      "url": "https://www.amazon.com/s?k=Foundation%20For%20Freedom%20Online&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Squarespace",
+      "description": "Website building and domain registration service with a free trial available at squarespace.com/rogan.",
+      "amazonUrl": "https://www.squarespace.com",
+      "category": "Tech",
+      "url": "https://www.squarespace.com",
+      "buttonLabel": "Visit"
+    },
+    {
+      "name": "BetterHelp",
+      "description": "Online therapy and mental health counseling service available at betterhelp.com.",
+      "amazonUrl": "https://www.betterhelp.com",
+      "category": "Health",
+      "url": "https://www.betterhelp.com",
+      "buttonLabel": "Visit"
+    }
+  ],
+  "tags": [
+    "politics",
+    "technology",
+    "conspiracy",
+    "philosophy"
+  ],
+  "relatedEpisodes": [],
+  "transcript": ""
+}

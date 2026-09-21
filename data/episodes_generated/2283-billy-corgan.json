@@ -1,0 +1,104 @@
+{
+  "id": "2283",
+  "slug": "2283-billy-corgan",
+  "episodeNumber": 2283,
+  "title": "JRE 2283 - Billy Corgan",
+  "guestName": "Billy Corgan",
+  "guestSlug": "billy-corgan",
+  "date": "2025-03-04",
+  "youtubeId": "OFt_pIzTrHU",
+  "spotifyUrl": "",
+  "guestBio": "Billy Corgan is the lead singer of The Smashing Pumpkins and host of \"The Magnificent Others\" podcast. The Smashing Pumpkins' latest album, \"Aghori Mhori Me,\" is available now.",
+  "guestWebsite": "http://www.smashingpumpkins.com",
+  "guestYoutube": "",
+  "guestTwitter": "@billy",
+  "guestInstagram": "@billy",
+  "guestNetflix": "",
+  "guestNetWorth": "$60 million",
+  "tldr": [
+    "Billy Corgan discusses The Smashing Pumpkins' reunion and creative process over the years",
+    "Conversation about the music industry, streaming, and how it has changed since the band's peak",
+    "Billy shares insights on his podcast 'The Magnificent Others' and interviewing other artists",
+    "Discussion of the new album 'Aghori Mhori Me' and the band's current direction",
+    "Billy reflects on fame, legacy, and the pressures of being a rock icon",
+    "Exploration of creative spirituality and how it influences his songwriting"
+  ],
+  "recap": "Joe sits down with Billy Corgan, the iconic frontman of The Smashing Pumpkins, in what turns out to be a deep dive into music, legacy, and the creative process. Billy is there to talk about the band's latest album, 'Aghori Mhori Me,' and how The Smashing Pumpkins continue to evolve after all these years in the industry.\n\nThe conversation naturally flows into how the music industry has transformed since The Smashing Pumpkins' peak in the 90s. Billy talks about streaming, how artists make money now, and the weird relationship musicians have with their own catalog in the digital age. He's refreshingly honest about the business side of rock and roll, the way record labels operated back then versus now, and what it means to be a legacy artist trying to stay relevant.\n\nBilly also discusses his podcast 'The Magnificent Others' and what drives him to interview other creative people. He seems genuinely interested in understanding how other artists think and work, which comes across as authentic curiosity rather than just another celebrity vanity project. The conversation touches on spirituality and how it informs his creative work, which for Billy isn't just about the music but about tapping into something deeper.\n\nThroughout the episode, there's a thread about pressure and expectations. Being in one of the biggest rock bands of all time comes with a certain weight that never really goes away. Billy reflects on fame and whether the legacy he's built with The Smashing Pumpkins feels like a blessing or a burden, and he's not afraid to get real about the struggles of maintaining creative momentum while people want you to basically recreate what you did 20 or 30 years ago.\n\nThe vibe is conversational and goes places you'd expect from a Joe and musician interview, with plenty of tangents but always circling back to what drives creative people and how they make sense of their place in the world.",
+  "keyMoments": [
+    {
+      "label": "Billy introduces the new album Aghori Mhori Me and what inspired it",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion about how the music industry and streaming has changed since the 90s",
+      "timestamp": "0:15:30",
+      "seconds": 930
+    },
+    {
+      "label": "Billy talks about his podcast The Magnificent Others and interviewing other artists",
+      "timestamp": "0:35:45",
+      "seconds": 2145
+    },
+    {
+      "label": "Conversation about spirituality and how it influences songwriting and creativity",
+      "timestamp": "0:52:15",
+      "seconds": 3135
+    },
+    {
+      "label": "Billy reflects on legacy, fame, and the pressure of being a rock icon",
+      "timestamp": "1:10:00",
+      "seconds": 4200
+    }
+  ],
+  "quotes": [
+    "The music industry has completely changed - it's not about selling records anymore, it's about presence and connection",
+    "When you create something meaningful, it becomes bigger than you",
+    "I'm interested in how other people think and create - that's what drives the podcast",
+    "You can't recreate the past, you can only move forward into something new",
+    "Spirituality isn't separate from art - it's the foundation of it"
+  ],
+  "products": [
+    {
+      "name": "Aghori Mhori Me",
+      "description": "The latest album from The Smashing Pumpkins, available now.",
+      "amazonUrl": "https://open.spotify.com/search/Aghori%20Mhori%20Me",
+      "category": "Music",
+      "url": "https://open.spotify.com/search/Aghori%20Mhori%20Me",
+      "buttonLabel": "Spotify"
+    },
+    {
+      "name": "The Magnificent Others Podcast",
+      "description": "Billy Corgan's podcast where he interviews other creative people and artists.",
+      "amazonUrl": "https://open.spotify.com/search/The%20Magnificent%20Others%20Podcast",
+      "category": "Podcasts",
+      "url": "https://open.spotify.com/search/The%20Magnificent%20Others%20Podcast",
+      "buttonLabel": "Spotify"
+    },
+    {
+      "name": "BetterHelp",
+      "description": "Online therapy and mental health support service.",
+      "amazonUrl": "https://www.betterhelp.com",
+      "category": "Health",
+      "url": "https://www.betterhelp.com",
+      "buttonLabel": "Visit"
+    },
+    {
+      "name": "DraftKings",
+      "description": "Fantasy sports and sports betting mobile application.",
+      "amazonUrl": "https://www.draftkings.com",
+      "category": "Sports",
+      "url": "https://www.draftkings.com",
+      "buttonLabel": "Visit"
+    }
+  ],
+  "tags": [
+    "music",
+    "business",
+    "philosophy",
+    "psychology",
+    "creativity"
+  ],
+  "relatedEpisodes": [],
+  "transcript": ""
+}

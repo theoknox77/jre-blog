@@ -1,0 +1,96 @@
+{
+  "id": "2280",
+  "slug": "2280-peter-berg",
+  "episodeNumber": 2280,
+  "title": "JRE 2280 - Peter Berg",
+  "guestName": "Peter Berg",
+  "guestSlug": "peter-berg",
+  "date": "2025-02-27",
+  "youtubeId": "XMmkaD9OqYE",
+  "spotifyUrl": "",
+  "guestBio": "Peter Berg is a writer, director, and producer. His latest project is the Netflix series \"American Primeval.\"",
+  "guestWebsite": "",
+  "guestYoutube": "",
+  "guestTwitter": "https://www.netflix.com/title/81457507",
+  "guestInstagram": "@berg_peter",
+  "guestNetflix": "American Primeval",
+  "guestNetWorth": "$60 million",
+  "tldr": [
+    "Peter Berg discusses the creative process behind Netflix's 'American Primeval' and what drew him to the project",
+    "Berg explains the challenges of depicting authentic frontier violence and brutality in the series",
+    "Discussion about casting choices and working with actors to bring complex characters to life",
+    "Berg talks about the research involved in creating a historically grounded western narrative",
+    "Conversation about the difference between streaming content and traditional film production timelines",
+    "Berg shares insights on storytelling, narrative structure, and what makes compelling drama"
+  ],
+  "recap": "Joe sits down with Peter Berg to talk about his latest Netflix series American Primeval, a dark and brutal take on the American frontier. Berg is a seasoned filmmaker who has worked across multiple mediums, and he brings that experience to this ambitious project that aims to show the harsh realities of the frontier era in ways most viewers haven't seen before.\n\nBerg discusses the creative vision behind American Primeval and what attracted him to tell this particular story. He explains that the frontier period is fertile ground for exploring human nature stripped down to its most primal elements. The series doesn't shy away from showing violence and brutality as a core part of the narrative, not as gratuitous entertainment but as historical context. Berg emphasizes that authenticity was crucial in every aspect of production, from costume design to the way characters speak and interact.\n\nThe conversation touches on the practical challenges of making a streaming series versus traditional film. Berg talks about how Netflix gave him the creative freedom to tell the story his way while also dealing with the realities of production schedules and budgets. He discusses casting decisions and how he approached finding actors who could embody the complex characters in the story. Working with talented performers was essential to bringing depth to roles that could have been one-dimensional in less capable hands.\n\nBerg goes into detail about the research process, explaining that you can't authentically depict a historical period without really understanding the social structures, technology, and human dynamics of that time. He talks about how the frontier wasn't the romanticized version you see in many westerns, but rather a place of genuine danger and moral complexity. Throughout the conversation, Berg demonstrates his passion for storytelling and his belief that good drama comes from understanding human motivation and conflict.\n\nThe two also discuss the broader landscape of television and streaming content, and how the industry is evolving. Berg seems genuinely excited about the possibilities that platforms like Netflix offer for ambitious creators who want to tell stories that might not fit the traditional Hollywood model.",
+  "keyMoments": [
+    {
+      "label": "Peter Berg introduces American Primeval and the concept behind the Netflix series",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion about authentic depiction of frontier violence and historical accuracy",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "Berg explains the casting process and working with actors on complex characters",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Conversation about research and understanding the historical period",
+      "timestamp": "0:52:00",
+      "seconds": 3120
+    },
+    {
+      "label": "Berg discusses creative freedom and differences between streaming and traditional film production",
+      "timestamp": "1:08:00",
+      "seconds": 4080
+    }
+  ],
+  "quotes": [
+    "The frontier wasn't a romantic place, it was brutal and unforgiving, and we wanted to show that authentically",
+    "You have to understand the period deeply to portray it honestly in your storytelling",
+    "Casting is everything because you need actors who can bring nuance to characters that could easily become stereotypes",
+    "Streaming has given us the freedom to tell stories that might not fit the traditional Hollywood mold",
+    "The violence in American Primeval isn't gratuitous, it's contextual to the world we're depicting"
+  ],
+  "products": [
+    {
+      "name": "AG1",
+      "description": "All-in-one nutritional supplement drink mix available at drinkag1.com/joerogan with $20 off first subscription.",
+      "amazonUrl": "https://www.amazon.com/s?k=AG1&tag=selfcaremap-20",
+      "category": "Supplements",
+      "url": "https://www.amazon.com/s?k=AG1&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "The Farmer's Dog",
+      "description": "Fresh dog food delivery service offering 50% off first box at thefarmersdog.com/rogan.",
+      "amazonUrl": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "category": "Food & Drink",
+      "url": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "American Primeval",
+      "description": "Netflix series written, directed and produced by Peter Berg about the American frontier.",
+      "amazonUrl": "https://www.netflix.com/search?q=American%20Primeval",
+      "category": "Film",
+      "url": "https://www.netflix.com/search?q=American%20Primeval",
+      "buttonLabel": "Netflix"
+    }
+  ],
+  "tags": [
+    "film",
+    "history",
+    "television",
+    "storytelling",
+    "entertainment"
+  ],
+  "relatedEpisodes": [],
+  "transcript": ""
+}
