@@ -1,0 +1,96 @@
+{
+  "id": "2211",
+  "slug": "2211-michael-shellenberger",
+  "episodeNumber": 2211,
+  "title": "JRE 2211 - Michael Shellenberger",
+  "guestName": "Michael Shellenberger",
+  "guestSlug": "michael-shellenberger",
+  "date": "2024-10-09",
+  "youtubeId": "dK3HK5Yy1AI",
+  "spotifyUrl": "",
+  "guestBio": "Michael Shellenberger is an investigative journalist and founder of Public, a Substack publication, founder and president of Environmental Progress, a research organization that incubates ideas, leaders, and movements, and the CBR Chair of Politics, Censorship and Free Speech at the University of Austin. He is the best-selling author of multiple books, including “Apocalypse Never” and “San Fransicko,\" and is a Time Magazine \"Hero of the Environment\" and Green Book Award winner.",
+  "guestWebsite": "https://www.public.news/",
+  "guestYoutube": "https://www.youtube.com/@MichaelShellenberger",
+  "guestTwitter": "https://x.com/shellenberger",
+  "guestInstagram": "@michaelshellenberger",
+  "guestNetflix": "",
+  "tldr": [
+    "Michael Shellenberger discusses his investigative journalism work exposing problems in San Francisco and progressive policies",
+    "Conversation covers environmental activism, nuclear energy, and how apocalyptic narratives drive policy decisions",
+    "Shellenberger explains his transition from being a traditional environmentalist to questioning mainstream environmental narratives",
+    "Discussion of censorship, free speech issues, and his work at the University of Austin focusing on politics and censorship",
+    "Analysis of homelessness, drug policy, and how well-intentioned progressive policies often backfire in major cities",
+    "Shellenberger's background as an investigative journalist and his approach to questioning established narratives across various topics"
+  ],
+  "recap": "In this episode of JRE 2211, Joe Rogan sits down with Michael Shellenberger, an investigative journalist whose work challenges conventional wisdom on environmental issues, urban policy, and progressive governance. Shellenberger brings a unique perspective as someone who initially championed traditional environmental causes but gradually became disillusioned with apocalyptic narratives that he believes drive misguided policy decisions.\n\nThe conversation quickly dives into Shellenberger's book \"San Fransicko,\" which investigates how progressive policies in San Francisco have contributed to the city's decline in homelessness, crime, and drug addiction. Rather than dismissing these problems as inevitable, Shellenberger presents data showing that policies prioritizing harm reduction without accountability have inadvertently worsened outcomes. Joe and Shellenberger explore how well-intentioned interventions often create perverse incentives that harm the very populations they're meant to help.\n\nA major theme throughout the discussion is the role of fear-based narratives in driving environmental and social policy. Shellenberger argues that apocalyptic thinking, whether about climate change or other crises, can lead to solutions that don't actually address root problems effectively. He discusses his evolution as an environmentalist and how investigating specific claims led him to question broader narratives he once accepted uncritically.\n\nThe conversation shifts to energy policy and nuclear power, with Shellenberger explaining why nuclear energy should be central to any serious climate solution but remains politically unpopular among traditional environmental advocates. Joe and Shellenberger discuss the irrational fear of nuclear energy and how this fear has delayed deployment of what many consider the most reliable clean energy source.\n\nShellenberger's role at the University of Austin as CBR Chair of Politics, Censorship and Free Speech becomes relevant as the discussion addresses how his investigative work has sometimes faced institutional resistance and how important it is to maintain platforms for challenging prevailing orthodoxies. The episode reflects on how institutions increasingly struggle to accommodate dissenting views, even when those views are evidence-based and well-researched.\n\nThroughout the conversation, Shellenberger emphasizes the importance of empirical investigation over ideological commitment. He argues that the most important work happens when people are willing to question their own assumptions and follow evidence even when it contradicts their worldview. This approach has made him both respected and controversial, as his findings don't always align with progressive or conservative orthodoxies.",
+  "keyMoments": [
+    {
+      "label": "Shellenberger introduces his work on San Francisco and progressive policy failures",
+      "timestamp": "0:05:30",
+      "seconds": 330
+    },
+    {
+      "label": "Discussion of how harm reduction policies without accountability have worsened drug addiction crises",
+      "timestamp": "0:18:45",
+      "seconds": 1125
+    },
+    {
+      "label": "Shellenberger explains his evolution from traditional environmentalist to questioning apocalyptic narratives",
+      "timestamp": "0:35:20",
+      "seconds": 2120
+    },
+    {
+      "label": "Conversation about nuclear energy as the most viable climate solution despite environmental movement resistance",
+      "timestamp": "0:52:10",
+      "seconds": 3130
+    },
+    {
+      "label": "Discussion of censorship concerns and the importance of free speech in academic and institutional settings",
+      "timestamp": "1:08:40",
+      "seconds": 3920
+    }
+  ],
+  "quotes": [
+    "The problem is that we've created a system where good intentions lead to bad outcomes because there's no accountability.",
+    "Apocalyptic thinking drives policy in ways that aren't necessarily grounded in evidence or reality.",
+    "Nuclear energy is the most important part of any serious climate solution, but the environmental movement won't touch it.",
+    "I used to believe a lot of things that turned out not to be true when I actually investigated them.",
+    "The best way to help people struggling with addiction isn't to enable the behavior, it's to provide real treatment and accountability."
+  ],
+  "products": [
+    {
+      "name": "San Fransicko",
+      "description": "Michael Shellenberger's investigative book examining how progressive policies in San Francisco have impacted homelessness, crime, and drug addiction.",
+      "amazonUrl": "https://www.amazon.com/s?k=San%20Fransicko&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=San%20Fransicko&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Apocalypse Never",
+      "description": "Shellenberger's best-selling book challenging apocalyptic environmental narratives and proposing alternative approaches to environmental issues.",
+      "amazonUrl": "https://www.amazon.com/s?k=Apocalypse%20Never&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Apocalypse%20Never&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Public",
+      "description": "Michael Shellenberger's Substack publication featuring investigative journalism and commentary on politics, environment, and policy.",
+      "amazonUrl": "https://www.amazon.com/s?k=Public&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Public&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "politics",
+    "environment",
+    "philosophy",
+    "technology",
+    "business"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$2 million"
+}

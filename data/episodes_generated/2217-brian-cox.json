@@ -1,0 +1,79 @@
+{
+  "id": "2217",
+  "slug": "2217-brian-cox",
+  "episodeNumber": 2217,
+  "title": "JRE 2217 - Brian Cox",
+  "guestName": "Brian Cox",
+  "guestSlug": "brian-cox",
+  "date": "2024-10-24",
+  "youtubeId": "Rc7OHXJtWco",
+  "spotifyUrl": "",
+  "guestBio": "This episode is brought to you by The Farmer's Dog. Get 50% off your first box by heading to http://thefarmersdog.com/rogan today!",
+  "guestWebsite": "https://briancoxlive.co.uk/",
+  "guestYoutube": "https://www.youtube.com/@ProfBrianCox",
+  "guestTwitter": "@ProfBrianCox",
+  "guestInstagram": "@profbriancox",
+  "guestNetflix": "",
+  "tldr": [
+    "Brian Cox discusses the current state of particle physics and what we've learned from the Large Hadron Collider",
+    "Conversation covers the nature of dark matter and dark energy and why they remain mysterious",
+    "Cox explains the expanding universe and what cosmic acceleration means for our understanding of physics",
+    "Discussion touches on the possibility of parallel universes and multiverse theory",
+    "Cox talks about communicating science to the public and making complex physics accessible",
+    "Episode sponsored by The Farmer's Dog with 50% off first box promotion"
+  ],
+  "recap": "In JRE 2217, Joe sits down with Brian Cox, the renowned Manchester physicist who's mastered the rare art of making particle physics actually interesting to regular people. This is one of those episodes where you can feel Joe genuinely excited to dig into the deep stuff, asking real questions instead of just nodding along.\n\nCox jumps into what's happening at the frontiers of physics right now. The Large Hadron Collider has given us incredible data, but we're at this fascinating moment where we've confirmed the Standard Model pretty thoroughly and now we're staring at all the things it doesn't explain. Dark matter makes up most of the matter in the universe and we still don't know what it is. Dark energy is even weirder - it's accelerating the expansion of the universe and that shouldn't be happening based on everything we thought we knew.\n\nThe conversation gets into the philosophy of it all too. Cox explains why the universe being exactly fine-tuned for life is either the wildest coincidence ever or suggests something deeper about reality we don't understand yet. He talks about multiverse theory not as science fiction but as a legitimate framework some physicists work with when you take quantum mechanics seriously.\n\nWhat's refreshing about Cox is he doesn't pretend to have answers he doesn't have. He's clear about what we know, what we're trying to figure out, and what's still pure speculation. Joe keeps asking follow-up questions that actually push the conversation forward instead of derailing it, which makes for genuinely good science discussion.\n\nCox also opens up about the responsibility of being a public figure in science. He's got millions of people watching his documentaries and following his work, and he takes seriously the job of not dumbing things down while still making them understandable. There's a balance between being accurate and being engaging, and he clearly thinks a lot about where that line is.",
+  "keyMoments": [
+    {
+      "label": "Opening discussion on the Large Hadron Collider and particle physics breakthroughs",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Brian Cox explains dark matter, dark energy, and cosmic mysteries we still can't solve",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "Conversation about the fine-tuning of the universe and multiverse theory implications",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Cox discusses his approach to communicating complex science to mass audiences",
+      "timestamp": "0:55:00",
+      "seconds": 3300
+    },
+    {
+      "label": "Deep dive into what we don't know and the limits of current physics understanding",
+      "timestamp": "1:20:00",
+      "seconds": 4800
+    }
+  ],
+  "quotes": [
+    "We've got this wonderful situation where we've built the biggest machine we've ever built and it's confirmed what we already thought, which is great, but we're staring at all these things we can't explain",
+    "Dark energy is genuinely bizarre - the universe is accelerating in its expansion and we have no idea why",
+    "The universe is precisely tuned for life to exist, and that's either the most incredible coincidence or it's telling us something fundamental",
+    "My job is to explain why this stuff matters, not just what it is",
+    "We're at this frontier where we genuinely don't know the answers and that's exciting"
+  ],
+  "products": [
+    {
+      "name": "The Farmer's Dog",
+      "description": "Fresh, pre-portioned dog food delivered to your door with 50% off first box promotion.",
+      "amazonUrl": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "category": "Food & Drink",
+      "url": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "science",
+    "physics",
+    "technology",
+    "philosophy"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$2 million"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "2201",
+  "slug": "2201-robert-epstein",
+  "episodeNumber": 2201,
+  "title": "JRE 2201 - Robert Epstein",
+  "guestName": "Robert Epstein",
+  "guestSlug": "robert-epstein",
+  "date": "2024-09-11",
+  "youtubeId": "Azu8XnZdxeA",
+  "spotifyUrl": "",
+  "guestBio": "Robert Epstein is an author, editor, and psychology researcher. He is a former editor-in-chief of \"Psychology Today\" and currently serves as Senior Research Psychologist at the American Institute for Behavioral Research and Technology. He also founded the Cambridge Center for Behavioral Studies.",
+  "guestWebsite": "https://www.drrobertepstein.com/",
+  "guestYoutube": "https://www.youtube.com/@RobertEpsteinPhD",
+  "guestTwitter": "@DrREpstein",
+  "guestInstagram": "@robertepsteinphd",
+  "guestNetflix": "",
+  "tldr": [
+    "Robert Epstein discusses how search engines and AI systems can influence human behavior and elections without people realizing it",
+    "The concept of 'algorithmic amplification' and how tech platforms shape what information people see and believe",
+    "Epstein's research on how Google's search algorithm may have influenced voters during recent elections",
+    "The dangers of concentration of power in Big Tech companies and their ability to manipulate public opinion at scale",
+    "How predictive AI systems are becoming increasingly powerful and the ethical concerns around their deployment",
+    "Solutions and regulatory approaches needed to protect democratic processes from algorithmic manipulation"
+  ],
+  "recap": "Robert Epstein brings serious heat to JRE 2201 about something most people aren't even aware is happening to them. He's talking about how the biggest tech companies on the planet are basically running a massive influence operation through their algorithms, and not even in a conspiracy theory way. This is his actual research.\n\nEpstein breaks down how search results aren't neutral. When Google decides what shows up first, they're literally shaping what billions of people believe. He's done studies showing that search rankings can shift voting preferences without people realizing they're being influenced. You think you're making your own decisions, but the algorithm already decided what information you'd see first. It's that casual and that powerful.\n\nThe conversation gets into algorithmic amplification, which is basically how platforms decide what content goes viral and what gets buried. Facebook, YouTube, TikTok, all of them are using algorithms that aren't transparent. We have no idea how they work, and neither do most of their employees. These aren't neutral recommendation systems. They're actively shaping human behavior at a scale we've never seen before.\n\nWhat makes this particularly disturbing is that it's not just about ads or marketing. Epstein's research suggests this tech could influence elections. Not through hacking or fraud, but through something way more subtle and way more effective. If you control what information millions of people see, you're controlling what they think they know. That's power on a level that should genuinely concern people.\n\nEpstein also touches on the concentration of power. A handful of companies control the flow of information for basically the entire planet. That's insane when you think about it. There's no checks and balances. There's no transparency. These companies are making decisions that affect billions of people based on algorithms nobody fully understands.\n\nThe episode doesn't leave you feeling hopeless though. Epstein talks about what can actually be done. Regulatory frameworks, transparency requirements, maybe breaking up some of these monopolies. But the first step is just understanding that this is happening. Most people have no idea that the information they're seeing isn't random. It's been chosen for them.",
+  "keyMoments": [
+    {
+      "label": "Epstein explains how search engines influence behavior without people knowing it",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion of research showing Google search results can shift voting preferences",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "The concept of algorithmic amplification and how platforms manipulate information flow",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Epstein talks about concentration of power in Big Tech and lack of transparency",
+      "timestamp": "1:00:00",
+      "seconds": 3600
+    },
+    {
+      "label": "Potential solutions including regulation and breaking up tech monopolies",
+      "timestamp": "2:00:00",
+      "seconds": 7200
+    }
+  ],
+  "quotes": [
+    "The algorithms are not neutral. They're making decisions about what you see, and those decisions shape what you think.",
+    "If you control the information people see, you control what they believe they know. That's the real power.",
+    "We have zero transparency into how these systems work. Not even the companies fully understand their own algorithms.",
+    "This isn't about conspiracy theories. This is about documented research on how algorithms influence human behavior.",
+    "A handful of companies control the information flow for billions of people. That's a concentration of power we've never seen before."
+  ],
+  "products": [
+    {
+      "name": "The Farmer's Dog",
+      "description": "Fresh, personalized dog food delivered to your door with 50% off your first box.",
+      "amazonUrl": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "category": "Food & Drink",
+      "url": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "technology",
+    "politics",
+    "psychology",
+    "science"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$3 million"
+}

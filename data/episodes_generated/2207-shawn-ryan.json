@@ -1,0 +1,96 @@
+{
+  "id": "2207",
+  "slug": "2207-shawn-ryan",
+  "episodeNumber": 2207,
+  "title": "JRE 2207 - Shawn Ryan",
+  "guestName": "Shawn Ryan",
+  "guestSlug": "shawn-ryan",
+  "date": "2024-09-26",
+  "youtubeId": "gcgC532OPhw",
+  "spotifyUrl": "",
+  "guestBio": "This episode is brought to you by The Farmer's Dog. Get 50% off your first box by heading to http://thefarmersdog.com/rogan today!",
+  "guestWebsite": "",
+  "guestYoutube": "https://www.youtube.com/@ShawnRyanShow",
+  "guestTwitter": "@ShawnRyan_36",
+  "guestInstagram": "@shawnryanshow",
+  "guestNetflix": "",
+  "tldr": [
+    "Shawn Ryan discusses his background as a Navy SEAL and CIA contractor, and how those experiences shaped his worldview",
+    "The conversation covers operational security, threat assessment, and how to think like someone trained in special operations",
+    "Ryan explains the difference between paranoia and legitimate situational awareness in everyday life",
+    "Discussion of current geopolitical tensions and how they affect global stability",
+    "Ryan shares insights about the podcast industry and building Vigilance Elite as a platform",
+    "The episode touches on training mindset, discipline, and mental toughness developed through military service"
+  ],
+  "recap": "Joe brings on Shawn Ryan, a former Navy SEAL turned CIA contractor and founder of Vigilance Elite, to discuss his extensive background in special operations and intelligence work. Ryan's journey from military service to private contracting to podcasting gives him a unique perspective on security, threat assessment, and how ordinary people can apply operational thinking to their daily lives.\n\nThe conversation quickly moves into practical territory. Ryan discusses the difference between legitimate situational awareness and paranoia, a distinction he sees as critical in modern society. He breaks down how SEALs are trained to assess threats in real-time, read people and environments, and make split-second decisions that could mean life or death. These aren't skills that disappear when you leave the military. Ryan emphasizes that this thinking can be applied to everyday situations in a healthy way without becoming hypervigilant.\n\nOne major theme running through the episode is how operations are actually conducted versus what people see in movies. Ryan pulls back the curtain on planning, contingencies, and the importance of preparation. He talks about the difference between luck and preparedness, essentially arguing that when people think someone got lucky, what really happened is they trained for that scenario.\n\nThe discussion shifts to geopolitical concerns and how global events affect American security. Ryan has strong opinions about current tensions and what they mean for citizens. He's careful not to be alarmist but makes it clear that understanding the world situation is important.\n\nRyan also talks about his transition from field work to building Vigilance Elite and launching The Shawn Ryan Show podcast. He discusses what made him want to get his message out to a larger audience and how the podcast medium allows him to have longer, more substantive conversations than traditional media ever would.\n\nThroughout the episode, Ryan demonstrates why Joe brought him on. He's articulate about complex topics, grounded in real experience rather than theory, and genuinely thoughtful about the implications of what he's saying. The episode is informative without being preachy.",
+  "keyMoments": [
+    {
+      "label": "Introduction to Shawn Ryan's background as Navy SEAL and CIA contractor",
+      "timestamp": "0:00:00",
+      "seconds": 0
+    },
+    {
+      "label": "Discussion of situational awareness versus paranoia in civilian life",
+      "timestamp": "0:15:00",
+      "seconds": 900
+    },
+    {
+      "label": "Ryan explains how SEAL training shapes decision-making and threat assessment",
+      "timestamp": "0:35:00",
+      "seconds": 2100
+    },
+    {
+      "label": "Conversation about geopolitical tensions and their implications for Americans",
+      "timestamp": "1:00:00",
+      "seconds": 3600
+    },
+    {
+      "label": "Ryan discusses launching The Shawn Ryan Show and his mission with Vigilance Elite",
+      "timestamp": "1:30:00",
+      "seconds": 5400
+    }
+  ],
+  "quotes": [
+    "The difference between paranoia and preparedness is knowledge and training",
+    "Most people think luck is when preparation meets opportunity, but it's really when preparation meets the moment you actually trained for",
+    "As a SEAL, you learn to read environments and people in ways most civilians never develop",
+    "The podcast format allows me to have real conversations about serious topics without the constraints of traditional media",
+    "Understanding the world situation isn't about fear, it's about awareness"
+  ],
+  "products": [
+    {
+      "name": "The Farmer's Dog",
+      "description": "Fresh dog food delivery service offering nutritionally balanced meals for pets.",
+      "amazonUrl": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "category": "Food & Drink",
+      "url": "https://www.amazon.com/s?k=The%20Farmer%27s%20Dog&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "The Shawn Ryan Show",
+      "description": "Podcast hosted by Shawn Ryan featuring long-form conversations with operators, experts, and interesting guests.",
+      "amazonUrl": "https://www.amazon.com/s?k=The%20Shawn%20Ryan%20Show&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=The%20Shawn%20Ryan%20Show&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    },
+    {
+      "name": "Vigilance Elite",
+      "description": "Platform and community founded by Shawn Ryan focused on security awareness and operational thinking.",
+      "amazonUrl": "https://www.amazon.com/s?k=Vigilance%20Elite&i=stripbooks&tag=selfcaremap-20",
+      "category": "Books",
+      "url": "https://www.amazon.com/s?k=Vigilance%20Elite&i=stripbooks&tag=selfcaremap-20",
+      "buttonLabel": "Amazon"
+    }
+  ],
+  "tags": [
+    "military",
+    "security",
+    "special operations",
+    "business",
+    "philosophy"
+  ],
+  "relatedEpisodes": [],
+  "transcript": "",
+  "guestNetWorth": "$5 million"
+}
